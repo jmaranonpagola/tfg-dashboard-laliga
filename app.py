@@ -1446,6 +1446,10 @@ def browser_executable_for_pdf() -> str | None:
         shutil.which("chromium-browser"),
         shutil.which("microsoft-edge"),
         shutil.which("msedge"),
+        "/usr/bin/google-chrome",
+        "/usr/bin/google-chrome-stable",
+        "/usr/bin/chromium",
+        "/usr/bin/chromium-browser",
         r"C:\Program Files\Google\Chrome\Application\chrome.exe",
         r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
         r"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
@@ -1462,7 +1466,7 @@ def browser_executable_for_pdf() -> str | None:
 def html_to_pdf_bytes(document: str) -> bytes:
     browser = browser_executable_for_pdf()
     if not browser:
-        raise RuntimeError("No encuentro Chrome o Edge para convertir el informe HTML a PDF.")
+        raise RuntimeError("No encuentro Chrome, Edge o Chromium para convertir el informe HTML a PDF.")
     with tempfile.TemporaryDirectory() as tmp_dir:
         tmp_path = Path(tmp_dir)
         html_path = tmp_path / "report.html"
@@ -1472,6 +1476,8 @@ def html_to_pdf_bytes(document: str) -> bytes:
             browser,
             "--headless",
             "--disable-gpu",
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
             "--no-pdf-header-footer",
             f"--print-to-pdf={pdf_path}",
             html_path.as_uri(),
