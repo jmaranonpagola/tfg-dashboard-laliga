@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "AlumnoOsasuna",
+      "created_at": "2026-05-19T00:00:00+00:00",
+      "algorithm": "pbkdf2_sha256",
+      "iterations": 200000,
+      "salt": "69d99960831be46b8db0d201b644764e",
+      "password_hash": "5a8ba843f51a4d762ba47c0a2c4fd794eb41932ab4b909c9fd82fcea0288d601"
+    }
+  ]
+}

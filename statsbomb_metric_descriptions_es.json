@@ -1,0 +1,1268 @@
+{
+  "player_id": {
+    "raw_column": "player_id",
+    "type": "integer",
+    "description": "La identificación del jugador.",
+    "description_en": "The id of the player"
+  },
+  "Name": {
+    "raw_column": "player_name",
+    "type": "string",
+    "description": "El nombre completo del jugador.",
+    "description_en": "The full name of the player"
+  },
+  "team_id": {
+    "raw_column": "team_id",
+    "type": "integer",
+    "description": "La identificación del equipo.",
+    "description_en": "The id of the team"
+  },
+  "Team": {
+    "raw_column": "team_name",
+    "type": "string",
+    "description": "El nombre completo del equipo.",
+    "description_en": "The full name of the team"
+  },
+  "competition_id": {
+    "raw_column": "competition_id",
+    "type": "integer",
+    "description": "La identificación de la competencia.",
+    "description_en": "The id of the competition"
+  },
+  "Competition": {
+    "raw_column": "competition_name",
+    "type": "string",
+    "description": "El título del concurso.",
+    "description_en": "The title of the competition"
+  },
+  "season_id": {
+    "raw_column": "season_id",
+    "type": "integer",
+    "description": "La identificación de la temporada.",
+    "description_en": "The id of the season"
+  },
+  "Season": {
+    "raw_column": "season_name",
+    "type": "string",
+    "description": "Una descripción de la temporada (por ejemplo, “2020/2021ˮ)",
+    "description_en": "A description of the season (e.g. “2020/2021ˮ)"
+  },
+  "country_id": {
+    "raw_column": "country_id",
+    "type": "integer",
+    "description": "La identificación del país en el que se desarrolló la temporada de competición.",
+    "description_en": "The id of the country the competition season was in"
+  },
+  "Date of Birth": {
+    "raw_column": "birth_date",
+    "type": "date",
+    "description": "La fecha de nacimiento del jugador.",
+    "description_en": "The date of birth of the player"
+  },
+  "Gender": {
+    "raw_column": "player_female",
+    "type": "boolean",
+    "description": "Si el jugador juega en un equipo femenino.",
+    "description_en": "Whether the player plays in a female team"
+  },
+  "player_weight": {
+    "raw_column": "player_weight",
+    "type": "double",
+    "description": "El peso del jugador en kg.",
+    "description_en": "The weight of the player in kg"
+  },
+  "Height": {
+    "raw_column": "player_height",
+    "type": "integer",
+    "description": "La altura del jugador en cm.",
+    "description_en": "The height of the player in cm"
+  },
+  "Minutes": {
+    "raw_column": "player_season_minutes",
+    "type": "integer",
+    "description": "Número de minutos jugados esta temporada. Este valor se utiliza para calcular todos los demás valores de estadísticas según 90.",
+    "description_en": "The number of minutes played this season. This value is used to calculate all other stat values as per-90."
+  },
+  "xG/Shot": {
+    "raw_column": "player_season_np_xg_per_shot",
+    "type": "double",
+    "description": "Una medida de la calidad del tiro, que analiza el valor promedio de gol esperado sin penalti por tiro que realiza un jugador.",
+    "description_en": "A measure of shot quality, this looks at the average non-penalty expected goal value per shot a player takes."
+  },
+  "xG": {
+    "raw_column": "player_season_np_xg_90",
+    "type": "double",
+    "description": "Goles esperados sin penalti producidos por el jugador.",
+    "description_en": "Non-penalty expected goals produced by the player."
+  },
+  "Shots": {
+    "raw_column": "player_season_np_shots_90",
+    "type": "double",
+    "description": "Número de tiros sin penaltis que realiza un jugador.",
+    "description_en": "Number of non-penalty shots a player takes."
+  },
+  "All Goals": {
+    "raw_column": "player_season_goals_90",
+    "type": "double",
+    "description": "Todos los goles marcados por el jugador, incluidos los penales.",
+    "description_en": "All goals scored by the player, including penalties."
+  },
+  "Scoring Contribution": {
+    "raw_column": "player_season_npga_90",
+    "type": "double",
+    "description": "Goles y asistencias sin penalti. Una medida combinada de la contribución directa al gol de un jugador a través de goles o asistencias.",
+    "description_en": "Non-penalty goals and assists. A combined measure of the direct goal contribution of a player via goalscoring or goal assisting"
+  },
+  "xG Assisted": {
+    "raw_column": "player_season_xa_90",
+    "type": "double",
+    "description": "xG asistió. Esto se calcula a partir del valor de gol esperado del tiro asistido.",
+    "description_en": "xG assisted. This is calculated from the expected goal value of the assisted shot"
+  },
+  "Key Passes": {
+    "raw_column": "player_season_key_passes_90",
+    "type": "double",
+    "description": "Pases que crean tiros para los compañeros. También puede considerarse como \"asistencias de tiro\" o \"oportunidades creadas\".",
+    "description_en": "Passes that create shots for teammates. Can also be seen to be referred to as \"shot assists\" or \"chances created\""
+  },
+  "OP Key Passes": {
+    "raw_column": "player_season_op_key_passes_90",
+    "type": "double",
+    "description": "Pases que crean tiros para los compañeros de equipo, solo desde el juego abierto.",
+    "description_en": "Passes that create shots for teammates, just from open play"
+  },
+  "Assists": {
+    "raw_column": "player_season_assists_90",
+    "type": "double",
+    "description": "Número de asistencias.",
+    "description_en": "Number of assists."
+  },
+  "Throughballs": {
+    "raw_column": "player_season_through_balls_90",
+    "type": "double",
+    "description": "Un pase completo que divide la defensa para que un compañero de equipo corra hacia él.",
+    "description_en": "A completed pass splitting the defence for a teammate to run onto."
+  },
+  "PintoB": {
+    "raw_column": "player_season_passes_into_box_90",
+    "type": "double",
+    "description": "Pases exitosos al área desde fuera del área.",
+    "description_en": "Successful passes into box from outside the box"
+  },
+  "OP Passes Into Box": {
+    "raw_column": "player_season_op_passes_into_box_90",
+    "type": "double",
+    "description": "Pases exitosos al área desde fuera del área (juego abierto).",
+    "description_en": "Successful passes into the box from outside the box (open play)."
+  },
+  "Touches In Box": {
+    "raw_column": "player_season_touches_inside_box_90",
+    "type": "double",
+    "description": "Toques de pie exitosos dentro del área (incluidos tiros)",
+    "description_en": "Successful footed touches inside the box (including shots)"
+  },
+  "PinTin": {
+    "raw_column": "player_season_op_passes_into_and_touches_inside_box_90",
+    "type": "double",
+    "description": "Pases exitosos al área desde fuera del área (juego abierto) y toques dentro del área combinados",
+    "description_en": "Successful passes into the box from outside the box (open play) and touches inside the box combined"
+  },
+  "Tackles": {
+    "raw_column": "player_season_tackles_90",
+    "type": "double",
+    "description": "Retos exitosos realizados.",
+    "description_en": "Successful challenges made."
+  },
+  "Interceptions": {
+    "raw_column": "player_season_interceptions_90",
+    "type": "double",
+    "description": "Número de intercepciones.",
+    "description_en": "Number of interceptions."
+  },
+  "Tack&Int": {
+    "raw_column": "player_season_tackles_and_interceptions_90",
+    "type": "double",
+    "description": "Combinación de tacleadas e intercepciones.",
+    "description_en": "Combination of tackles and interceptions"
+  },
+  "PAdj Tackles": {
+    "raw_column": "player_season_padj_tackles_90",
+    "type": "double",
+    "description": "Número de entradas ajustado proporcionalmente al volumen de posesión de un equipo",
+    "description_en": "Number of tackles adjusted proportionally to the possession volume of a team"
+  },
+  "PAdj Interceptions": {
+    "raw_column": "player_season_padj_interceptions_90",
+    "type": "double",
+    "description": "Número de intercepciones ajustado proporcionalmente al volumen de posesión de un equipo",
+    "description_en": "Number of interceptions adjusted proportionally to the possession volume of a team"
+  },
+  "PAdj Tack&Int": {
+    "raw_column": "player_season_padj_tackles_and_interceptions_90",
+    "type": "double",
+    "description": "Número de tacleadas e intercepciones ajustado proporcionalmente al volumen de posesión de un equipo",
+    "description_en": "Number of tackles and interceptions adjusted proportionally to the possession volume of a team"
+  },
+  "Tack/DP%": {
+    "raw_column": "player_season_challenge_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de veces que un jugador hace una entrada cuando va a un duelo frente a cuando lo regatean.",
+    "description_en": "Percentage of time a player makes a tackle when going into a duel vs getting dribbled past."
+  },
+  "Successful Dribbles": {
+    "raw_column": "player_season_dribbles_90",
+    "type": "double",
+    "description": "¿Con qué frecuencia un jugador regatea con éxito a un oponente?",
+    "description_en": "How often a player successfully dribbles past an opponent"
+  },
+  "Fouls": {
+    "raw_column": "player_season_fouls_90",
+    "type": "double",
+    "description": "Cuantas faltas comete un jugador",
+    "description_en": "How many fouls a player commits"
+  },
+  "Dribbled Past": {
+    "raw_column": "player_season_dribbled_past_90",
+    "type": "double",
+    "description": "Con qué frecuencia un jugador falla un desafío y es regateado.",
+    "description_en": "How often a player fails a challenge and is dribbled past."
+  },
+  "Dispossessed": {
+    "raw_column": "player_season_dispossessions_90",
+    "type": "double",
+    "description": "Número de veces que un jugador pierde el balón al ser tackleado.",
+    "description_en": "Number of times a player loses the ball by getting tackled."
+  },
+  "Long Ball%": {
+    "raw_column": "player_season_long_ball_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de intentos de balones largos que realmente se completan.",
+    "description_en": "Percentage of attempted long balls that are actually completed."
+  },
+  "Long Balls": {
+    "raw_column": "player_season_long_balls_90",
+    "type": "double",
+    "description": "Número de balones largos completados",
+    "description_en": "Number of completed long balls"
+  },
+  "Blocks/Shot": {
+    "raw_column": "player_season_blocks_per_shot",
+    "type": "double",
+    "description": "Bloqueos realizados por tiro encarado.",
+    "description_en": "Blocks made per shot faced."
+  },
+  "Clearances": {
+    "raw_column": "player_season_clearance_90",
+    "type": "double",
+    "description": "Número de despejes realizados por un jugador.",
+    "description_en": "Number of clearances made by a player."
+  },
+  "Aerial Win%": {
+    "raw_column": "player_season_aerial_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de duelos aéreos en los que entra un jugador que gana",
+    "description_en": "Percentage of aerial duels a player enters that they win"
+  },
+  "Aerial Wins": {
+    "raw_column": "player_season_aerial_wins_90",
+    "type": "double",
+    "description": "Número de duelos aéreos que gana un jugador.",
+    "description_en": "Number of aerial duels a player wins."
+  },
+  "OP Passes": {
+    "raw_column": "player_season_op_passes_90",
+    "type": "double",
+    "description": "Número de pases intentados en juego abierto.",
+    "description_en": "Number of attempted passes in open play."
+  },
+  "Pass Forward%": {
+    "raw_column": "player_season_forward_pass_proportion",
+    "type": "percentage",
+    "description": "Proporción de pases de un jugador que son en ángulo hacia adelante. Hacia adelante se define como el arco del círculo de 11π/6 a π/6, del círculo 0-2π; ángulo-0 significa un cambio de 0 en la coordenada y (es decir, hacia la línea de meta del oponente)",
+    "description_en": "Proportion of a player's passes that are angled forwards. Forwards is defined as the arc of the circle from 11π/6 to π/6, of the circle 0-2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+  },
+  "Pass Backward%": {
+    "raw_column": "player_season_backward_pass_proportion",
+    "type": "percentage",
+    "description": "Proporción de pases de un jugador que son en ángulo hacia atrás. Hacia atrás se define como el arco del círculo de 5π/6 a 7π/6, del círculo 0-2π; ángulo-0 significa un cambio de 0 en la coordenada y (es decir, hacia la línea de meta del oponente)",
+    "description_en": "Proportion of a player's passes that are angled backwards. Backwards is defined as the arc of the circle from 5π/6 to 7π/6, of the circle 0-2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+  },
+  "Pass Sideways%": {
+    "raw_column": "player_season_sideways_pass_proportion",
+    "type": "percentage",
+    "description": "Proporción de pases de un jugador que tienen un ángulo lateral. De lado se define como el arco del círculo de π/6 a 5π/6, y de 7π/6 a 11π/6, del círculo 0-2π,; ángulo-0 significa un cambio de 0 en la coordenada y (es decir, hacia la línea de meta del oponente)",
+    "description_en": "Proportion of a player's passes that are angled sideways. Sideways is defined as the arc of the circle from π/6 to 5π/6, and from 7π/6 to 11π/6, of the circle 0-2π,; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+  },
+  "OP F3 Passes": {
+    "raw_column": "player_season_op_f3_passes_90",
+    "type": "double",
+    "description": "Pases exitosos del último tercio en juego abierto.",
+    "description_en": "Successful open play final third passes."
+  },
+  "F3 Pass Forward%": {
+    "raw_column": "player_season_op_f3_forward_pass_proportion",
+    "type": "percentage",
+    "description": "Proporción de pases de un jugador en el último tercio que son en ángulo hacia adelante. Hacia adelante se define como el arco del círculo de 11π/6 a π/6, del círculo 0-2π; ángulo-0 significa un cambio de 0 en la coordenada y (es decir, hacia la línea de meta del oponente)",
+    "description_en": "Proportion of a player's passes in the final third that are angled forwards. Forwards is defined as the arc of the circle from 11π/6 to π/6, of the circle 0-2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+  },
+  "F3 Pass Sideways%": {
+    "raw_column": "player_season_op_f3_backward_pass_proportion",
+    "type": "percentage",
+    "description": "Proporción de pases de un jugador en el último tercio que están en ángulo hacia atrás. Hacia atrás se define como el arco del círculo de 5π/6 a 7π/6, del círculo 0-2π; ángulo-0 significa un cambio de 0 en la coordenada y (es decir, hacia la línea de meta del oponente)",
+    "description_en": "Proportion of a player's passes in the final third that are angled backwards. Backwards is defined as the arc of the circle from 5π/6 to 7π/6, of the circle 0-2π; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+  },
+  "F3 Pass Backward%": {
+    "raw_column": "player_season_op_f3_sideways_pass_proportion",
+    "type": "percentage",
+    "description": "Proporción de pases de un jugador en el último tercio que tienen un ángulo lateral. De lado se define como el arco del círculo de π/6 a 5π/6, y de 7π/6 a 11π/6, del círculo 0-2π,; ángulo-0 significa un cambio de 0 en la coordenada y (es decir, hacia la línea de meta del oponente)",
+    "description_en": "Proportion of a player's passes in the final third that are angled sideways. Sideways is defined as the arc of the circle from π/6 to 5π/6, and from 7π/6 to 11π/6, of the circle 0-2π,; angle-0 means a 0 change in y-coordinate (i.e. towards the opponent's goal line)"
+  },
+  "Shooting%": {
+    "raw_column": "player_season_shot_on_target_ratio",
+    "type": "percentage",
+    "description": "El porcentaje de tiros totales de un jugador que van a portería (incluye goles, salvados y despejados fuera de línea).",
+    "description_en": "The percentage of total shots by a player that are on target (includes goals, saved, and cleared off line)."
+  },
+  "Passing%": {
+    "raw_column": "player_season_passing_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de todos los pases intentados que se completaron.",
+    "description_en": "Percentage of all passes attempted that were completed."
+  },
+  "Goal Conversion%": {
+    "raw_column": "player_season_conversion_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de tiros que no son de penalti que realiza un jugador y que se convierten en goles.",
+    "description_en": "Percentage of non-penalty shots a player takes that are converted into goals."
+  },
+  "NP Goals": {
+    "raw_column": "player_season_npg_90",
+    "type": "double",
+    "description": "Goles marcados (sin incluir penales).",
+    "description_en": "Goals scored (not including penalties)."
+  },
+  "Successful Crosses": {
+    "raw_column": "player_season_crosses_90",
+    "type": "double",
+    "description": "Cruces completadas.",
+    "description_en": "Completed crosses."
+  },
+  "Crossing%": {
+    "raw_column": "player_season_crossing_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de intentos de centros exitosos y recibidos por un compañero de equipo",
+    "description_en": "Percentage of attempted crosses that are successful and received by a teammate"
+  },
+  "Penalty Wins": {
+    "raw_column": "player_season_penalty_wins_90",
+    "type": "double",
+    "description": "Número de penaltis ganados.",
+    "description_en": "Number of penalties won."
+  },
+  "PAdj Clearances": {
+    "raw_column": "player_season_padj_clearances_90",
+    "type": "double",
+    "description": "Número de despejes ajustado proporcionalmente al volumen de posesión de un equipo",
+    "description_en": "Number of clearances adjusted proportionally to the possession volume of a team"
+  },
+  "Passes Inside Box": {
+    "raw_column": "player_season_passes_inside_box_90",
+    "type": "double",
+    "description": "Pases completados dentro del área.",
+    "description_en": "Passes completed inside the box."
+  },
+  "xGChain": {
+    "raw_column": "player_season_xgchain_90",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession."
+  },
+  "OP xGChain": {
+    "raw_column": "player_season_op_xgchain",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession."
+  },
+  "xGBuildup": {
+    "raw_column": "player_season_xgbuildup",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión. La versión de preparación omite xG y xG Assisted para centrarse en el trabajo de posesión antes del final de la cadena.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession. The buildup version omits xG and xG Assisted to focus on possession work prior to the end of the chain"
+  },
+  "OP xGBuildup": {
+    "raw_column": "player_season_op_xgbuildup",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión. La versión de preparación omite xG y xG Assisted para centrarse en el trabajo de posesión antes del final de la cadena.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession. The buildup version omits xG and xG Assisted to focus on possession work prior to the end of the chain"
+  },
+  "OP xG Assisted": {
+    "raw_column": "player_season_op_xa_90",
+    "type": "double",
+    "description": "xG asistió desde el juego abierto.",
+    "description_en": "xG assisted from open play."
+  },
+  "OP Assists": {
+    "raw_column": "player_season_op_assists_90",
+    "type": "double",
+    "description": "Número de asistencias en juego abierto.",
+    "description_en": "Number of assists from open play."
+  },
+  "xGChain Total": {
+    "raw_column": "player_season_xgchain",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession."
+  },
+  "xGCgain/Possession": {
+    "raw_column": "player_season_xgchain_per_possession",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession."
+  },
+  "OP xGCgain/Possession": {
+    "raw_column": "player_season_op_xgchain_per_possession",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession."
+  },
+  "xGBuildup/Possession": {
+    "raw_column": "player_season_xgbuildup_per_possession",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión. La versión de preparación omite xG y xG Assisted para centrarse en el trabajo de posesión antes del final de la cadena.",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession. The buildup version omits xG and xG Assisted to focus on possession work prior to the end of the chain"
+  },
+  "OP xGBuildup/Possession": {
+    "raw_column": "player_season_op_xgbuildup_per_possession",
+    "type": "double",
+    "description": "Un modelo que atribuye el valor xG del tiro final a todos los jugadores implicados en toda la posesión. La versión de acumulación omite xG",
+    "description_en": "A model that attributes the xG value of the final shot to all players involved in the entire possession. The buildup version omits xG"
+  },
+  "Primary Position": {
+    "raw_column": "primary_position",
+    "type": "integer",
+    "description": "La posición primaria",
+    "description_en": "The primary position"
+  },
+  "Secondary Position": {
+    "raw_column": "secondary_position",
+    "type": "integer",
+    "description": "La posición secundaria",
+    "description_en": "The secondary position"
+  },
+  "Pr. Long Balls": {
+    "raw_column": "player_season_pressured_long_balls_90",
+    "type": "double",
+    "description": "Número de despejes o balones largos intentados bajo presión.",
+    "description_en": "Number of clearances or long balls attempted while under pressure."
+  },
+  "UPr. Long Balls": {
+    "raw_column": "player_season_unpressured_long_balls_90",
+    "type": "double",
+    "description": "Veces que un jugador juega un balón largo sin estar bajo presión",
+    "description_en": "Times a player plays a long ball while not under pressure"
+  },
+  "Aggressive Actions": {
+    "raw_column": "player_season_aggressive_actions_90",
+    "type": "double",
+    "description": "Entradas, eventos de presión y faltas registradas dentro de los 2 segundos posteriores a la recepción del balón del oponente",
+    "description_en": "Tackles, pressure events and fouls recorded within 2 seconds of an opposition ball receipt"
+  },
+  "Pressures": {
+    "raw_column": "player_season_pressures_90",
+    "type": "double",
+    "description": "La cantidad de veces que un jugador presiona a un jugador contrario.",
+    "description_en": "The number of times a player pressures an opposition player."
+  },
+  "Turnovers": {
+    "raw_column": "player_season_turnovers_90",
+    "type": "double",
+    "description": "Con qué frecuencia un jugador pierde el balón por un mal control o un regate fallido.",
+    "description_en": "How often a player loses the ball via a miscontrol or a failed dribble."
+  },
+  "Pressure Regains": {
+    "raw_column": "player_season_pressure_regains_90",
+    "type": "double",
+    "description": "Veces que el equipo de un jugador recuperó el balón dentro de los 5 segundos posteriores a que el jugador presionó a un oponente.",
+    "description_en": "Times a player’s team won the ball back within 5 seconds of the player pressuring an opponent."
+  },
+  "Successful Box Cross%": {
+    "raw_column": "player_season_box_cross_ratio",
+    "type": "percentage",
+    "description": "¿Qué porcentaje de los pases completos de un jugador al área son centros? Consulte Especificación de eventos para obtener detalles sobre la definición de ubicaciones cruzadas.",
+    "description_en": "What percentage of a player's completed passes into the box are crosses. See Event Specification for details of cross location definition."
+  },
+  "SP xG Assisted": {
+    "raw_column": "player_season_sp_xa_90",
+    "type": "double",
+    "description": "xG asistió en jugadas a balón parado",
+    "description_en": "xG assisted from set pieces"
+  },
+  "Shot Touch%": {
+    "raw_column": "player_season_shot_touch_ratio",
+    "type": "percentage",
+    "description": "La cantidad de tiros que realiza un jugador en proporción a sus toques de balón.",
+    "description_en": "The amount of shots a player takes as a proportion of their touches of the ball."
+  },
+  "Deep Progressions": {
+    "raw_column": "player_season_deep_progressions_90",
+    "type": "double",
+    "description": "Pasa y dribla/lleva hacia el último tercio del oponente.",
+    "description_en": "Passes and dribbles/carries into the opposition final third."
+  },
+  "Fouls Won": {
+    "raw_column": "player_season_fouls_won_90",
+    "type": "double",
+    "description": "Cuántas veces se comete falta a un jugador.",
+    "description_en": "How many times a player is fouled."
+  },
+  "All Shots Faced": {
+    "raw_column": "player_season_shots_faced_90",
+    "type": "double",
+    "description": "Recuento de todos los tiros encarados por el portero (incluidos los tiros desviados).",
+    "description_en": "Count of all shots faced by the goalkeeper (including off-target shots.)"
+  },
+  "Goals Conceded": {
+    "raw_column": "player_season_goals_faced_90",
+    "type": "double",
+    "description": "Recuento de todos los goles encajados por el portero.",
+    "description_en": "Count of all goals conceded by the goalkeeper."
+  },
+  "xG Faced": {
+    "raw_column": "player_season_np_xg_faced_90",
+    "type": "double",
+    "description": "xG total de todos los tiros no penales afrontados (incluidos los tiros desviados)",
+    "description_en": "Total xG from all non-penalty shots faced (including off target shots)"
+  },
+  "PSxG Faced": {
+    "raw_column": "player_season_np_psxg_faced_90",
+    "type": "double",
+    "description": "Los goles esperados afrontados en el poste",
+    "description_en": "The post shot expected goals faced"
+  },
+  "Save%": {
+    "raw_column": "player_season_save_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de tiros a puerta que detuvo el portero.",
+    "description_en": "Percentage of on-target shots that were saved by the goalkeeper."
+  },
+  "xSv%": {
+    "raw_column": "player_season_xs_ratio",
+    "type": "percentage",
+    "description": "Dado el xG posterior al tiro (modelado desde la ubicación en el cuadro) de los tiros enfrentados por el portero, ¿qué porcentaje esperaríamos que atajaran?",
+    "description_en": "Given the post-shot xG (modelled from on frame location) of shots faced by the goalkeeper what % would we expect them to save?"
+  },
+  "GSAA": {
+    "raw_column": "player_season_gsaa_90",
+    "type": "double",
+    "description": "¿Cuántos goles salvó/concedió el portero en comparación con las expectativas (xG enfrentados después del disparo)? Esto es representativo de cuántos goles evitaron las paradas del portero en una temporada.",
+    "description_en": "How many goals did the keeper save/concede versus expectation (post-shot xG faced)? This is representative of how many goals the goalkeeper's saves prevented within a season."
+  },
+  "Shot Stopping%": {
+    "raw_column": "player_season_gsaa_ratio",
+    "type": "percentage",
+    "description": "La medida de goles salvados por encima de la media, como porcentaje de tiros afrontados por el portero.",
+    "description_en": "The measure of goals saved above average, as a percentage of shots faced by the goalkeeper."
+  },
+  "L/R Footedness%": {
+    "raw_column": "player_season_left_foot_ratio",
+    "type": "percentage",
+    "description": "Proporción de pases realizados por este jugador con el pie izquierdo. Se puede considerar a un jugador zurdo cuando este valor sea superior al 60% (y diestro cuando sea inferior al 40%).",
+    "description_en": "Proportion of footed passes made by this player with their left foot. Players can be considered left-footed when this value is over 60% (and right-footed at less than 40%-."
+  },
+  "Passes Pressured%": {
+    "raw_column": "player_season_pressured_passing_ratio",
+    "type": "percentage",
+    "description": "Proporción de pases presionados que se completaron",
+    "description_en": "Proportion of pressured passes that were completed"
+  },
+  "Pr. Pass%": {
+    "raw_column": "player_season_passes_pressed_ratio",
+    "type": "percentage",
+    "description": "Proporción de pases realizados bajo presión del oponente",
+    "description_en": "Proportion of passes that were made while under opponent pressure"
+  },
+  "Pass Length": {
+    "raw_column": "player_season_pass_length",
+    "type": "double",
+    "description": "Longitud media de pase.",
+    "description_en": "Average pass length."
+  },
+  "Succ. Pass Length": {
+    "raw_column": "player_season_s_pass_length",
+    "type": "double",
+    "description": "Longitud promedio de pases completados.",
+    "description_en": "Average pass length of completed passes."
+  },
+  "Pr. Pass Length": {
+    "raw_column": "player_season_p_pass_length",
+    "type": "double",
+    "description": "Longitud media de pasadas realizadas bajo presión.",
+    "description_en": "Average pass length of passes made under pressure."
+  },
+  "Succ.Pr. Pass Length": {
+    "raw_column": "player_season_ps_pass_length",
+    "type": "double",
+    "description": "Longitud de los pases exitosos realizados bajo presión.",
+    "description_en": "Pass length of successful passes made under pressure."
+  },
+  "Shots Faced": {
+    "raw_column": "player_season_ot_shots_faced_90",
+    "type": "double",
+    "description": "Conteo de remates a puerta afrontados por el portero.",
+    "description_en": "Count of on-target shots faced by the goalkeeper."
+  },
+  "NPOT PSxG Faced": {
+    "raw_column": "player_season_npot_psxg_faced_90",
+    "type": "double",
+    "description": "xG total posterior al disparo de tiros a puerta afrontados por el portero, según lo previsto a partir de un modelo entrenado y calibrado de solo tiros a puerta. Sanciones no incluidas.",
+    "description_en": "Total post-shot xG of on-target shots faced by the goalkeeper, as predicted from a trained and calibrated model of only shots on target. Penalties not included."
+  },
+  "Shots Faced OT%": {
+    "raw_column": "player_season_ot_shots_faced_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de tiros acertados del portero.",
+    "description_en": "Percentage of shots faced by the goalkeeper that were on-target."
+  },
+  "Positioning Error": {
+    "raw_column": "player_season_np_optimal_gk_dlength",
+    "type": "double",
+    "description": "Qué tan lejos está el portero (en promedio) de la posición óptima para afrontar un tiro. Esta métrica se modela a partir de un punto de partida de la ubicación promedio de los porteros de 20",
+    "description_en": "How far from the optimal position for facing a shot the Goalkeeper is (on average). This metric is modelled from a starting point of the average location of goalkeepers from 20"
+  },
+  "Claims%": {
+    "raw_column": "player_season_clcaa",
+    "type": "percentage",
+    "description": "Claims o CCAA% (intentos de cobro reclamables sobre el promedio), es una medida de la probabilidad de que el portero intente reclamar un pase \"reclamable\", frente a la tasa promedio de intentos de reclamo del portero.",
+    "description_en": "Claims or CCAA% -Claimable Collection Attempts over Average), is a measure of how likely the goalkeeper is to attempt to claim a \"claimable\" pass, versus the average goalkeeper attempted claim rate."
+  },
+  "Pass into Pressure%": {
+    "raw_column": "player_season_pass_into_pressure_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de pases realizados donde el destinatario estaba bajo presión",
+    "description_en": "Percentage of passes made where the recipient was under pressure"
+  },
+  "Pass into Danger%": {
+    "raw_column": "player_season_pass_into_danger_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de pases realizados en los que se consideró que el receptor estaba bajo presión o fue el siguiente en realizar una acción defensiva",
+    "description_en": "Percentage of passes made where the recipient was deemed to be under pressure or was next engaged with a defensive action"
+  },
+  "GK Aggressive Dist.": {
+    "raw_column": "player_season_da_aggressive_distance",
+    "type": "double",
+    "description": "Un valor promedio de qué tan lejos de la portería se acerca el portero para realizar acciones defensivas.",
+    "description_en": "An average value of how far from the goal the goalkeeper is coming forward to perform defensive actions."
+  },
+  "Positive Outcome%": {
+    "raw_column": "player_season_positive_outcome_score",
+    "type": "percentage",
+    "description": "¿Con qué frecuencia el jugador participa en secuencias que se resuelven con resultado positivo dentro del terreno de juego?",
+    "description_en": "How frequently is the player involved in sequences that resolve with a positive outcome while on the pitch"
+  },
+  "Appearances": {
+    "raw_column": "player_season_appearances",
+    "type": "double",
+    "description": "El número de partidos en los que el jugador ha participado sobre el terreno de juego esta temporada (titulares y suplentes).",
+    "description_en": "The number of matches the player has participated in on-pitch this season (starts and substitute appearances)."
+  },
+  "Average Minutes": {
+    "raw_column": "player_season_average_minutes",
+    "type": "double",
+    "description": "La media de minutos jugados por partido de la temporada",
+    "description_en": "The average minutes played per match for the season"
+  },
+  "Positive Outcome": {
+    "raw_column": "player_season_positive_outcome_90",
+    "type": "double",
+    "description": "Una posesión que atravesó al jugador y resultó en un tiro, un tiro libre en campo contrario o un córner.",
+    "description_en": "A possession that connected through the player and resulted in either a shot, free kick in the attacking half or a corner"
+  },
+  "SP Assists": {
+    "raw_column": "player_season_sp_assists_90",
+    "type": "double",
+    "description": "Número de asistencias en jugadas a balón parado",
+    "description_en": "Number of assists from set pieces"
+  },
+  "SP Key Passes": {
+    "raw_column": "player_season_sp_key_passes_90",
+    "type": "double",
+    "description": "Pases que crean tiros para los compañeros de equipo, solo desde jugadas a balón parado",
+    "description_en": "Passes that create shots for teammates, just from set pieces"
+  },
+  "xG & xG Assisted": {
+    "raw_column": "player_season_npxgxa_90",
+    "type": "double",
+    "description": "xG sin penalti y xG asistido. Una medida combinada de la contribución de un jugador a los tiros a través de los tiros en sí o del pase clave antes del tiro, medida en términos de valores de gol esperados.",
+    "description_en": "Non-penalty xG and xG Assisted. A combined measure of a player's contribution to shots via shots themselves or the key pass prior to the shot, measured in terms of expected goal values"
+  },
+  "O/U Performance": {
+    "raw_column": "player_season_over_under_performance_90",
+    "type": "double",
+    "description": "Goles y asistencias por encima de las expectativas. La diferencia entre contribución goleadora (contribución real a los goles) y xG y xG asistido (contribución esperada a los goles)",
+    "description_en": "Goals and assists above expectation. The difference between scoring contribution (actual contribution to goals) and xG & xG Assisted (expected contribution to goals)"
+  },
+  "Shots & Key Passes": {
+    "raw_column": "player_season_shots_key_passes_90",
+    "type": "double",
+    "description": "Tiros sin penaltis y pases clave. Una medida combinada de la contribución de un jugador a los tiros a través de los tiros en sí o del pase clave antes del tiro.",
+    "description_en": "Non-penalty shots and key passes. A combined measure of a player's contribution to shots via shots themselves or the key pass prior to the shot"
+  },
+  "Failed Dribbles": {
+    "raw_column": "player_season_failed_dribbles_90",
+    "type": "double",
+    "description": "Número de regates intentados que no tuvieron éxito.",
+    "description_en": "Number of dribbles attempted that were unsuccessful."
+  },
+  "Dribbles": {
+    "raw_column": "player_season_total_dribbles_90",
+    "type": "double",
+    "description": "Intento del jugador de batir al adversario con el balón en los pies.",
+    "description_en": "An attempt by the player to beat the opponent with the ball at their feet"
+  },
+  "Dribble%": {
+    "raw_column": "player_season_dribble_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de regates exitosos",
+    "description_en": "Percentage of dribbles that were successful"
+  },
+  "SP PintoB": {
+    "raw_column": "player_season_sp_passes_into_box_90",
+    "type": "double",
+    "description": "Un pase al área en una situación de balón parado (tiro libre indirecto, córner, saque de banda)",
+    "description_en": "A pass into the box from a set piece situation (indirect free kick, corner, throw in)"
+  },
+  "Penalty Conversion%": {
+    "raw_column": "player_season_penalty_conversion_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de tiros de penalti que realiza un jugador y que se convierten en goles.",
+    "description_en": "Percentage of penalty shots a player takes that are converted into goals."
+  },
+  "Pass Length Ratio": {
+    "raw_column": "player_season_pass_length_ratio",
+    "type": "double",
+    "description": "Relación entre la longitud del pase completado y la longitud del pase.",
+    "description_en": "Ratio between the completed pass length and pass length."
+  },
+  "Pr. Pass Length%": {
+    "raw_column": "player_season_pressured_pass_length_ratio",
+    "type": "percentage",
+    "description": "Relación entre la longitud de la pasada completa y la longitud de la pasada realizada bajo presión",
+    "description_en": "Ratio between the completed pass length and pass length of passes made under pressure"
+  },
+  "Pr. Pass% Dif.": {
+    "raw_column": "player_season_change_in_passing_ratio",
+    "type": "percentage",
+    "description": "¿Cómo cambia el porcentaje de pase cuando está bajo presión? Esto se calcula como % de paso presionado menos % de paso.",
+    "description_en": "How does passing % change when under pressure? This is calculated as Pressured Pass % minus Pass %."
+  },
+  "Pr. Pass Length Dif.": {
+    "raw_column": "player_season_pressured_change_in_pass_length",
+    "type": "double",
+    "description": "Diferencia en la longitud del paso bajo presión. Esto se calcula como la longitud del paso bajo presión menos la longitud del paso.",
+    "description_en": "Difference in the pass length when under pressure. This is calculated as the pressured pass length minus pass length."
+  },
+  "Carries": {
+    "raw_column": "player_season_carries_90",
+    "type": "double",
+    "description": "Un jugador controla el balón en sus pies mientras se mueve o está parado.",
+    "description_en": "A player controls the ball at their feet while moving or standing still."
+  },
+  "Carry%": {
+    "raw_column": "player_season_carry_ratio",
+    "type": "percentage",
+    "description": "Porcentaje de acarreos de un jugador que tuvieron éxito.",
+    "description_en": "Percentage of a player's carries that were successful."
+  },
+  "Carry Length": {
+    "raw_column": "player_season_carry_length",
+    "type": "double",
+    "description": "Longitud media de transporte.",
+    "description_en": "Average carry length."
+  },
+  "Dribbles Stopped%": {
+    "raw_column": "player_season_dribble_faced_ratio",
+    "type": "percentage",
+    "description": "De los regates que enfrentó este jugador, ¿qué porcentaje de ellos no tuvieron éxito (se detuvieron)?",
+    "description_en": "Of the dribbles faced by this player, what % of them were unsuccessful (stopped)."
+  },
+  "Counterpressures": {
+    "raw_column": "player_season_counterpressures_90",
+    "type": "double",
+    "description": "Número de contrapresiones. Las contrapresiones son presiones ejercidas dentro de los 5 segundos posteriores a una rotación.",
+    "description_en": "Number of counterpressures. Counterpressures are pressures exerted within 5 seconds of a turnover."
+  },
+  "Yellow Cards": {
+    "raw_column": "player_season_yellow_cards_90",
+    "type": "double",
+    "description": "Cuantas tarjetas amarillas obtiene el jugador",
+    "description_en": "How many yellow cards the player obtains"
+  },
+  "2nd Yellows": {
+    "raw_column": "player_season_second_yellow_cards_90",
+    "type": "double",
+    "description": "¿Cuántas veces un jugador obtiene una segunda tarjeta amarilla?",
+    "description_en": "How many times a player obtains a second yellow card"
+  },
+  "Red Cards": {
+    "raw_column": "player_season_red_cards_90",
+    "type": "double",
+    "description": "¿Cuántas tarjetas rojas obtiene el jugador?",
+    "description_en": "How many red cards the player obtains"
+  },
+  "Errors": {
+    "raw_column": "player_season_errors_90",
+    "type": "double",
+    "description": "Cuántos errores comete el jugador por cada 90. Un error es un error con el balón que provocó un tiro.",
+    "description_en": "How many errors the player makes per 90. An error is an on the ball mistake that led to a shot."
+  },
+  "PAdj Pressures": {
+    "raw_column": "player_season_padj_pressures_90",
+    "type": "double",
+    "description": "Posesión de presiones ajustadas.",
+    "description_en": "Possession adjusted pressures."
+  },
+  "Defensive Regains": {
+    "raw_column": "player_season_defensive_action_regains_90",
+    "type": "double",
+    "description": "Veces que el equipo de un jugador recuperó el balón dentro de los 5 segundos posteriores a que el jugador realizó una acción defensiva contra un oponente.",
+    "description_en": "Times a player’s team won the ball back within 5 seconds of the player making a defensive action against an opponent."
+  },
+  "Counterpress Regains": {
+    "raw_column": "player_season_counterpressure_regains_90",
+    "type": "double",
+    "description": "Veces que el equipo de un jugador recuperó el balón dentro de los 5 segundos posteriores a que el jugador contrapresionó a un oponente.",
+    "description_en": "Times a player’s team won the ball back within 5 seconds of the player counterpressuring an opponent."
+  },
+  "Starting Appearances": {
+    "raw_column": "player_season_starting_appearances",
+    "type": "double",
+    "description": "El número de aperturas que ha realizado el jugador esta temporada.",
+    "description_en": "The number of starts the player has made this season"
+  },
+  "Average Pressure X": {
+    "raw_column": "player_season_average_x_pressure",
+    "type": "double",
+    "description": "La distancia promedio desde la línea de gol a la que el jugador presiona a los oponentes con el balón. La escala aquí es el eje x del campo, medido de 0 a 100.",
+    "description_en": "The average distance from the goal line that the player presses opponents with the ball. The scale here is the x-axis of the pitch, measured from 0-100."
+  },
+  "Pressures F2": {
+    "raw_column": "player_season_fhalf_pressures_90",
+    "type": "double",
+    "description": "Cuántas presiones está ejerciendo el jugador en la mitad contraria (final) del campo.",
+    "description_en": "How many pressures the player is exerting in the opposition (final) half of the pitch."
+  },
+  "Counterpressures F2": {
+    "raw_column": "player_season_fhalf_counterpressures_90",
+    "type": "double",
+    "description": "Cuántas contrapresiones está ejerciendo el jugador en la mitad contraria (final) del campo.",
+    "description_en": "How many counterpressures the player is exerting in the opposition (final) half of the pitch."
+  },
+  "Pressures F2%": {
+    "raw_column": "player_season_fhalf_pressures_ratio",
+    "type": "percentage",
+    "description": "Cuántas presiones está ejerciendo el jugador en la mitad contraria (final) del campo, como porcentaje de sus presiones totales.",
+    "description_en": "How many pressures the player is exerting in the opposition (final) half of the pitch, as a percentage of their total pressures."
+  },
+  "Counterpressures F2%": {
+    "raw_column": "player_season_fhalf_counterpressures_ratio",
+    "type": "percentage",
+    "description": "Cuántas contrapresiones está ejerciendo el jugador en la mitad contraria (final) del campo, como porcentaje del total de contrapresiones.",
+    "description_en": "How many counterpressures the player is exerting in the opposition (final) half of the pitch, as a percentage of their total counterpressures."
+  },
+  "Average DA X": {
+    "raw_column": "player_season_average_x_defensive_action",
+    "type": "double",
+    "description": "La distancia promedio desde la línea de gol a la que el jugador realiza con éxito una acción defensiva. La escala es el eje x del campo, medido de 0 a 100.",
+    "description_en": "The average distance from the goal line that the player successfully makes a defensive action. The scale is the x-axis of the pitch, measured from 0-100."
+  },
+  "Average Pass X": {
+    "raw_column": "player_season_average_x_pass",
+    "type": "double",
+    "description": "La distancia promedio desde la línea de gol a la que el jugador realiza un pase con éxito. La escala es el eje x del campo, medido de 0 a 100.",
+    "description_en": "The average distance from the goal line that the player successfully makes a pass. The scale is the x-axis of the pitch, measured from 0-100."
+  },
+  "Recent Match": {
+    "raw_column": "player_season_most_recent_match",
+    "type": "integer",
+    "description": "La identificación del partido más reciente.",
+    "description_en": "The id of the most recent match"
+  },
+  "90s": {
+    "raw_column": "player_season_90s_played",
+    "type": "integer",
+    "description": "Número de 90 jugados",
+    "description_en": "Number of 90s played"
+  },
+  "OBV": {
+    "raw_column": "player_season_obv_90",
+    "type": "double",
+    "description": "Valor agregado en pelota (neto) total (todos los tipos de eventos)",
+    "description_en": "On Ball Value Added (net) total (all event types)"
+  },
+  "Pass OBV": {
+    "raw_column": "player_season_obv_pass_90",
+    "type": "double",
+    "description": "Valor agregado con balón (neto) de los pases",
+    "description_en": "On Ball Value Added (net) from Passes"
+  },
+  "Shot OBV": {
+    "raw_column": "player_season_obv_shot_90",
+    "type": "double",
+    "description": "Valor agregado con bola (neto) de los tiros",
+    "description_en": "On Ball Value Added (net) from Shots"
+  },
+  "DA OBV": {
+    "raw_column": "player_season_obv_defensive_action_90",
+    "type": "double",
+    "description": "Valor añadido por balón (neto) procedente de acciones defensivas",
+    "description_en": "On Ball Value Added (net) from Defensive Actions"
+  },
+  "D&C OBV": {
+    "raw_column": "player_season_obv_dribble_carry_90",
+    "type": "double",
+    "description": "Valor agregado con balón (neto) proveniente de regates y acarreos",
+    "description_en": "On Ball Value Added (net) from Dribbles and Carries"
+  },
+  "Goalkeeper OBV": {
+    "raw_column": "player_season_obv_gk_90",
+    "type": "double",
+    "description": "Valor añadido con balón (neto) Portero",
+    "description_en": "On Ball Value Added (net) Goalkeeper"
+  },
+  "Deep Completions": {
+    "raw_column": "player_season_deep_completions_90",
+    "type": "double",
+    "description": "Número de terminaciones profundas",
+    "description_en": "Number of deep completions"
+  },
+  "Ball Recoveries": {
+    "raw_column": "player_season_ball_recoveries_90",
+    "type": "double",
+    "description": "Número de recuperaciones de balón",
+    "description_en": "Number of ball recoveries"
+  },
+  "PSxG": {
+    "raw_column": "player_season_np_psxg_90",
+    "type": "double",
+    "description": "xG posterior al tiro obtenido de tiros a puerta",
+    "description_en": "Post Shot xG earned from on-target shots"
+  },
+  "Penalties Faced": {
+    "raw_column": "player_season_penalties_faced_90",
+    "type": "double",
+    "description": "Número de sanciones enfrentadas",
+    "description_en": "Number of penalties faced"
+  },
+  "Penalties Conceded": {
+    "raw_column": "player_season_penalties_conceded_90",
+    "type": "double",
+    "description": "Número de penaltis enfrentados que resultaron en goles",
+    "description_en": "Number of penalties faced that resulted in goals"
+  },
+  "Ball Recov. F2": {
+    "raw_column": "player_season_fhalf_ball_recoveries_90",
+    "type": "double",
+    "description": "¿Cuántas recuperaciones de balón realizó el jugador en la mitad contraria (final) del campo?",
+    "description_en": "How many ball recoveries the player made in the opposition (final) half of the pitch"
+  },
+  "Average SRI": {
+    "raw_column": "player_season_average_space_received_in",
+    "type": "float",
+    "description": "Valor medio del espacio para todos los recibos de pelota.",
+    "description_en": "Average value of space for all ball receipts"
+  },
+  "Average SRI F2": {
+    "raw_column": "player_season_average_fhalf_space_received_in",
+    "type": "float",
+    "description": "Valor medio del espacio para todos los recibos de balón en la mitad del campo contrario",
+    "description_en": "Average value of space for all ball receipts in the opposition half of the pitch"
+  },
+  "Average SRI F3": {
+    "raw_column": "player_season_average_f3_space_received_in",
+    "type": "float",
+    "description": "Valor medio del espacio para todos los recibos de balón en el último tercio del campo",
+    "description_en": "Average value of space for all ball receipts in the final third of the pitch"
+  },
+  "BRIS 10m%": {
+    "raw_column": "player_season_ball_receipts_in_space_10_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón que se realizan en más de 10 m de espacio (subconjunto de categoría de 2 m y 5 m)",
+    "description_en": "Percentage of ball receipts that are made in more than 10m of space (subset of 2m & 5m category)"
+  },
+  "BRIS 2m%": {
+    "raw_column": "player_season_ball_receipts_in_space_2_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón que se realizan en más de 2m de espacio",
+    "description_en": "Percentage of ball receipts that are made in more than 2m of space"
+  },
+  "BRIS 5m%": {
+    "raw_column": "player_season_ball_receipts_in_space_5_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón que se realizan en más de 5m de espacio (subconjunto de categoría de 2m)",
+    "description_en": "Percentage of ball receipts that are made in more than 5m of space (subset of 2m category)"
+  },
+  "BRIS F2 10m%": {
+    "raw_column": "player_season_fhalf_ball_receipts_in_space_10_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón en la mitad contraria del campo que se realizan en más de 10 m de espacio (subconjunto de categoría de 2 m y 5 m)",
+    "description_en": "Percentage of ball receipts in the opposition half of the pitch that are made in more than 10m of space (subset of 2m & 5m category)"
+  },
+  "BRIS F2 2m%": {
+    "raw_column": "player_season_fhalf_ball_receipts_in_space_2_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón en la mitad contraria del campo que se realizan en más de 2 m de espacio",
+    "description_en": "Percentage of ball receipts in the opposition half of the pitch that are made in more than 2m of space"
+  },
+  "BRIS F2 5m%": {
+    "raw_column": "player_season_fhalf_ball_receipts_in_space_5_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón en la mitad contraria del campo que se realizan en más de 5 m de espacio (subconjunto de la categoría de 2 m)",
+    "description_en": "Percentage of ball receipts in the opposition half of the pitch that are made in more than 5m of space (subset of 2m category)"
+  },
+  "BRIS F3 10m%": {
+    "raw_column": "player_season_f3_ball_receipts_in_space_10_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón en el último tercio del campo que se realizan en más de 10 m de espacio (subconjunto de categoría de 2 m y 5 m)",
+    "description_en": "Percentage of ball receipts in the final third of the pitch that are made in more than 10m of space (subset of 2m & 5m category)"
+  },
+  "BRIS F3 2m%": {
+    "raw_column": "player_season_f3_ball_receipts_in_space_2_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón en el último tercio del campo que se realizan en más de 2m de espacio",
+    "description_en": "Percentage of ball receipts in the final third of the pitch that are made in more than 2m of space"
+  },
+  "BRIS F3 5m%": {
+    "raw_column": "player_season_f3_ball_receipts_in_space_5_ratio",
+    "type": "float",
+    "description": "Porcentaje de recepciones de balón en el último tercio del terreno de juego que se realizan en más de 5 m de espacio (subconjunto de la categoría de 2 m)",
+    "description_en": "Percentage of ball receipts in the final third of the pitch that are made in more than 5m of space (subset of 2m category)"
+  },
+  "LBP": {
+    "raw_column": "player_season_lbp_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea intentados en juego abierto",
+    "description_en": "Line Breaking Passes attempted in open play"
+  },
+  "LBP Completed": {
+    "raw_column": "player_season_lbp_completed_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea completados en juego abierto",
+    "description_en": "Line Breaking Passes completed in open play"
+  },
+  "LBP Completed %": {
+    "raw_column": "player_season_lbp_ratio",
+    "type": "float",
+    "description": "Porcentaje de pases de ruptura de línea que tuvieron éxito",
+    "description_en": "Percentage of Line Breaking Passes that were successful"
+  },
+  "LBP Completed F2": {
+    "raw_column": "player_season_fhalf_lbp_completed_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea completados en la mitad del campo contrario en juego abierto.",
+    "description_en": "Line Breaking Passes completed in the opposition half of the pitch in open play"
+  },
+  "LBP Completed F2%": {
+    "raw_column": "player_season_fhalf_lbp_ratio",
+    "type": "float",
+    "description": "Porcentaje de pases de ruptura de línea que tuvieron éxito en la mitad del campo contrario",
+    "description_en": "Percentage of Line Breaking Passes that were successful in the opposition half of the pitch"
+  },
+  "LBP Completed F3": {
+    "raw_column": "player_season_f3_lbp_completed_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea completados en el último tercio del campo en juego abierto.",
+    "description_en": "Line Breaking Passes completed in the final third of the pitch in open play"
+  },
+  "LBP Completed F3%": {
+    "raw_column": "player_season_f3_lbp_ratio",
+    "type": "float",
+    "description": "Porcentaje de pases de ruptura de línea que tuvieron éxito en el último tercio del campo",
+    "description_en": "Percentage of Line Breaking Passes that were successful in the final third of the pitch"
+  },
+  "LBP F2": {
+    "raw_column": "player_season_fhalf_lbp_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea intentados en la mitad del campo contrario en juego abierto",
+    "description_en": "Line Breaking Passes attempted in the opposition half of the pitch in open play"
+  },
+  "LBP F3": {
+    "raw_column": "player_season_f3_lbp_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea intentados en el último tercio del campo en juego abierto",
+    "description_en": "Line Breaking Passes attempted in the final third of the pitch in open play"
+  },
+  "LBP OBV": {
+    "raw_column": "player_season_obv_lbp_90",
+    "type": "float",
+    "description": "Pase-OBV de pases de ruptura de línea",
+    "description_en": "Pass-OBV from Line Breaking Passes"
+  },
+  "LBP OBV F2": {
+    "raw_column": "player_season_fhalf_obv_lbp_90",
+    "type": "float",
+    "description": "Pase-OBV de pases de ruptura de línea en el campo contrario",
+    "description_en": "Pass-OBV from Line Breaking Passes in opposition half"
+  },
+  "LBP OBV F3": {
+    "raw_column": "player_season_f3_obv_lbp_90",
+    "type": "float",
+    "description": "Pass-OBV de Line Breaking Passes en el último tercio",
+    "description_en": "Pass-OBV from Line Breaking Passes in final third"
+  },
+  "LBP/Pass%": {
+    "raw_column": "player_season_lbp_pass_ratio",
+    "type": "float",
+    "description": "Porcentaje de pases que rompieron la línea",
+    "description_en": "Percentage of passes that were line breaking"
+  },
+  "LBP/Pass F2%": {
+    "raw_column": "player_season_fhalf_lbp_pass_ratio",
+    "type": "float",
+    "description": "Porcentaje de pases en el campo contrario que rompieron la línea",
+    "description_en": "Percentage of passes in opposition half that were line breaking"
+  },
+  "LBP/Pass F3%": {
+    "raw_column": "player_season_f3_lbp_pass_ratio",
+    "type": "float",
+    "description": "Porcentaje de pases en el último tercio que rompieron la línea",
+    "description_en": "Percentage of passes in final third that were line breaking"
+  },
+  "LBP Received": {
+    "raw_column": "player_season_lbp_received_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea recibidos en juego abierto",
+    "description_en": "Line Breaking passes received in open play"
+  },
+  "LBP Received F2": {
+    "raw_column": "player_season_fhalf_lbp_received_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea recibidos en el campo contrario en juego abierto",
+    "description_en": "Line Breaking Passes received in the opposition half in open play"
+  },
+  "LBP Received F3": {
+    "raw_column": "player_season_f3_lbp_received_90",
+    "type": "float",
+    "description": "Pases de ruptura de línea recibidos en el último tercio en juego abierto",
+    "description_en": "Line Breaking Passes received in the final third in open play"
+  },
+  "LBP Avg Dist": {
+    "raw_column": "player_season_average_lbp_to_space_distance",
+    "type": "float",
+    "description": "Espacio promedio del destinatario del pase para todos los pases de ruptura de línea completados",
+    "description_en": "Average space of pass recipient for all completed Line Breaking Passes"
+  },
+  "LBP Avg Dist in F2": {
+    "raw_column": "player_season_fhalf_average_lbp_to_space_distance",
+    "type": "float",
+    "description": "Espacio promedio del destinatario del pase para todos los pases de ruptura de línea completados en la mitad opuesta del campo",
+    "description_en": "Average space of pass recipient for all completed Line Breaking Passes in the opposition half of the pitch"
+  },
+  "LBP Avg Dist in F3": {
+    "raw_column": "player_season_f3_average_lbp_to_space_distance",
+    "type": "float",
+    "description": "Espacio promedio del destinatario del pase para todos los pases de ruptura de línea completados en el último tercio del campo",
+    "description_en": "Average space of pass recipient for all completed Line Breaking Passes in the final third of the pitch"
+  },
+  "LBP Received 10m": {
+    "raw_column": "player_season_lbp_to_space_10_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 10 m de espacio (subconjunto de categoría de 2 m y 5 m)",
+    "description_en": "Received Line Breaking Pass in more than 10m of space (subset of 2m & 5m category)"
+  },
+  "LBP Received 10m in F2": {
+    "raw_column": "player_season_fhalf_lbp_to_space_10_received_90",
+    "type": "float",
+    "description": "Recibió un pase para romper la línea en más de 10 m de espacio (subconjunto de la categoría de 2 m y 5 m) en la mitad opuesta del campo.",
+    "description_en": "Received Line Breaking Pass in more than 10m of space (subset of 2m & 5m category) in the opposition half of the pitch"
+  },
+  "LBP Received 10m in F3": {
+    "raw_column": "player_season_f3_lbp_to_space_10_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 10 m de espacio (subconjunto de la categoría de 2 m y 5 m) en el último tercio del campo.",
+    "description_en": "Received Line Breaking Pass in more than 10m of space (subset of 2m & 5m category) in the final third of the pitch"
+  },
+  "LBP to Space 2m": {
+    "raw_column": "player_season_lbp_to_space_2_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 2 m de espacio",
+    "description_en": "Received Line Breaking Pass in more than 2m of space"
+  },
+  "LBP Received 2m in F2": {
+    "raw_column": "player_season_fhalf_lbp_to_space_2_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 2 m de espacio en la mitad contraria del campo.",
+    "description_en": "Received Line Breaking Pass in more than 2m of space in the opposition half of the pitch"
+  },
+  "LBP Received 2m in F3": {
+    "raw_column": "player_season_f3_lbp_to_space_2_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 2 m de espacio en el último tercio del campo.",
+    "description_en": "Received Line Breaking Pass in more than 2m of space in the final third of the pitch"
+  },
+  "LBP Received 5m": {
+    "raw_column": "player_season_lbp_to_space_5_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 5 m de espacio (subconjunto de la categoría de 2 m)",
+    "description_en": "Received Line Breaking Pass in more than 5m of space (subset of 2m category)"
+  },
+  "LBP Received 5m in F2": {
+    "raw_column": "player_season_fhalf_lbp_to_space_5_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 5 m de espacio (subconjunto de la categoría de 2 m) en la mitad opuesta del campo.",
+    "description_en": "Received Line Breaking Pass in more than 5m of space (subset of 2m category) in the opposition half of the pitch"
+  },
+  "LBP Received 5m in F3": {
+    "raw_column": "player_season_f3_lbp_to_space_5_received_90",
+    "type": "float",
+    "description": "Recibió un pase de ruptura de línea en más de 5 m de espacio (subconjunto de la categoría de 2 m) en el último tercio del campo.",
+    "description_en": "Received Line Breaking Pass in more than 5m of space (subset of 2m category) in the final third of the pitch"
+  },
+  "LBP Received Avg Dist": {
+    "raw_column": "player_season_average_lbp_to_space_received_distance",
+    "type": "float",
+    "description": "Espacio promedio del destinatario del pase para todos los pases de ruptura de línea recibidos",
+    "description_en": "Average space of pass recipient for all received Line Breaking Passes"
+  },
+  "LBP Received Avg Dist in F2": {
+    "raw_column": "player_season_fhalf_average_lbp_to_space_received_distance",
+    "type": "float",
+    "description": "Espacio promedio del destinatario del pase para todos los pases de ruptura de línea recibidos en la mitad opuesta del campo",
+    "description_en": "Average space of pass recipient for all received Line Breaking Passes in the opposition half of the pitch"
+  },
+  "LBP Received Avg Dist in F3": {
+    "raw_column": "player_season_f3_average_lbp_to_space_received_distance",
+    "type": "float",
+    "description": "Espacio promedio del destinatario del pase para todos los pases de ruptura de línea recibidos en el último tercio del campo",
+    "description_en": "Average space of pass recipient for all received Line Breaking Passes in the final third of the pitch"
+  },
+  "LBP to Space 10m": {
+    "raw_column": "player_season_lbp_to_space_10_90",
+    "type": "float",
+    "description": "Pase de ruptura de línea completado recibido en más de 10 m de espacio (subconjunto de categoría de 2 m y 5 m)",
+    "description_en": "Completed Line Breaking Pass received in more than 10m of space (subset of 2m & 5m category)"
+  },
+  "LBP to Space 10m in F2": {
+    "raw_column": "player_season_fhalf_lbp_to_space_10_90",
+    "type": "float",
+    "description": "Pase de ruptura de línea completado recibido en más de 10 m de espacio (subconjunto de categoría de 2 m y 5 m) en la mitad opuesta del campo",
+    "description_en": "Completed Line Breaking Pass received in more than 10m of space (subset of 2m & 5m category) in the opposition half of the pitch"
+  },
+  "LBP to Space 10m in F3": {
+    "raw_column": "player_season_f3_lbp_to_space_10_90",
+    "type": "float",
+    "description": "Pase de ruptura de línea completado recibido en más de 10 m de espacio (subconjunto de la categoría de 2 m y 5 m) en el último tercio del campo.",
+    "description_en": "Completed Line Breaking Pass received in more than 10m of space (subset of 2m & 5m category) in the final third of the pitch"
+  },
+  "LBP Received 2m": {
+    "raw_column": "player_season_lbp_to_space_2_90",
+    "type": "float",
+    "description": "Pase de ruptura de línea completado recibido en más de 2 m de espacio",
+    "description_en": "Completed Line Breaking Pass received in more than 2m of space"
+  },
+  "LBP to Space 2m in F2": {
+    "raw_column": "player_season_fhalf_lbp_to_space_2_90",
+    "type": "float",
+    "description": "Pase de ruptura de línea completado recibido en más de 2 m de espacio en la mitad contraria del campo",
+    "description_en": "Completed Line Breaking Pass received in more than 2m of space in the opposition half of the pitch"
+  }
+}

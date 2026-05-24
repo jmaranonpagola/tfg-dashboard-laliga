@@ -1,0 +1,2046 @@
+Name,Team,market_value_eur,contract_until,age,date_of_birth
+Kylian Mbappé,Real Madrid Club de Fútbol,200000000.0,2029-06-30 00:00:00,27.4,1998-12-20 00:00:00
+Lamine Yamal,Futbol Club Barcelona,200000000.0,2031-06-30 00:00:00,18.8,2007-07-13 00:00:00
+Pedri,Futbol Club Barcelona,150000000.0,2030-06-30 00:00:00,23.4,2002-11-25 00:00:00
+Vinicius Junior,Real Madrid Club de Fútbol,150000000.0,2027-06-30 00:00:00,25.8,2000-07-12 00:00:00
+Jude Bellingham,Real Madrid Club de Fútbol,140000000.0,2029-06-30 00:00:00,22.9,2003-06-29 00:00:00
+Federico Valverde,Real Madrid Club de Fútbol,120000000.0,2029-06-30 00:00:00,27.8,1998-07-22 00:00:00
+Fermín López,Futbol Club Barcelona,100000000.0,2031-06-30 00:00:00,23.0,2003-05-11 00:00:00
+Julián Alvarez,Club Atlético de Madrid S.A.D.,90000000.0,2030-06-30 00:00:00,26.3,2000-01-31 00:00:00
+Arda Güler,Real Madrid Club de Fútbol,90000000.0,2029-06-30 00:00:00,21.2,2005-02-25 00:00:00
+Raphinha,Futbol Club Barcelona,80000000.0,2028-06-30 00:00:00,29.4,1996-12-14 00:00:00
+Pau Cubarsí,Futbol Club Barcelona,80000000.0,2029-06-30 00:00:00,19.3,2007-01-22 00:00:00
+Aurélien Tchouaméni,Real Madrid Club de Fútbol,75000000.0,2028-06-30 00:00:00,26.3,2000-01-27 00:00:00
+Dean Huijsen,Real Madrid Club de Fútbol,65000000.0,2030-06-30 00:00:00,21.1,2005-04-14 00:00:00
+Trent Alexander-Arnold,Real Madrid Club de Fútbol,65000000.0,2031-06-30 00:00:00,27.6,1998-10-07 00:00:00
+Jules Koundé,Futbol Club Barcelona,65000000.0,2030-06-30 00:00:00,27.5,1998-11-12 00:00:00
+Pablo Barrios,Club Atlético de Madrid S.A.D.,60000000.0,2030-06-30 00:00:00,22.9,2003-06-15 00:00:00
+Dani Olmo,Futbol Club Barcelona,60000000.0,2030-06-30 00:00:00,28.0,1998-05-07 00:00:00
+Álvaro Carreras,Real Madrid Club de Fútbol,60000000.0,2031-06-30 00:00:00,23.1,2003-03-23 00:00:00
+Alejandro Balde,Futbol Club Barcelona,55000000.0,2028-06-30 00:00:00,22.5,2003-10-18 00:00:00
+Nico Williams,Athletic Club Bilbao,50000000.0,2035-06-30 00:00:00,23.8,2002-07-12 00:00:00
+Rodrygo,Real Madrid Club de Fútbol,50000000.0,2028-06-30 00:00:00,25.3,2001-01-09 00:00:00
+Ferran Torres,Futbol Club Barcelona,50000000.0,2027-06-30 00:00:00,26.2,2000-02-29 00:00:00
+Eduardo Camavinga,Real Madrid Club de Fútbol,50000000.0,2029-06-30 00:00:00,23.5,2002-11-10 00:00:00
+Frenkie de Jong,Futbol Club Barcelona,45000000.0,2029-06-30 00:00:00,29.0,1997-05-12 00:00:00
+Franco Mastantuono,Real Madrid Club de Fútbol,45000000.0,2031-06-30 00:00:00,18.7,2007-08-14 00:00:00
+Álex Baena,Club Atlético de Madrid S.A.D.,45000000.0,2030-06-30 00:00:00,24.8,2001-07-20 00:00:00
+Ademola Lookman,Club Atlético de Madrid S.A.D.,40000000.0,2030-06-30 00:00:00,28.5,1997-10-20 00:00:00
+Pape Gueye,Villarreal Club de Fútbol S.A.D.,40000000.0,2028-06-30 00:00:00,27.3,1999-01-24 00:00:00
+Giuliano Simeone,Club Atlético de Madrid S.A.D.,40000000.0,2030-06-30 00:00:00,23.4,2002-12-18 00:00:00
+Alberto Moleiro,Villarreal Club de Fútbol S.A.D.,40000000.0,2030-06-30 00:00:00,22.6,2003-09-30 00:00:00
+Marcus Rashford,Futbol Club Barcelona,40000000.0,2026-06-30 00:00:00,28.5,1997-10-31 00:00:00
+Joan García,Futbol Club Barcelona,40000000.0,2031-06-30 00:00:00,25.0,2001-05-04 00:00:00
+Antony,Real Betis Balompié S.A.D.,40000000.0,2030-06-30 00:00:00,26.2,2000-02-24 00:00:00
+Dávid Hancko,Club Atlético de Madrid S.A.D.,35000000.0,2030-06-30 00:00:00,28.4,1997-12-13 00:00:00
+Brahim Díaz,Real Madrid Club de Fútbol,35000000.0,2027-06-30 00:00:00,26.8,1999-08-03 00:00:00
+Eric García,Futbol Club Barcelona,35000000.0,2031-06-30 00:00:00,25.3,2001-01-09 00:00:00
+Oihan Sancet,Athletic Club Bilbao,35000000.0,2032-06-30 00:00:00,26.0,2000-04-25 00:00:00
+Mikel Jauregizar,Athletic Club Bilbao,35000000.0,2031-06-30 00:00:00,22.5,2003-11-13 00:00:00
+Abde Ezzalzouli,Real Betis Balompié S.A.D.,30000000.0,2029-06-30 00:00:00,24.4,2001-12-17 00:00:00
+Gavi,Futbol Club Barcelona,30000000.0,2030-06-30 00:00:00,21.7,2004-08-05 00:00:00
+Gonzalo García,Real Madrid Club de Fútbol,30000000.0,2030-06-30 00:00:00,22.1,2004-03-24 00:00:00
+Vitor Reis,Girona Fútbol Club S. A. D.,30000000.0,2026-06-30 00:00:00,20.3,2006-01-12 00:00:00
+Takefusa Kubo,Real Sociedad de Fútbol S.A.D.,30000000.0,2029-06-30 00:00:00,24.9,2001-06-04 00:00:00
+Marc Bernal,Futbol Club Barcelona,30000000.0,2029-06-30 00:00:00,18.9,2007-05-26 00:00:00
+Marc Pubill,Club Atlético de Madrid S.A.D.,28000000.0,2030-06-30 00:00:00,22.9,2003-06-20 00:00:00
+Georges Mikautadze,Villarreal Club de Fútbol S.A.D.,28000000.0,2031-06-30 00:00:00,25.5,2000-10-31 00:00:00
+Éder Militão,Real Madrid Club de Fútbol,25000000.0,2028-06-30 00:00:00,28.3,1998-01-18 00:00:00
+Robin Le Normand,Club Atlético de Madrid S.A.D.,25000000.0,2029-06-30 00:00:00,29.5,1996-11-11 00:00:00
+Natan,Real Betis Balompié S.A.D.,25000000.0,2030-06-30 00:00:00,25.2,2001-02-06 00:00:00
+Mikel Oyarzabal,Real Sociedad de Fútbol S.A.D.,25000000.0,2028-06-30 00:00:00,29.0,1997-04-21 00:00:00
+Unai Simón,Athletic Club Bilbao,25000000.0,2029-06-30 00:00:00,28.9,1997-06-11 00:00:00
+Javi Guerra,Valencia Club de Fútbol S. A. D.,25000000.0,2029-06-30 00:00:00,23.0,2003-05-13 00:00:00
+Jon Gorrotxategi,Real Sociedad de Fútbol S.A.D.,25000000.0,2030-06-30 00:00:00,24.3,2002-02-02 00:00:00
+Dani Vivian,Athletic Club Bilbao,25000000.0,2032-06-30 00:00:00,26.8,1999-07-05 00:00:00
+Raúl Asencio,Real Madrid Club de Fútbol,25000000.0,2031-06-30 00:00:00,23.2,2003-02-13 00:00:00
+Carlos Romero,Reial Club Deportiu Espanyol de Barcelona S.A.D.,25000000.0,2026-06-30 00:00:00,24.5,2001-10-29 00:00:00
+Gerard Martín,Futbol Club Barcelona,25000000.0,2028-06-30 00:00:00,24.2,2002-02-26 00:00:00
+Renato Veiga,Villarreal Club de Fútbol S.A.D.,25000000.0,2032-06-30 00:00:00,22.8,2003-07-29 00:00:00
+Nico González,Club Atlético de Madrid S.A.D.,24000000.0,2026-06-30 00:00:00,28.1,1998-04-06 00:00:00
+Johnny Cardoso,Club Atlético de Madrid S.A.D.,22000000.0,2030-06-30 00:00:00,24.6,2001-09-20 00:00:00
+Marcos Llorente,Club Atlético de Madrid S.A.D.,22000000.0,2027-06-30 00:00:00,31.3,1995-01-30 00:00:00
+Matteo Ruggeri,Club Atlético de Madrid S.A.D.,20000000.0,2030-06-30 00:00:00,23.8,2002-07-11 00:00:00
+Marc Casadó,Futbol Club Barcelona,20000000.0,2028-06-30 00:00:00,22.6,2003-09-14 00:00:00
+Enzo Boyomo,Club Atlético Osasuna,20000000.0,2029-06-30 00:00:00,24.6,2001-10-07 00:00:00
+Ronald Araujo,Futbol Club Barcelona,20000000.0,2031-06-30 00:00:00,27.2,1999-03-07 00:00:00
+Thiago Almada,Club Atlético de Madrid S.A.D.,20000000.0,2030-06-30 00:00:00,25.0,2001-04-26 00:00:00
+Sergi Altimira,Real Betis Balompié S.A.D.,20000000.0,2029-06-30 00:00:00,24.7,2001-08-25 00:00:00
+Jon Martín,Real Sociedad de Fútbol S.A.D.,20000000.0,2031-06-30 00:00:00,20.0,2006-04-23 00:00:00
+Rodrigo Mendoza,Club Atlético de Madrid S.A.D.,20000000.0,2031-06-30 00:00:00,21.1,2005-03-15 00:00:00
+Víctor Muñoz,Club Atlético Osasuna,20000000.0,2030-06-30 00:00:00,22.8,2003-07-13 00:00:00
+Alexander Sørloth,Club Atlético de Madrid S.A.D.,20000000.0,2028-06-30 00:00:00,30.4,1995-12-05 00:00:00
+Thiago Pitarch,Real Madrid Club de Fútbol,20000000.0,2027-06-30 00:00:00,18.8,2007-08-03 00:00:00
+Andrei Rațiu,Rayo Vallecano de Madrid S. A. D.,18000000.0,2030-06-30 00:00:00,27.9,1998-06-20 00:00:00
+Thibaut Courtois,Real Madrid Club de Fútbol,18000000.0,2027-06-30 00:00:00,34.0,1992-05-11 00:00:00
+Óscar Mingueza,Real Club Celta de Vigo S. A. D.,18000000.0,2026-06-30 00:00:00,27.0,1999-05-13 00:00:00
+Karl Etta Eyong,Levante Unión Deportiva S.A.D.,18000000.0,2029-06-30 00:00:00,22.6,2003-10-14 00:00:00
+Cucho Hernández,Real Betis Balompié S.A.D.,18000000.0,2030-06-30 00:00:00,27.0,1999-04-20 00:00:00
+Ander Barrenetxea,Real Sociedad de Fútbol S.A.D.,18000000.0,2030-06-30 00:00:00,24.4,2001-12-27 00:00:00
+Beñat Prados,Athletic Club Bilbao,18000000.0,2031-06-30 00:00:00,25.2,2001-02-08 00:00:00
+Logan Costa,Villarreal Club de Fútbol S.A.D.,18000000.0,2030-06-30 00:00:00,25.1,2001-04-01 00:00:00
+Jan Oblak,Club Atlético de Madrid S.A.D.,17000000.0,2028-06-30 00:00:00,33.3,1993-01-07 00:00:00
+Fer López,Real Club Celta de Vigo S. A. D.,16000000.0,2026-06-30 00:00:00,21.9,2004-05-24 00:00:00
+Jan Virgili,Real Club Deportivo Mallorca S.A.D.,15000000.0,2030-06-30 00:00:00,19.8,2006-07-26 00:00:00
+Julen Agirrezabala,Valencia Club de Fútbol S. A. D.,15000000.0,2026-06-30 00:00:00,25.4,2000-12-26 00:00:00
+Jon Aramburu,Real Sociedad de Fútbol S.A.D.,15000000.0,2030-06-30 00:00:00,23.8,2002-07-23 00:00:00
+Samú Costa,Real Club Deportivo Mallorca S.A.D.,15000000.0,2028-06-30 00:00:00,25.4,2000-11-27 00:00:00
+Vladyslav Vanat,Girona Fútbol Club S. A. D.,15000000.0,2030-06-30 00:00:00,24.3,2002-01-04 00:00:00
+Aitor Paredes,Athletic Club Bilbao,15000000.0,2029-06-30 00:00:00,26.0,2000-04-29 00:00:00
+Sergio Gómez,Real Sociedad de Fútbol S.A.D.,15000000.0,2030-06-30 00:00:00,25.7,2000-09-04 00:00:00
+Mika Mármol,UD Las Palmas,15000000.0,2026-06-30 00:00:00,24.8,2001-07-02 00:00:00
+Claudio Echeverri,Girona Fútbol Club S. A. D.,15000000.0,2026-06-30 00:00:00,20.3,2006-01-02 00:00:00
+Juanlu Sánchez,Sevilla Fútbol Club S.A.D.,15000000.0,2029-06-30 00:00:00,22.7,2003-08-15 00:00:00
+Andriy Lunin,Real Madrid Club de Fútbol,15000000.0,2030-06-30 00:00:00,27.2,1999-02-11 00:00:00
+Javi Rodríguez,Real Club Celta de Vigo S. A. D.,15000000.0,2028-06-30 00:00:00,22.9,2003-06-27 00:00:00
+Nahuel Molina,Club Atlético de Madrid S.A.D.,15000000.0,2027-06-30 00:00:00,28.1,1998-04-06 00:00:00
+Roony Bardghji,Futbol Club Barcelona,15000000.0,2029-06-30 00:00:00,20.5,2005-11-15 00:00:00
+Sergio Agüero,Futbol Club Barcelona,15000000.0,,37.9,1988-06-02 00:00:00
+Carlos Álvarez,Levante Unión Deportiva S.A.D.,15000000.0,2027-06-30 00:00:00,22.7,2003-08-06 00:00:00
+Omar El Hilali,Reial Club Deportiu Espanyol de Barcelona S.A.D.,15000000.0,2027-06-30 00:00:00,22.6,2003-09-12 00:00:00
+Miguel Román,Real Club Celta de Vigo S. A. D.,15000000.0,2028-06-30 00:00:00,23.4,2002-12-26 00:00:00
+Williot Swedberg,Real Club Celta de Vigo S. A. D.,15000000.0,2029-06-30 00:00:00,22.3,2004-02-01 00:00:00
+Viktor Tsygankov,Girona Fútbol Club S. A. D.,15000000.0,2027-06-30 00:00:00,28.5,1997-11-15 00:00:00
+Álex Remiro,Real Sociedad de Fútbol S.A.D.,14000000.0,2027-06-30 00:00:00,31.1,1995-03-24 00:00:00
+Bryan Gil,Girona Fútbol Club S. A. D.,12000000.0,2030-06-30 00:00:00,25.2,2001-02-11 00:00:00
+Rafa Marín,Villarreal Club de Fútbol S.A.D.,12000000.0,2026-06-30 00:00:00,24.0,2002-05-19 00:00:00
+Rubén Vargas,Sevilla Fútbol Club S.A.D.,12000000.0,2029-06-30 00:00:00,27.7,1998-08-05 00:00:00
+Lucien Agoumé,Sevilla Fútbol Club S.A.D.,12000000.0,2028-06-30 00:00:00,24.2,2002-02-09 00:00:00
+Diego López,Valencia Club de Fútbol S. A. D.,12000000.0,2029-06-30 00:00:00,24.0,2002-05-13 00:00:00
+Akor Adams,Sevilla Fútbol Club S.A.D.,12000000.0,2029-06-30 00:00:00,26.3,2000-01-29 00:00:00
+Tajon Buchanan,Villarreal Club de Fútbol S.A.D.,12000000.0,2030-06-30 00:00:00,27.2,1999-02-08 00:00:00
+Hugo Duro,Valencia Club de Fútbol S. A. D.,12000000.0,2028-06-30 00:00:00,26.5,1999-11-10 00:00:00
+Héctor Fort,Elche Club de Fútbol S.A.D.,12000000.0,2026-06-30 00:00:00,19.8,2006-08-02 00:00:00
+Brais Méndez,Real Sociedad de Fútbol S.A.D.,12000000.0,2028-06-30 00:00:00,29.3,1997-01-07 00:00:00
+César Tárrega,Valencia Club de Fútbol S. A. D.,12000000.0,2030-06-30 00:00:00,24.2,2002-02-26 00:00:00
+Sofyan Amrabat,Real Betis Balompié S.A.D.,12000000.0,2026-06-30 00:00:00,29.7,1996-08-21 00:00:00
+José María Giménez,Club Atlético de Madrid S.A.D.,12000000.0,2028-06-30 00:00:00,31.3,1995-01-20 00:00:00
+Jorge de Frutos,Rayo Vallecano de Madrid S. A. D.,12000000.0,2028-06-30 00:00:00,29.2,1997-02-20 00:00:00
+Fran García,Real Madrid Club de Fútbol,12000000.0,2027-06-30 00:00:00,26.7,1999-08-14 00:00:00
+Ilias Akhomach,Rayo Vallecano de Madrid S. A. D.,12000000.0,2026-06-30 00:00:00,22.1,2004-04-16 00:00:00
+José Ángel Carmona,Sevilla Fútbol Club S.A.D.,12000000.0,2028-06-30 00:00:00,24.3,2002-01-29 00:00:00
+Orri Óskarsson,Real Sociedad de Fútbol S.A.D.,12000000.0,2030-06-30 00:00:00,21.7,2004-08-29 00:00:00
+Valentín Gómez,Real Betis Balompié S.A.D.,12000000.0,2030-06-30 00:00:00,22.9,2003-06-26 00:00:00
+Luiz Júnior,Villarreal Club de Fútbol S.A.D.,12000000.0,2030-06-30 00:00:00,25.3,2001-01-14 00:00:00
+Juan Foyth,Villarreal Club de Fútbol S.A.D.,10000000.0,2029-06-30 00:00:00,28.3,1998-01-12 00:00:00
+Pep Chavarría,Rayo Vallecano de Madrid S. A. D.,10000000.0,2030-06-30 00:00:00,28.1,1998-04-10 00:00:00
+Nabil Fekir,Real Betis Balompié S.A.D.,10000000.0,2026-06-30 00:00:00,32.8,1993-07-18 00:00:00
+Mauro Arambarri,Getafe Club de Fútbol S. A. D. Team Dubai,10000000.0,2028-06-30 00:00:00,30.6,1995-09-30 00:00:00
+Roberto Fernández,Reial Club Deportiu Espanyol de Barcelona S.A.D.,10000000.0,2031-06-30 00:00:00,23.8,2002-07-03 00:00:00
+Arsen Zakharyan,Real Sociedad de Fútbol S.A.D.,10000000.0,2029-06-30 00:00:00,22.9,2003-05-26 00:00:00
+Batista Mendy,Sevilla Fútbol Club S.A.D.,10000000.0,2026-06-30 00:00:00,26.3,2000-01-12 00:00:00
+Álvaro Fidalgo,Real Betis Balompié S.A.D.,10000000.0,2030-06-30 00:00:00,29.1,1997-04-09 00:00:00
+Toni Kroos,Real Madrid Club de Fútbol,10000000.0,,36.3,1990-01-04 00:00:00
+Antoine Griezmann,Club Atlético de Madrid S.A.D.,10000000.0,2027-06-30 00:00:00,35.1,1991-03-21 00:00:00
+Pau Navarro,Villarreal Club de Fútbol S.A.D.,10000000.0,2030-06-30 00:00:00,21.0,2005-04-25 00:00:00
+Sergio Arribas,UD Almería,10000000.0,2029-06-30 00:00:00,24.6,2001-09-30 00:00:00
+David García,Club Atlético Osasuna,10000000.0,2027-06-30 00:00:00,32.2,1994-02-14 00:00:00
+Luka Sucic,Real Sociedad de Fútbol S.A.D.,10000000.0,2029-06-30 00:00:00,23.7,2002-09-08 00:00:00
+Antonio Blanco,Deportivo Alavés S. A. D.,10000000.0,2027-06-30 00:00:00,25.8,2000-07-23 00:00:00
+Arnau Martínez,Girona Fútbol Club S. A. D.,10000000.0,2027-06-30 00:00:00,23.0,2003-04-25 00:00:00
+Ilaix Moriba,Real Club Celta de Vigo S. A. D.,10000000.0,2029-06-30 00:00:00,23.3,2003-01-19 00:00:00
+Azzedine Ounahi,Girona Fútbol Club S. A. D.,10000000.0,2030-06-30 00:00:00,26.0,2000-04-19 00:00:00
+Tyrhys Dolan,Reial Club Deportiu Espanyol de Barcelona S.A.D.,10000000.0,2028-06-30 00:00:00,24.4,2001-12-28 00:00:00
+Urko González de Zárate,Reial Club Deportiu Espanyol de Barcelona S.A.D.,10000000.0,2030-06-30 00:00:00,25.1,2001-03-20 00:00:00
+Beñat Turrientes,Real Sociedad de Fútbol S.A.D.,10000000.0,2030-06-30 00:00:00,24.3,2002-01-31 00:00:00
+Santiago Mouriño,Villarreal Club de Fútbol S.A.D.,10000000.0,2030-06-30 00:00:00,24.2,2002-02-13 00:00:00
+Mario Martín,Getafe Club de Fútbol S. A. D. Team Dubai,10000000.0,2026-06-30 00:00:00,22.2,2004-03-05 00:00:00
+Giovani Lo Celso,Real Betis Balompié S.A.D.,10000000.0,2028-06-30 00:00:00,30.1,1996-04-09 00:00:00
+Dion Lopy,UD Almería,10000000.0,2029-06-30 00:00:00,24.3,2002-02-02 00:00:00
+Iñaki Williams,Athletic Club Bilbao,10000000.0,2028-06-30 00:00:00,31.9,1994-06-15 00:00:00
+Andreas Christensen,Futbol Club Barcelona,9000000.0,2026-06-30 00:00:00,30.1,1996-04-10 00:00:00
+Nelson Deossa,Real Betis Balompié S.A.D.,9000000.0,2030-06-30 00:00:00,26.2,2000-02-06 00:00:00
+Aimar Oroz,Club Atlético Osasuna,9000000.0,2029-06-30 00:00:00,24.4,2001-11-27 00:00:00
+Aymeric Laporte,Athletic Club Bilbao,9000000.0,2028-06-30 00:00:00,31.9,1994-05-27 00:00:00
+David Affengruber,Elche Club de Fútbol S.A.D.,9000000.0,2027-06-30 00:00:00,25.1,2001-03-19 00:00:00
+João Cancelo,Futbol Club Barcelona,9000000.0,2026-06-30 00:00:00,31.9,1994-05-27 00:00:00
+Igor Zubeldia,Real Sociedad de Fútbol S.A.D.,9000000.0,2029-06-30 00:00:00,29.1,1997-03-30 00:00:00
+Michael Olunga,Girona Fútbol Club S. A. D.,9000000.0,2023-06-30 00:00:00,32.1,1994-03-26 00:00:00
+Antonio Rüdiger,Real Madrid Club de Fútbol,9000000.0,2026-06-30 00:00:00,33.2,1993-03-03 00:00:00
+Pepelu,Valencia Club de Fútbol S. A. D.,9000000.0,2028-06-30 00:00:00,27.7,1998-08-11 00:00:00
+Yangel Herrera,Real Sociedad de Fútbol S.A.D.,9000000.0,2030-06-30 00:00:00,28.3,1998-01-07 00:00:00
+Sergi Cardona,Villarreal Club de Fútbol S.A.D.,9000000.0,2027-06-30 00:00:00,26.8,1999-07-08 00:00:00
+David Carmo,Real Oviedo S.A.D.,8000000.0,2026-06-30 00:00:00,26.8,1999-07-19 00:00:00
+Jones El-Abdellaoui,Real Club Celta de Vigo S. A. D.,8000000.0,2029-06-30 00:00:00,20.3,2006-01-12 00:00:00
+Carlos Soler,Real Sociedad de Fútbol S.A.D.,8000000.0,2029-06-30 00:00:00,29.3,1997-01-02 00:00:00
+Sergio Carreira,Real Club Celta de Vigo S. A. D.,8000000.0,2029-06-30 00:00:00,25.6,2000-10-13 00:00:00
+Robert Lewandowski,Futbol Club Barcelona,8000000.0,2026-06-30 00:00:00,37.7,1988-08-21 00:00:00
+Kike Salas,Sevilla Fútbol Club S.A.D.,8000000.0,2029-06-30 00:00:00,24.0,2002-04-23 00:00:00
+Obed Vargas,Club Atlético de Madrid S.A.D.,8000000.0,2030-06-30 00:00:00,20.7,2005-08-05 00:00:00
+Jesús Areso,Athletic Club Bilbao,8000000.0,2031-06-30 00:00:00,26.8,1999-07-02 00:00:00
+Ionuț Radu,Real Club Celta de Vigo S. A. D.,8000000.0,2029-06-30 00:00:00,28.9,1997-05-28 00:00:00
+Largie Ramazani,Valencia Club de Fútbol S. A. D.,8000000.0,2026-06-30 00:00:00,25.2,2001-02-27 00:00:00
+Pablo García,Real Betis Balompié S.A.D.,8000000.0,2029-06-30 00:00:00,19.9,2006-06-13 00:00:00
+Lucas Beltrán,Valencia Club de Fútbol S. A. D.,8000000.0,2026-06-30 00:00:00,25.1,2001-03-29 00:00:00
+Tani Oluwaseyi,Villarreal Club de Fútbol S.A.D.,8000000.0,2030-06-30 00:00:00,26.0,2000-05-15 00:00:00
+Santi Comesaña,Villarreal Club de Fútbol S.A.D.,8000000.0,2028-06-30 00:00:00,29.6,1996-10-05 00:00:00
+Pablo Marín,Real Sociedad de Fútbol S.A.D.,8000000.0,2029-06-30 00:00:00,22.8,2003-07-03 00:00:00
+Pablo Fornals,Real Betis Balompié S.A.D.,8000000.0,2029-06-30 00:00:00,30.2,1996-02-22 00:00:00
+Cyril Ngonge,Reial Club Deportiu Espanyol de Barcelona S.A.D.,8000000.0,2026-06-30 00:00:00,25.9,2000-05-26 00:00:00
+Dani Ceballos,Real Madrid Club de Fútbol,8000000.0,2027-06-30 00:00:00,29.7,1996-08-07 00:00:00
+Hugo Álvarez,Real Club Celta de Vigo S. A. D.,8000000.0,2028-06-30 00:00:00,22.8,2003-07-02 00:00:00
+Jorge Cestero,Real Madrid Club de Fútbol,7500000.0,2028-06-30 00:00:00,20.1,2006-03-24 00:00:00
+Hugo Sotelo,Real Club Celta de Vigo S. A. D.,7500000.0,2028-06-30 00:00:00,22.4,2003-12-19 00:00:00
+Djibril Sow,Sevilla Fútbol Club S.A.D.,7500000.0,2029-06-30 00:00:00,29.2,1997-02-06 00:00:00
+Borja Mayoral,Getafe Club de Fútbol S. A. D. Team Dubai,7500000.0,2027-06-30 00:00:00,29.1,1997-04-05 00:00:00
+Javi Puado,Reial Club Deportiu Espanyol de Barcelona S.A.D.,7500000.0,2030-06-30 00:00:00,27.9,1998-05-25 00:00:00
+Iván Romero,Levante Unión Deportiva S.A.D.,7500000.0,2028-06-30 00:00:00,25.1,2001-04-10 00:00:00
+André Almeida,Valencia Club de Fútbol S. A. D.,7500000.0,2029-06-30 00:00:00,25.9,2000-05-30 00:00:00
+Jon Moncayola,Club Atlético Osasuna,7000000.0,2031-06-30 00:00:00,28.0,1998-05-13 00:00:00
+Paco Alcácer,Villarreal Club de Fútbol S.A.D.,7000000.0,2025-06-30 00:00:00,32.7,1993-08-30 00:00:00
+Gabriel Suazo,Sevilla Fútbol Club S.A.D.,7000000.0,2028-06-30 00:00:00,28.7,1997-08-09 00:00:00
+Ferran Jutglà,Real Club Celta de Vigo S. A. D.,7000000.0,2029-06-30 00:00:00,27.3,1999-02-01 00:00:00
+Antonio Sivera,Deportivo Alavés S. A. D.,6000000.0,2027-06-30 00:00:00,29.7,1996-08-11 00:00:00
+Álvaro Valles,Real Betis Balompié S.A.D.,6000000.0,2030-06-30 00:00:00,28.8,1997-07-25 00:00:00
+Augusto Batalla,Rayo Vallecano de Madrid S. A. D.,6000000.0,2030-06-30 00:00:00,30.0,1996-04-30 00:00:00
+Iván Martín,Girona Fútbol Club S. A. D.,6000000.0,2028-06-30 00:00:00,27.2,1999-02-14 00:00:00
+Rodrigo Riquelme,Real Betis Balompié S.A.D.,6000000.0,2030-06-30 00:00:00,26.1,2000-04-02 00:00:00
+Nicolas Pépé,Villarreal Club de Fútbol S.A.D.,6000000.0,2028-06-30 00:00:00,30.9,1995-05-29 00:00:00
+Pol Lozano,Reial Club Deportiu Espanyol de Barcelona S.A.D.,6000000.0,2027-06-30 00:00:00,26.6,1999-10-06 00:00:00
+Daniel Carvajal,Real Madrid Club de Fútbol,6000000.0,2026-06-30 00:00:00,34.3,1992-01-11 00:00:00
+Brian Oliván,Reial Club Deportiu Espanyol de Barcelona S.A.D.,6000000.0,2026-06-30 00:00:00,32.1,1994-04-01 00:00:00
+Filip Ugrinic,Valencia Club de Fútbol S. A. D.,6000000.0,2029-06-30 00:00:00,27.3,1999-01-05 00:00:00
+Gonçalo Guedes,Real Sociedad de Fútbol S.A.D.,6000000.0,2028-06-30 00:00:00,29.4,1996-11-29 00:00:00
+Ayoze Pérez,Villarreal Club de Fútbol S.A.D.,6000000.0,2028-06-30 00:00:00,32.8,1993-07-29 00:00:00
+Ferland Mendy,Real Madrid Club de Fútbol,6000000.0,2028-06-30 00:00:00,30.9,1995-06-08 00:00:00
+Leo Román,Real Club Deportivo Mallorca S.A.D.,6000000.0,2030-06-30 00:00:00,25.8,2000-07-06 00:00:00
+Adrián Liso,Getafe Club de Fútbol S. A. D. Team Dubai,6000000.0,2026-06-30 00:00:00,21.1,2005-04-02 00:00:00
+Nico Melamed,Reial Club Deportiu Espanyol de Barcelona S.A.D.,6000000.0,2024-06-30 00:00:00,25.1,2001-04-11 00:00:00
+Germán Valera,Elche Club de Fútbol S.A.D.,6000000.0,2027-06-30 00:00:00,24.1,2002-03-16 00:00:00
+Koke,Club Atlético de Madrid S.A.D.,6000000.0,2026-06-30 00:00:00,34.3,1992-01-08 00:00:00
+Jon Pacheco,Deportivo Alavés S. A. D.,6000000.0,2026-06-30 00:00:00,25.3,2001-01-08 00:00:00
+Martín Satriano,Getafe Club de Fútbol S. A. D. Team Dubai,6000000.0,2026-06-30 00:00:00,25.2,2001-02-20 00:00:00
+Nobel Mendy,Rayo Vallecano de Madrid S. A. D.,6000000.0,2026-06-30 00:00:00,21.7,2004-09-03 00:00:00
+Manu Sánchez,Levante Unión Deportiva S.A.D.,6000000.0,2026-06-30 00:00:00,25.7,2000-08-24 00:00:00
+Álvaro Núñez,Real Club Celta de Vigo S. A. D.,6000000.0,2030-06-30 00:00:00,25.8,2000-07-07 00:00:00
+Robert Navarro,Athletic Club Bilbao,6000000.0,2030-06-30 00:00:00,24.1,2002-04-12 00:00:00
+Carl Starfelt,Real Club Celta de Vigo S. A. D.,5000000.0,2027-06-30 00:00:00,30.9,1995-06-01 00:00:00
+Joel Roca,Girona Fútbol Club S. A. D.,5000000.0,2029-06-30 00:00:00,20.9,2005-06-07 00:00:00
+Junior Firpo,Real Betis Balompié S.A.D.,5000000.0,2028-06-30 00:00:00,29.7,1996-08-22 00:00:00
+Aleix Febas,Elche Club de Fútbol S.A.D.,5000000.0,2026-06-30 00:00:00,30.3,1996-02-02 00:00:00
+Isaac Romero,Sevilla Fútbol Club S.A.D.,5000000.0,2028-06-30 00:00:00,26.0,2000-05-18 00:00:00
+Pablo Maffeo,Real Club Deportivo Mallorca S.A.D.,5000000.0,2027-06-30 00:00:00,28.8,1997-07-12 00:00:00
+Clemens Riedel,Reial Club Deportiu Espanyol de Barcelona S.A.D.,5000000.0,2029-06-30 00:00:00,22.8,2003-07-19 00:00:00
+Unai Gómez,Athletic Club Bilbao,5000000.0,2028-06-30 00:00:00,22.9,2003-05-25 00:00:00
+Raúl Moro,Club Atlético Osasuna,5000000.0,2031-06-30 00:00:00,23.4,2002-12-05 00:00:00
+Juan Iglesias,Getafe Club de Fútbol S. A. D. Team Dubai,5000000.0,2026-06-30 00:00:00,27.8,1998-07-03 00:00:00
+Iñaki Peña,Elche Club de Fútbol S.A.D.,5000000.0,2026-06-30 00:00:00,27.2,1999-03-02 00:00:00
+José Gayà,Valencia Club de Fútbol S. A. D.,5000000.0,2027-06-30 00:00:00,30.9,1995-05-25 00:00:00
+Pablo Torre,Real Club Deportivo Mallorca S.A.D.,5000000.0,2029-06-30 00:00:00,23.1,2003-04-03 00:00:00
+Javi López,Real Oviedo S.A.D.,5000000.0,2026-06-30 00:00:00,24.1,2002-03-25 00:00:00
+Álex Berenguer,Athletic Club Bilbao,5000000.0,2027-06-30 00:00:00,30.8,1995-07-04 00:00:00
+Youssef Enríquez,Deportivo Alavés S. A. D.,5000000.0,2029-06-30 00:00:00,20.6,2005-10-07 00:00:00
+Fran Beltrán,Girona Fútbol Club S. A. D.,5000000.0,2030-06-30 00:00:00,27.2,1999-02-03 00:00:00
+Joselu,Real Madrid Club de Fútbol,5000000.0,2026-06-30 00:00:00,36.1,1990-03-27 00:00:00
+Gorka Guruzeta,Athletic Club Bilbao,5000000.0,2028-06-30 00:00:00,29.6,1996-09-12 00:00:00
+Lucas Boyé,Deportivo Alavés S. A. D.,5000000.0,2029-06-30 00:00:00,30.2,1996-02-28 00:00:00
+Edu Expósito,Reial Club Deportiu Espanyol de Barcelona S.A.D.,5000000.0,2027-06-30 00:00:00,29.8,1996-08-01 00:00:00
+Manuel Ángel,Real Madrid Club de Fútbol,5000000.0,2027-06-30 00:00:00,22.1,2004-03-15 00:00:00
+Guido Rodríguez,Valencia Club de Fútbol S. A. D.,5000000.0,2026-06-30 00:00:00,32.1,1994-04-12 00:00:00
+José Copete,Valencia Club de Fútbol S. A. D.,5000000.0,2029-06-30 00:00:00,26.6,1999-10-10 00:00:00
+Maroan Sannadi,Athletic Club Bilbao,5000000.0,2029-06-30 00:00:00,25.3,2001-02-01 00:00:00
+Oso,Sevilla Fútbol Club S.A.D.,5000000.0,2027-06-30 00:00:00,22.8,2003-07-09 00:00:00
+Clément Lenglet,Club Atlético de Madrid S.A.D.,5000000.0,2028-06-30 00:00:00,30.9,1995-06-17 00:00:00
+Martim Neto,Elche Club de Fútbol S.A.D.,5000000.0,2028-06-30 00:00:00,23.3,2003-01-14 00:00:00
+Wesley,Real Sociedad de Fútbol S.A.D.,5000000.0,2026-06-30 00:00:00,21.2,2005-03-05 00:00:00
+Álvaro Rodríguez,Elche Club de Fútbol S.A.D.,5000000.0,2029-06-30 00:00:00,21.8,2004-07-14 00:00:00
+Eden Hazard,Real Madrid Club de Fútbol,5000000.0,,35.3,1991-01-07 00:00:00
+Veljko Birmancevic,Getafe Club de Fútbol S. A. D. Team Dubai,4500000.0,2026-06-30 00:00:00,28.2,1998-03-05 00:00:00
+Álvaro Djaló,Athletic Club Bilbao,4500000.0,2026-06-30 00:00:00,26.7,1999-08-16 00:00:00
+Vedat Muriqi,Real Club Deportivo Mallorca S.A.D.,4500000.0,2029-06-30 00:00:00,32.0,1994-04-24 00:00:00
+Thiago Fernández,Real Oviedo S.A.D.,4500000.0,2026-06-30 00:00:00,22.1,2004-04-03 00:00:00
+Martin Valjent,Real Club Deportivo Mallorca S.A.D.,4500000.0,2029-06-30 00:00:00,30.4,1995-12-11 00:00:00
+Abel Bretones,Club Atlético Osasuna,4000000.0,2029-06-30 00:00:00,25.7,2000-08-21 00:00:00
+Víctor Chust,Elche Club de Fútbol S.A.D.,4000000.0,2026-06-30 00:00:00,26.2,2000-03-05 00:00:00
+Marc Roca,Real Betis Balompié S.A.D.,4000000.0,2029-06-30 00:00:00,29.4,1996-11-26 00:00:00
+Toni Martínez,Deportivo Alavés S. A. D.,4000000.0,2028-06-30 00:00:00,28.8,1997-06-30 00:00:00
+Arnau Tenas,Villarreal Club de Fútbol S.A.D.,4000000.0,2029-06-30 00:00:00,24.9,2001-05-30 00:00:00
+Thiago Borbas,Real Oviedo S.A.D.,4000000.0,2026-06-30 00:00:00,24.1,2002-04-07 00:00:00
+Willy Kambwala,Villarreal Club de Fútbol S.A.D.,4000000.0,2029-06-30 00:00:00,21.7,2004-08-25 00:00:00
+Andoni Gorosabel,Athletic Club Bilbao,4000000.0,2028-06-30 00:00:00,29.7,1996-08-04 00:00:00
+Pablo Ibáñez,Deportivo Alavés S. A. D.,4000000.0,2030-06-30 00:00:00,27.6,1998-09-20 00:00:00
+Alan Matturro,Levante Unión Deportiva S.A.D.,4000000.0,2026-06-30 00:00:00,21.6,2004-10-11 00:00:00
+Pablo Durán,Real Club Celta de Vigo S. A. D.,4000000.0,2027-06-30 00:00:00,24.9,2001-05-25 00:00:00
+Umar Sadiq,Valencia Club de Fútbol S. A. D.,4000000.0,2028-06-30 00:00:00,29.3,1997-02-02 00:00:00
+Ángel Ortiz,Real Betis Balompié S.A.D.,4000000.0,2029-06-30 00:00:00,21.8,2004-07-25 00:00:00
+Neal Maupay,Sevilla Fútbol Club S.A.D.,4000000.0,2026-06-30 00:00:00,29.7,1996-08-14 00:00:00
+Karim Rekik,Sevilla Fútbol Club S.A.D.,4000000.0,2025-06-30 00:00:00,31.4,1994-12-02 00:00:00
+Rafinha,Real Sociedad de Fútbol S.A.D.,4000000.0,2024-06-30 00:00:00,33.2,1993-02-12 00:00:00
+Odysseas Vlachodimos,Sevilla Fútbol Club S.A.D.,4000000.0,2026-06-30 00:00:00,32.0,1994-04-26 00:00:00
+Suso,Sevilla Fútbol Club S.A.D.,4000000.0,2029-06-30 00:00:00,32.5,1993-11-19 00:00:00
+Matías Moreno,Levante Unión Deportiva S.A.D.,4000000.0,2026-06-30 00:00:00,22.6,2003-09-24 00:00:00
+Isco,Real Betis Balompié S.A.D.,4000000.0,2028-06-30 00:00:00,34.0,1992-04-21 00:00:00
+Chuki,Real Valladolid CF,4000000.0,2026-06-30 00:00:00,22.0,2004-04-29 00:00:00
+Marc-André ter Stegen,Girona Fútbol Club S. A. D.,4000000.0,2026-06-30 00:00:00,34.0,1992-04-30 00:00:00
+Faitout Maouassa,Granada CF,4000000.0,2025-06-30 00:00:00,27.8,1998-07-06 00:00:00
+Rafa Mir,Elche Club de Fútbol S.A.D.,4000000.0,2026-06-30 00:00:00,28.9,1997-06-18 00:00:00
+Abdel Abqar,Getafe Club de Fútbol S. A. D. Team Dubai,4000000.0,2028-06-30 00:00:00,27.2,1999-03-10 00:00:00
+Jorge Herrando,Club Atlético Osasuna,4000000.0,2030-06-30 00:00:00,25.2,2001-02-28 00:00:00
+Arnaut Danjuma,Valencia Club de Fútbol S. A. D.,4000000.0,2028-06-30 00:00:00,29.3,1997-01-31 00:00:00
+Ilyas Chaira,Real Oviedo S.A.D.,4000000.0,2028-06-30 00:00:00,25.3,2001-02-02 00:00:00
+Carlos Vicente,Deportivo Alavés S. A. D.,4000000.0,2029-06-30 00:00:00,27.0,1999-04-23 00:00:00
+Aitor Ruibal,Real Betis Balompié S.A.D.,4000000.0,2028-06-30 00:00:00,30.1,1996-03-22 00:00:00
+David Silva,Real Sociedad de Fútbol S.A.D.,4000000.0,2024-06-30 00:00:00,40.3,1986-01-08 00:00:00
+Haissem Hassan,Real Oviedo S.A.D.,4000000.0,2027-06-30 00:00:00,24.2,2002-02-08 00:00:00
+Marash Kumbulla,Real Club Deportivo Mallorca S.A.D.,4000000.0,2026-06-30 00:00:00,26.2,2000-02-08 00:00:00
+Abdul Mumin,Rayo Vallecano de Madrid S. A. D.,4000000.0,2026-06-30 00:00:00,27.9,1998-06-06 00:00:00
+Jesús Vázquez,Valencia Club de Fútbol S. A. D.,4000000.0,2028-06-30 00:00:00,23.3,2003-01-02 00:00:00
+Chidera Ejuke,Sevilla Fútbol Club S.A.D.,4000000.0,2027-06-30 00:00:00,28.3,1998-01-02 00:00:00
+Diego Conde,Villarreal Club de Fútbol S.A.D.,4000000.0,2029-06-30 00:00:00,27.5,1998-10-28 00:00:00
+Javi Rueda,Real Club Celta de Vigo S. A. D.,4000000.0,2029-06-30 00:00:00,24.0,2002-05-08 00:00:00
+Federico Viñas,Real Oviedo S.A.D.,4000000.0,2026-06-30 00:00:00,27.8,1998-06-30 00:00:00
+Federico Redondo,Elche Club de Fútbol S.A.D.,3500000.0,2030-06-30 00:00:00,23.3,2003-01-18 00:00:00
+Lucas Cepeda,Elche Club de Fútbol S.A.D.,3500000.0,2030-06-30 00:00:00,23.5,2002-10-31 00:00:00
+Unai Núñez,Valencia Club de Fútbol S. A. D.,3500000.0,2026-06-30 00:00:00,29.3,1997-01-30 00:00:00
+Alex Freeman,Villarreal Club de Fútbol S.A.D.,3500000.0,2032-06-30 00:00:00,21.7,2004-08-09 00:00:00
+Hugo Rincón,Girona Fútbol Club S. A. D.,3500000.0,2026-06-30 00:00:00,23.3,2003-01-27 00:00:00
+Álex Moreno,Girona Fútbol Club S. A. D.,3500000.0,2027-06-30 00:00:00,32.9,1993-06-08 00:00:00
+David Alaba,Real Madrid Club de Fútbol,3500000.0,2026-06-30 00:00:00,33.9,1992-06-24 00:00:00
+Marc Aguado,Elche Club de Fútbol S.A.D.,3500000.0,2027-06-30 00:00:00,26.2,2000-02-22 00:00:00
+Sergi Darder,Real Club Deportivo Mallorca S.A.D.,3500000.0,2028-06-30 00:00:00,32.4,1993-12-22 00:00:00
+Aihen Muñoz,Real Sociedad de Fútbol S.A.D.,3500000.0,2027-06-30 00:00:00,28.7,1997-08-16 00:00:00
+Mateo Joseph,Real Club Deportivo Mallorca S.A.D.,3500000.0,2026-06-30 00:00:00,22.5,2003-10-19 00:00:00
+Zito Luvumbo,Real Club Deportivo Mallorca S.A.D.,3500000.0,2026-06-30 00:00:00,24.2,2002-03-09 00:00:00
+Luis Milla,Getafe Club de Fútbol S. A. D. Team Dubai,3500000.0,2027-06-30 00:00:00,31.6,1994-10-07 00:00:00
+Peque Fernández,Sevilla Fútbol Club S.A.D.,3500000.0,2028-06-30 00:00:00,23.6,2002-10-04 00:00:00
+Carles Aleñá,Deportivo Alavés S. A. D.,3500000.0,2029-06-30 00:00:00,28.3,1998-01-05 00:00:00
+Alejandro Rego,Athletic Club Bilbao,3000000.0,2026-06-30 00:00:00,22.9,2003-06-11 00:00:00
+Álvaro Aguado,Reial Club Deportiu Espanyol de Barcelona S.A.D.,3000000.0,,30.0,1996-05-01 00:00:00
+Rodri Sánchez,Real Betis Balompié S.A.D.,3000000.0,2027-06-30 00:00:00,26.0,2000-05-16 00:00:00
+Nahuel Tenaglia,Deportivo Alavés S. A. D.,3000000.0,2029-06-30 00:00:00,30.2,1996-02-21 00:00:00
+Adama Boiro,Athletic Club Bilbao,3000000.0,2029-06-30 00:00:00,23.9,2002-06-22 00:00:00
+Ugo Raghouber,Levante Unión Deportiva S.A.D.,3000000.0,2026-06-30 00:00:00,22.8,2003-07-13 00:00:00
+Abu Kamara,Getafe Club de Fútbol S. A. D. Team Dubai,3000000.0,2026-06-30 00:00:00,22.8,2003-07-21 00:00:00
+Leander Dendoncker,Real Oviedo S.A.D.,3000000.0,2027-06-30 00:00:00,31.1,1995-04-15 00:00:00
+Guille Fernández,Futbol Club Barcelona,3000000.0,2027-06-30 00:00:00,17.9,2008-06-18 00:00:00
+Raúl García,Club Atlético Osasuna,3000000.0,2028-06-30 00:00:00,25.5,2000-11-03 00:00:00
+Valentin Rosier,Club Atlético Osasuna,3000000.0,2028-06-30 00:00:00,29.7,1996-08-19 00:00:00
+Alejandro Francés,Girona Fútbol Club S. A. D.,3000000.0,2029-06-30 00:00:00,23.8,2002-08-01 00:00:00
+Fran González,Real Madrid Club de Fútbol,3000000.0,2026-06-30 00:00:00,20.9,2005-06-24 00:00:00
+Jofre Carreras,Reial Club Deportiu Espanyol de Barcelona S.A.D.,3000000.0,2029-06-30 00:00:00,24.9,2001-06-17 00:00:00
+Carlos Domínguez,Real Club Celta de Vigo S. A. D.,3000000.0,2028-06-30 00:00:00,25.2,2001-02-11 00:00:00
+Luiz Felipe,Rayo Vallecano de Madrid S. A. D.,3000000.0,2026-06-30 00:00:00,29.1,1997-03-22 00:00:00
+Adrià Pedrosa,Elche Club de Fútbol S.A.D.,3000000.0,2026-06-30 00:00:00,28.0,1998-05-13 00:00:00
+Édgar Badía,Elche Club de Fútbol S.A.D.,3000000.0,2025-06-30 00:00:00,34.2,1992-02-12 00:00:00
+Selton Sánchez,Athletic Club Bilbao,3000000.0,2029-06-30 00:00:00,19.2,2007-02-20 00:00:00
+Nicolás Fonseca,Real Oviedo S.A.D.,3000000.0,2026-06-30 00:00:00,27.5,1998-10-19 00:00:00
+Ander Guevara,Deportivo Alavés S. A. D.,3000000.0,2027-06-30 00:00:00,28.8,1997-07-07 00:00:00
+Nicolás López,Granada CF,3000000.0,2023-12-31 00:00:00,32.6,1993-10-01 00:00:00
+André Silva,Elche Club de Fútbol S.A.D.,3000000.0,2026-06-30 00:00:00,30.5,1995-11-06 00:00:00
+Keidi Bare,Reial Club Deportiu Espanyol de Barcelona S.A.D.,3000000.0,2024-06-30 00:00:00,28.7,1997-08-28 00:00:00
+Juan Musso,Club Atlético de Madrid S.A.D.,3000000.0,2028-06-30 00:00:00,32.0,1994-05-06 00:00:00
+Thierry Correia,Valencia Club de Fútbol S. A. D.,3000000.0,2026-06-30 00:00:00,27.2,1999-03-09 00:00:00
+Borja Iglesias,Real Club Celta de Vigo S. A. D.,3000000.0,2027-06-30 00:00:00,33.3,1993-01-17 00:00:00
+Fran Pérez,Rayo Vallecano de Madrid S. A. D.,3000000.0,2029-06-30 00:00:00,23.7,2002-09-09 00:00:00
+Álex Padilla,Athletic Club Bilbao,3000000.0,2029-06-30 00:00:00,22.7,2003-09-01 00:00:00
+Isi Palazón,Rayo Vallecano de Madrid S. A. D.,3000000.0,2028-06-30 00:00:00,31.4,1994-12-27 00:00:00
+Aarón Escandell,Real Oviedo S.A.D.,3000000.0,2027-06-30 00:00:00,30.6,1995-09-27 00:00:00
+Adrián Dela,Levante Unión Deportiva S.A.D.,3000000.0,2026-06-30 00:00:00,27.2,1999-02-26 00:00:00
+Baptiste Santamaria,Valencia Club de Fútbol S. A. D.,3000000.0,2027-06-30 00:00:00,31.2,1995-03-09 00:00:00
+Diego Llorente,Real Betis Balompié S.A.D.,3000000.0,2028-06-30 00:00:00,32.7,1993-08-16 00:00:00
+Juan Cruz,CD Leganés,3000000.0,2029-06-30 00:00:00,26.0,2000-04-25 00:00:00
+Pedro Díaz,Rayo Vallecano de Madrid S. A. D.,3000000.0,2028-06-30 00:00:00,27.9,1998-06-05 00:00:00
+Duje Caleta-Car,Real Sociedad de Fútbol S.A.D.,3000000.0,2026-06-30 00:00:00,29.6,1996-09-17 00:00:00
+David Soria,Getafe Club de Fútbol S. A. D. Team Dubai,3000000.0,2026-06-30 00:00:00,33.1,1993-04-04 00:00:00
+Fer Niño,Villarreal Club de Fútbol S.A.D.,3000000.0,2026-06-30 00:00:00,25.5,2000-10-24 00:00:00
+Santiago Colombatto,Real Oviedo S.A.D.,3000000.0,2026-06-30 00:00:00,29.3,1997-01-17 00:00:00
+Edgar González,UD Almería,3000000.0,2028-06-30 00:00:00,29.1,1997-04-01 00:00:00
+Alemão,Rayo Vallecano de Madrid S. A. D.,3000000.0,2030-06-30 00:00:00,28.1,1998-04-01 00:00:00
+David Jiménez,Real Madrid Club de Fútbol,3000000.0,2027-06-30 00:00:00,22.1,2004-03-14 00:00:00
+Ramón Terrats,Reial Club Deportiu Espanyol de Barcelona S.A.D.,3000000.0,2026-06-30 00:00:00,25.5,2000-10-18 00:00:00
+Alfon González,Villarreal Club de Fútbol S.A.D.,3000000.0,2026-06-30 00:00:00,27.0,1999-05-04 00:00:00
+Sergio Herrera,Club Atlético Osasuna,3000000.0,2028-06-30 00:00:00,32.9,1993-06-05 00:00:00
+Carlos Macià,Villarreal Club de Fútbol S.A.D.,3000000.0,2029-06-30 00:00:00,17.7,2008-09-01 00:00:00
+Xabi Prieto,Real Sociedad de Fútbol S.A.D.,3000000.0,,42.7,1983-08-29 00:00:00
+Ante Budimir,Club Atlético Osasuna,3000000.0,2027-06-30 00:00:00,34.8,1991-07-22 00:00:00
+Gerard Piqué,Futbol Club Barcelona,3000000.0,,39.3,1987-02-02 00:00:00
+Gerard Moreno,Villarreal Club de Fútbol S.A.D.,2800000.0,2027-06-30 00:00:00,34.1,1992-04-07 00:00:00
+José Salinas,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2800000.0,2028-06-30 00:00:00,25.6,2000-09-30 00:00:00
+Lucas Torró,Club Atlético Osasuna,2800000.0,2027-06-30 00:00:00,31.8,1994-07-19 00:00:00
+Sebastián Boselli,Getafe Club de Fútbol S. A. D. Team Dubai,2800000.0,2026-06-30 00:00:00,22.4,2003-12-04 00:00:00
+Alejandro Catena,Club Atlético Osasuna,2800000.0,2028-06-30 00:00:00,31.5,1994-10-28 00:00:00
+Jozhua Vertrouwd,Rayo Vallecano de Madrid S. A. D.,2500000.0,2026-06-30 00:00:00,21.7,2004-08-21 00:00:00
+Alfonso Pedraza,Villarreal Club de Fútbol S.A.D.,2500000.0,2026-06-30 00:00:00,30.1,1996-04-09 00:00:00
+Charles Pickel,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2500000.0,2026-06-30 00:00:00,29.0,1997-05-15 00:00:00
+Fede Cartabia,Deportivo de La Coruña,2500000.0,,33.3,1993-01-20 00:00:00
+Munir El Haddadi,CD Leganés,2500000.0,2027-06-30 00:00:00,30.7,1995-09-01 00:00:00
+Stipe Biuk,Real Valladolid CF,2500000.0,2029-06-30 00:00:00,23.4,2002-12-26 00:00:00
+Abel Ruiz,Girona Fútbol Club S. A. D.,2500000.0,2029-06-30 00:00:00,26.3,2000-01-28 00:00:00
+Unai López,Rayo Vallecano de Madrid S. A. D.,2500000.0,2026-06-30 00:00:00,30.5,1995-10-30 00:00:00
+Thomas Partey,Villarreal Club de Fútbol S.A.D.,2500000.0,2026-06-30 00:00:00,32.9,1993-06-13 00:00:00
+Youssouf Sabaly,Real Betis Balompié S.A.D.,2500000.0,2027-06-30 00:00:00,33.2,1993-03-05 00:00:00
+Marcão,Sevilla Fútbol Club S.A.D.,2500000.0,2028-06-30 00:00:00,29.9,1996-06-05 00:00:00
+Jhon Solís,Girona Fútbol Club S. A. D.,2500000.0,2026-06-30 00:00:00,21.6,2004-10-03 00:00:00
+Sergi Canós,Valencia Club de Fútbol S. A. D.,2500000.0,2026-06-30 00:00:00,29.3,1997-02-02 00:00:00
+Carlos Neva,Granada CF,2500000.0,2025-06-30 00:00:00,29.9,1996-06-12 00:00:00
+Álvaro Fernández,Sevilla Fútbol Club S.A.D.,2500000.0,2027-06-30 00:00:00,28.1,1998-04-13 00:00:00
+Óscar Plano,Real Valladolid CF,2500000.0,,35.2,1991-02-11 00:00:00
+Carlos Espí,Levante Unión Deportiva S.A.D.,2500000.0,2028-06-30 00:00:00,20.8,2005-07-24 00:00:00
+Zaid Romero,Getafe Club de Fútbol S. A. D. Team Dubai,2500000.0,2026-06-30 00:00:00,26.4,1999-12-15 00:00:00
+Yvan Neyou,CD Leganés,2500000.0,2026-06-30 00:00:00,29.3,1997-01-03 00:00:00
+Nemanja Gudelj,Sevilla Fútbol Club S.A.D.,2500000.0,2026-06-30 00:00:00,34.5,1991-11-16 00:00:00
+Yoel Lago,Real Club Celta de Vigo S. A. D.,2500000.0,2029-06-30 00:00:00,22.1,2004-03-25 00:00:00
+Jackson Porozo,CD Leganés,2500000.0,,25.7,2000-08-04 00:00:00
+Héctor Bellerín,Real Betis Balompié S.A.D.,2500000.0,2028-06-30 00:00:00,31.1,1995-03-19 00:00:00
+Grady Diangana,Elche Club de Fútbol S.A.D.,2500000.0,2027-06-30 00:00:00,28.0,1998-04-19 00:00:00
+Jesús Navas,Sevilla Fútbol Club S.A.D.,2500000.0,,40.5,1985-11-21 00:00:00
+Oli McBurnie,UD Las Palmas,2500000.0,2028-06-30 00:00:00,29.9,1996-06-04 00:00:00
+Jonny Otto,Deportivo Alavés S. A. D.,2500000.0,2027-06-30 00:00:00,32.2,1994-03-03 00:00:00
+José Carlos Lazo,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2500000.0,2027-06-30 00:00:00,30.2,1996-02-16 00:00:00
+Iñigo Ruiz de Galarreta,Athletic Club Bilbao,2500000.0,2027-06-30 00:00:00,32.7,1993-08-06 00:00:00
+Pau López,Real Betis Balompié S.A.D.,2500000.0,2028-06-30 00:00:00,31.4,1994-12-13 00:00:00
+Sergio Ramos,Sevilla Fútbol Club S.A.D.,2500000.0,,40.1,1986-03-30 00:00:00
+Fernando Torres,Club Atlético de Madrid S.A.D.,2500000.0,,42.1,1984-03-20 00:00:00
+Omer Atzili,Granada CF,2500000.0,2026-06-30 00:00:00,32.8,1993-07-27 00:00:00
+Carlos Vela,Real Sociedad de Fútbol S.A.D.,2500000.0,2023-12-31 00:00:00,37.2,1989-03-01 00:00:00
+Eray Cömert,Valencia Club de Fútbol S. A. D.,2500000.0,2026-06-30 00:00:00,28.2,1998-02-04 00:00:00
+Luis Vázquez,Getafe Club de Fútbol S. A. D. Team Dubai,2500000.0,2026-06-30 00:00:00,25.0,2001-04-24 00:00:00
+Asier Villalibre,Deportivo Alavés S. A. D.,2500000.0,2026-06-30 00:00:00,28.6,1997-09-30 00:00:00
+Manu Morlanes,Real Club Deportivo Mallorca S.A.D.,2400000.0,2028-06-30 00:00:00,27.3,1999-01-12 00:00:00
+Antonio Sánchez,Real Club Deportivo Mallorca S.A.D.,2400000.0,2027-06-30 00:00:00,29.0,1997-04-22 00:00:00
+Óscar Valentín,Rayo Vallecano de Madrid S. A. D.,2200000.0,2027-06-30 00:00:00,31.7,1994-08-20 00:00:00
+Iddrisu Baba,UD Almería,2200000.0,2027-06-30 00:00:00,30.3,1996-01-22 00:00:00
+Jeremy Toljan,Levante Unión Deportiva S.A.D.,2200000.0,2027-06-30 00:00:00,31.7,1994-08-08 00:00:00
+Santiago Cáseres,Villarreal Club de Fútbol S.A.D.,2000000.0,2024-12-31 00:00:00,29.2,1997-02-25 00:00:00
+Gareth Bale,Real Madrid Club de Fútbol,2000000.0,,36.8,1989-07-16 00:00:00
+Florian Lejeune,Rayo Vallecano de Madrid S. A. D.,2000000.0,2027-06-30 00:00:00,35.0,1991-05-20 00:00:00
+Santi Mina,Real Club Celta de Vigo S. A. D.,2000000.0,2023-06-30 00:00:00,30.4,1995-12-07 00:00:00
+Chumi,UD Almería,2000000.0,2025-06-30 00:00:00,27.2,1999-03-02 00:00:00
+Luis Rioja,Valencia Club de Fútbol S. A. D.,2000000.0,2027-06-30 00:00:00,32.6,1993-10-16 00:00:00
+Ángel Lafita,Getafe Club de Fútbol S. A. D. Team Dubai,2000000.0,,41.7,1984-08-07 00:00:00
+Adrià Altimira,CD Leganés,2000000.0,2028-06-30 00:00:00,25.1,2001-03-28 00:00:00
+Adrián Guerrero,Valencia Club de Fútbol S. A. D.,2000000.0,2024-06-30 00:00:00,28.3,1998-01-28 00:00:00
+Miguel de la Fuente,CD Leganés,2000000.0,2026-06-30 00:00:00,26.7,1999-09-03 00:00:00
+Adu Ares,Athletic Club Bilbao,2000000.0,2030-06-30 00:00:00,24.6,2001-10-12 00:00:00
+Joan Jordán,Sevilla Fútbol Club S.A.D.,2000000.0,2027-06-30 00:00:00,31.8,1994-07-06 00:00:00
+Rahim Alhassane,Real Oviedo S.A.D.,2000000.0,2028-06-30 00:00:00,24.3,2002-01-01 00:00:00
+Antonio Puertas,Granada CF,2000000.0,2026-06-30 00:00:00,34.2,1992-02-21 00:00:00
+Mathew Ryan,Levante Unión Deportiva S.A.D.,2000000.0,2026-06-30 00:00:00,34.1,1992-04-08 00:00:00
+Luca Zidane,Granada CF,2000000.0,2027-06-30 00:00:00,28.0,1998-05-13 00:00:00
+Javi Galán,Club Atlético Osasuna,2000000.0,2026-06-30 00:00:00,31.5,1994-11-19 00:00:00
+Sergio León,Real Valladolid CF,2000000.0,2024-06-30 00:00:00,37.3,1989-01-06 00:00:00
+Jaime Seoane,Getafe Club de Fútbol S. A. D. Team Dubai,2000000.0,2025-06-30 00:00:00,29.3,1997-01-22 00:00:00
+Jon Guridi,Deportivo Alavés S. A. D.,2000000.0,2026-06-30 00:00:00,31.2,1995-02-28 00:00:00
+Fali,Cádiz CF,2000000.0,2026-06-30 00:00:00,32.7,1993-08-12 00:00:00
+Calebe,Deportivo Alavés S. A. D.,2000000.0,2026-06-30 00:00:00,26.0,2000-04-30 00:00:00
+Fernando Calero,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2000000.0,2026-06-30 00:00:00,30.6,1995-09-14 00:00:00
+Donny van de Beek,Girona Fútbol Club S. A. D.,2000000.0,2028-06-30 00:00:00,29.0,1997-04-18 00:00:00
+Sergio Ruiz,Granada CF,2000000.0,2026-06-30 00:00:00,31.4,1994-12-16 00:00:00
+Jawad El Yamiq,Real Zaragoza,2000000.0,2026-06-30 00:00:00,34.2,1992-02-29 00:00:00
+Óscar Melendo,Granada CF,2000000.0,2025-06-30 00:00:00,28.7,1997-08-23 00:00:00
+Maxi Gómez,Cádiz CF,2000000.0,,29.7,1996-08-14 00:00:00
+Benoît Trémoulinas,Sevilla Fútbol Club S.A.D.,2000000.0,,40.4,1985-12-28 00:00:00
+Jiri Letacek,Getafe Club de Fútbol S. A. D. Team Dubai,2000000.0,2028-06-30 00:00:00,27.3,1999-01-09 00:00:00
+Lei Wu,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2000000.0,2027-07-31 00:00:00,34.5,1991-11-19 00:00:00
+Fábio Cardoso,Sevilla Fútbol Club S.A.D.,2000000.0,2028-06-30 00:00:00,32.0,1994-04-19 00:00:00
+Kaiky,UD Almería,2000000.0,2028-06-30 00:00:00,22.3,2004-01-12 00:00:00
+Mouctar Diakhaby,Valencia Club de Fútbol S. A. D.,2000000.0,2027-06-30 00:00:00,29.4,1996-12-19 00:00:00
+Raúl Guti,Elche Club de Fútbol S.A.D.,2000000.0,2025-06-30 00:00:00,29.3,1996-12-30 00:00:00
+Álex Sola,Getafe Club de Fútbol S. A. D. Team Dubai,2000000.0,2026-06-30 00:00:00,26.9,1999-06-09 00:00:00
+Jon Karrikaburu,Real Sociedad de Fútbol S.A.D.,2000000.0,2027-06-30 00:00:00,23.6,2002-09-19 00:00:00
+Carlos Dotor,Real Club Celta de Vigo S. A. D.,2000000.0,2025-06-30 00:00:00,25.1,2001-03-15 00:00:00
+Roger Brugué,Levante Unión Deportiva S.A.D.,2000000.0,2028-06-30 00:00:00,29.5,1996-11-04 00:00:00
+Carlos Martín,Rayo Vallecano de Madrid S. A. D.,2000000.0,2026-06-30 00:00:00,24.0,2002-04-22 00:00:00
+Paulo Gazzaniga,Girona Fútbol Club S. A. D.,2000000.0,2027-06-30 00:00:00,34.3,1992-01-02 00:00:00
+Juan Valera,Getafe Club de Fútbol S. A. D. Team Dubai,2000000.0,,41.4,1984-12-21 00:00:00
+Miguel Rubio,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2000000.0,2028-06-30 00:00:00,28.2,1998-03-11 00:00:00
+Xavi,Futbol Club Barcelona,2000000.0,,46.3,1980-01-25 00:00:00
+Asier Illarramendi,Real Sociedad de Fútbol S.A.D.,2000000.0,,36.2,1990-03-08 00:00:00
+Thomas Lemar,Girona Fútbol Club S. A. D.,2000000.0,2026-06-30 00:00:00,30.5,1995-11-12 00:00:00
+Victor Parada,Deportivo Alavés S. A. D.,2000000.0,2029-06-30 00:00:00,24.1,2002-04-04 00:00:00
+Ander Iturraspe,Reial Club Deportiu Espanyol de Barcelona S.A.D.,2000000.0,,37.2,1989-03-08 00:00:00
+Borja Garcés,Club Atlético de Madrid S.A.D.,2000000.0,2026-06-30 00:00:00,26.7,1999-08-06 00:00:00
+Alberto Reina,Real Oviedo S.A.D.,2000000.0,2027-06-30 00:00:00,28.5,1997-11-19 00:00:00
+Álex Sancris,Getafe Club de Fútbol S. A. D. Team Dubai,2000000.0,2028-06-30 00:00:00,29.3,1997-01-18 00:00:00
+Min-su Kim,Girona Fútbol Club S. A. D.,2000000.0,2026-06-30 00:00:00,20.3,2006-01-19 00:00:00
+Juanmi Latasa,Real Valladolid CF,2000000.0,2029-06-30 00:00:00,25.1,2001-03-23 00:00:00
+Sergio Camello,Rayo Vallecano de Madrid S. A. D.,2000000.0,2027-06-30 00:00:00,25.2,2001-02-10 00:00:00
+Papu Gómez,Sevilla Fútbol Club S.A.D.,2000000.0,,38.2,1988-02-15 00:00:00
+Pablo Martínez,Levante Unión Deportiva S.A.D.,2000000.0,2026-06-30 00:00:00,28.2,1998-02-22 00:00:00
+Iker Muñoz,Club Atlético Osasuna,2000000.0,2027-06-30 00:00:00,23.7,2002-09-05 00:00:00
+Stole Dimitrievski,Valencia Club de Fútbol S. A. D.,2000000.0,2026-06-30 00:00:00,32.4,1993-12-25 00:00:00
+Horațiu Moldovan,Real Oviedo S.A.D.,2000000.0,2026-06-30 00:00:00,28.3,1998-01-20 00:00:00
+Pathé Ciss,Rayo Vallecano de Madrid S. A. D.,2000000.0,2027-06-30 00:00:00,32.1,1994-03-16 00:00:00
+Javier Manquillo,Real Club Celta de Vigo S. A. D.,1800000.0,,32.0,1994-05-05 00:00:00
+Gonzalo Villar,Elche Club de Fútbol S.A.D.,1800000.0,2026-06-30 00:00:00,28.1,1998-03-23 00:00:00
+Dani Cárdenas,Rayo Vallecano de Madrid S. A. D.,1800000.0,2027-06-30 00:00:00,29.1,1997-03-28 00:00:00
+Oriol Rey,Levante Unión Deportiva S.A.D.,1800000.0,2027-06-30 00:00:00,28.2,1998-02-25 00:00:00
+Ander Capa,Athletic Club Bilbao,1800000.0,,34.2,1992-02-08 00:00:00
+Jon Ander Olasagasti,Levante Unión Deportiva S.A.D.,1800000.0,2028-06-30 00:00:00,25.7,2000-08-16 00:00:00
+Roque Mesa,Real Valladolid CF,1800000.0,,36.9,1989-06-07 00:00:00
+Gastón Silva,SD Huesca,1800000.0,2023-06-30 00:00:00,32.2,1994-03-05 00:00:00
+Luka Ilic,Real Oviedo S.A.D.,1800000.0,2028-06-30 00:00:00,26.8,1999-07-02 00:00:00
+Óscar Rodríguez,CD Leganés,1800000.0,,27.9,1998-06-28 00:00:00
+Aritz Elustondo,Real Sociedad de Fútbol S.A.D.,1800000.0,2026-06-30 00:00:00,32.1,1994-03-28 00:00:00
+Jota Peleteiro,Deportivo Alavés S. A. D.,1800000.0,,34.9,1991-06-16 00:00:00
+Johan Mojica,Real Club Deportivo Mallorca S.A.D.,1800000.0,2027-06-30 00:00:00,33.7,1992-08-21 00:00:00
+Moi Gómez,Club Atlético Osasuna,1800000.0,2027-06-30 00:00:00,31.9,1994-06-23 00:00:00
+Gonzalo Melero,UD Almería,1800000.0,2026-06-30 00:00:00,32.3,1994-01-02 00:00:00
+Erik Expósito,UD Las Palmas,1800000.0,2024-06-30 00:00:00,29.9,1996-06-23 00:00:00
+Tete Morente,Elche Club de Fútbol S.A.D.,1800000.0,2028-06-30 00:00:00,29.4,1996-12-04 00:00:00
+Takuma Asano,Real Club Deportivo Mallorca S.A.D.,1800000.0,2026-06-30 00:00:00,31.5,1994-11-10 00:00:00
+Rubén García,Club Atlético Osasuna,1800000.0,2027-06-30 00:00:00,32.8,1993-07-14 00:00:00
+Unai Vencedor,Levante Unión Deportiva S.A.D.,1800000.0,2026-06-30 00:00:00,25.5,2000-11-15 00:00:00
+Álvaro García,Rayo Vallecano de Madrid S. A. D.,1800000.0,2028-06-30 00:00:00,33.5,1992-10-27 00:00:00
+Iago Aspas,Real Club Celta de Vigo S. A. D.,1800000.0,2026-06-30 00:00:00,38.8,1987-08-01 00:00:00
+Arnau Puigmal,UD Almería,1800000.0,2026-06-30 00:00:00,25.3,2001-01-10 00:00:00
+Antoniu Roca,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1800000.0,2028-06-30 00:00:00,23.7,2002-09-05 00:00:00
+Iñigo Vicente,Athletic Club Bilbao,1800000.0,2025-06-30 00:00:00,28.3,1998-01-06 00:00:00
+Dakonam Djené,Getafe Club de Fútbol S. A. D. Team Dubai,1600000.0,2026-06-30 00:00:00,34.3,1991-12-31 00:00:00
+David Zurutuza,Real Sociedad de Fútbol S.A.D.,1600000.0,,39.8,1986-07-19 00:00:00
+Nacho Vidal,Real Oviedo S.A.D.,1600000.0,2027-06-30 00:00:00,31.3,1995-01-24 00:00:00
+Fede San Emeterio,Cádiz CF,1500000.0,2026-06-30 00:00:00,29.1,1997-03-16 00:00:00
+Diego García,CD Leganés,1500000.0,2028-06-30 00:00:00,26.0,2000-04-18 00:00:00
+Mikel Goti,Real Sociedad de Fútbol S.A.D.,1500000.0,2026-06-30 00:00:00,24.0,2002-05-23 00:00:00
+Alejandro Iturbe,Elche Club de Fútbol S.A.D.,1500000.0,2029-06-30 00:00:00,22.7,2003-09-02 00:00:00
+Pablo Campos,Levante Unión Deportiva S.A.D.,1500000.0,2027-06-30 00:00:00,24.0,2002-04-28 00:00:00
+José Antonio Martínez,SD Eibar,1500000.0,2023-12-31 00:00:00,33.2,1993-02-12 00:00:00
+Urko Izeta,Athletic Club Bilbao,1500000.0,2027-06-30 00:00:00,26.6,1999-09-29 00:00:00
+Toni Lato,Real Club Deportivo Mallorca S.A.D.,1500000.0,2027-06-30 00:00:00,28.5,1997-11-21 00:00:00
+Mikel Vesga,Athletic Club Bilbao,1500000.0,2027-06-30 00:00:00,33.1,1993-04-08 00:00:00
+Andrés Castrín,Sevilla Fútbol Club S.A.D.,1500000.0,2027-06-30 00:00:00,22.9,2003-05-26 00:00:00
+Markel Susaeta,Athletic Club Bilbao,1500000.0,,38.4,1987-12-14 00:00:00
+Nico Serrano,Athletic Club Bilbao,1500000.0,2028-06-30 00:00:00,23.2,2003-03-05 00:00:00
+Paulino de la Fuente,Deportivo Alavés S. A. D.,1500000.0,,28.9,1997-06-27 00:00:00
+Gonzalo Escalante,Cádiz CF,1500000.0,2026-06-30 00:00:00,33.1,1993-03-27 00:00:00
+Renzo Saravia,Valencia Club de Fútbol S. A. D.,1500000.0,2026-06-30 00:00:00,32.9,1993-06-16 00:00:00
+José Antonio Caro,Real Valladolid CF,1500000.0,2024-06-30 00:00:00,32.0,1994-05-03 00:00:00
+Manu Fernández,Real Club Celta de Vigo S. A. D.,1500000.0,2028-06-30 00:00:00,25.0,2001-04-23 00:00:00
+Chimy Ávila,Real Betis Balompié S.A.D.,1500000.0,2027-06-30 00:00:00,32.2,1994-02-06 00:00:00
+Étienne Capoue,Villarreal Club de Fútbol S.A.D.,1500000.0,,37.8,1988-07-11 00:00:00
+Antonio Raíllo,Real Club Deportivo Mallorca S.A.D.,1500000.0,2027-06-30 00:00:00,34.6,1991-10-08 00:00:00
+Iván Alejo,Cádiz CF,1500000.0,2028-06-30 00:00:00,31.2,1995-02-10 00:00:00
+Javi Muñoz,Getafe Club de Fútbol S. A. D. Team Dubai,1500000.0,2028-06-30 00:00:00,31.2,1995-02-28 00:00:00
+Kike Barja,Club Atlético Osasuna,1500000.0,2026-06-30 00:00:00,29.1,1997-04-01 00:00:00
+Alberto Marí,Valencia Club de Fútbol S. A. D.,1500000.0,2026-06-30 00:00:00,24.8,2001-07-11 00:00:00
+Iza Carcelén,Cádiz CF,1500000.0,2025-06-30 00:00:00,33.0,1993-04-23 00:00:00
+Juan Bernat,Getafe Club de Fútbol S. A. D. Team Dubai,1500000.0,2026-06-30 00:00:00,33.2,1993-03-01 00:00:00
+Eric Bailly,Real Oviedo S.A.D.,1500000.0,2027-06-30 00:00:00,32.1,1994-04-12 00:00:00
+Andoni Iraola,Athletic Club Bilbao,1500000.0,,43.9,1982-06-22 00:00:00
+Rubén Sánchez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1500000.0,2027-06-30 00:00:00,25.2,2001-02-04 00:00:00
+Manu Trigueros,Villarreal Club de Fútbol S.A.D.,1500000.0,2026-06-30 00:00:00,34.5,1991-10-17 00:00:00
+Toni Moya,Deportivo Alavés S. A. D.,1500000.0,2023-06-30 00:00:00,28.1,1998-03-20 00:00:00
+Ibrahim Diabate,Deportivo Alavés S. A. D.,1500000.0,2026-06-30 00:00:00,26.5,1999-11-17 00:00:00
+Rubén Alcaraz,Cádiz CF,1500000.0,2026-06-30 00:00:00,35.0,1991-05-01 00:00:00
+Brayan Angulo,Granada CF,1500000.0,2024-06-30 00:00:00,36.5,1989-11-02 00:00:00
+Simão,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1500000.0,,46.5,1979-10-31 00:00:00
+Sandro Ramírez,UD Las Palmas,1500000.0,2026-06-30 00:00:00,30.8,1995-07-09 00:00:00
+Manu Bueno,Sevilla Fútbol Club S.A.D.,1500000.0,2027-06-30 00:00:00,21.8,2004-07-27 00:00:00
+Léo Pétrot,Elche Club de Fútbol S.A.D.,1500000.0,2026-06-30 00:00:00,29.1,1997-04-15 00:00:00
+Dani Raba,Valencia Club de Fútbol S. A. D.,1500000.0,2027-06-30 00:00:00,30.5,1995-10-29 00:00:00
+Portu,Girona Fútbol Club S. A. D.,1500000.0,2027-06-30 00:00:00,34.0,1992-05-21 00:00:00
+Beñat Etxebarria,Athletic Club Bilbao,1500000.0,,39.2,1987-02-19 00:00:00
+Jorge Miramón,Levante Unión Deportiva S.A.D.,1500000.0,2024-06-30 00:00:00,36.9,1989-06-02 00:00:00
+José Gragera,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1500000.0,2026-06-30 00:00:00,26.0,2000-05-14 00:00:00
+Joaquín,Real Betis Balompié S.A.D.,1500000.0,,44.8,1981-07-21 00:00:00
+Raúl García,Athletic Club Bilbao,1500000.0,,39.8,1986-07-11 00:00:00
+Léo Baptistão,UD Almería,1500000.0,2026-06-30 00:00:00,33.7,1992-08-26 00:00:00
+Kwasi Sibo,Real Oviedo S.A.D.,1500000.0,2026-06-30 00:00:00,27.9,1998-06-24 00:00:00
+Curro Sánchez,UD Almería,1500000.0,2024-06-30 00:00:00,30.3,1996-01-03 00:00:00
+Jon Morcillo,Athletic Club Bilbao,1500000.0,2024-06-30 00:00:00,27.6,1998-09-15 00:00:00
+Manu Vallejo,Girona Fútbol Club S. A. D.,1500000.0,2025-06-30 00:00:00,29.2,1997-02-14 00:00:00
+Kervin Arriaga,Levante Unión Deportiva S.A.D.,1500000.0,2028-06-30 00:00:00,28.3,1998-01-05 00:00:00
+Lucas Bergström,Real Club Deportivo Mallorca S.A.D.,1500000.0,2027-06-30 00:00:00,23.7,2002-09-05 00:00:00
+Abde Rebbach,Deportivo Alavés S. A. D.,1500000.0,2028-06-30 00:00:00,27.7,1998-08-11 00:00:00
+Manu Fuster,UD Las Palmas,1500000.0,2028-06-30 00:00:00,28.5,1997-10-22 00:00:00
+Borja Oubiña,Real Club Celta de Vigo S. A. D.,1500000.0,,44.0,1982-05-17 00:00:00
+Ricardo Rodríguez,Real Betis Balompié S.A.D.,1500000.0,2026-06-30 00:00:00,33.7,1992-08-25 00:00:00
+Víctor Meseguer,Real Valladolid CF,1500000.0,2029-06-30 00:00:00,26.9,1999-06-09 00:00:00
+Iker Benito,Club Atlético Osasuna,1500000.0,2027-06-30 00:00:00,23.7,2002-08-10 00:00:00
+Jailson,Real Club Celta de Vigo S. A. D.,1500000.0,,30.7,1995-09-07 00:00:00
+Amath Ndiaye,Real Valladolid CF,1500000.0,2027-06-30 00:00:00,29.8,1996-07-16 00:00:00
+Óscar de Marcos,Athletic Club Bilbao,1500000.0,,37.1,1989-04-14 00:00:00
+Carlos Clerc,Elche Club de Fútbol S.A.D.,1500000.0,2024-06-30 00:00:00,34.2,1992-02-21 00:00:00
+Carlos Fernández,Real Sociedad de Fútbol S.A.D.,1500000.0,2026-06-30 00:00:00,30.0,1996-05-22 00:00:00
+Ville Koski,Deportivo Alavés S. A. D.,1500000.0,2026-06-30 00:00:00,24.3,2002-01-27 00:00:00
+Sergio Escudero,Real Valladolid CF,1500000.0,2024-06-30 00:00:00,36.7,1989-09-02 00:00:00
+Peter Federico,Real Valladolid CF,1500000.0,2026-06-30 00:00:00,23.8,2002-07-25 00:00:00
+Matija Nastasić,CD Leganés,1500000.0,,33.1,1993-03-28 00:00:00
+Matías Vecino,Real Club Celta de Vigo S. A. D.,1500000.0,2027-06-30 00:00:00,34.7,1991-08-24 00:00:00
+Álex Fernández,Cádiz CF,1500000.0,2025-06-30 00:00:00,33.6,1992-10-15 00:00:00
+Guilherme Siqueira,Valencia Club de Fútbol S. A. D.,1500000.0,,40.0,1986-04-28 00:00:00
+Mateu Morey,Real Club Deportivo Mallorca S.A.D.,1500000.0,2027-06-30 00:00:00,26.2,2000-03-02 00:00:00
+Selim Amallah,Real Valladolid CF,1500000.0,,29.5,1996-11-15 00:00:00
+Axel Witsel,Girona Fútbol Club S. A. D.,1400000.0,2026-06-30 00:00:00,37.3,1989-01-12 00:00:00
+Daley Blind,Girona Fútbol Club S. A. D.,1400000.0,2026-06-30 00:00:00,36.2,1990-03-09 00:00:00
+Rubén Sobrino,Cádiz CF,1400000.0,2026-06-30 00:00:00,33.9,1992-06-01 00:00:00
+Sergio López,Real Valladolid CF,1400000.0,2024-06-30 00:00:00,27.1,1999-04-08 00:00:00
+Alejandro Cantero,Levante Unión Deportiva S.A.D.,1400000.0,2025-06-30 00:00:00,25.9,2000-06-08 00:00:00
+Gerard Gumbau,Rayo Vallecano de Madrid S. A. D.,1400000.0,2026-06-30 00:00:00,31.4,1994-12-18 00:00:00
+Mourad El Ghezouani,Elche Club de Fútbol S.A.D.,1400000.0,2023-06-30 00:00:00,27.9,1998-05-27 00:00:00
+Tanguy Nianzou,Sevilla Fútbol Club S.A.D.,1400000.0,2027-06-30 00:00:00,23.9,2002-06-07 00:00:00
+David Costas,Real Oviedo S.A.D.,1400000.0,2028-06-30 00:00:00,31.1,1995-03-26 00:00:00
+Yann Bodiger,Cádiz CF,1400000.0,2024-06-30 00:00:00,31.2,1995-02-09 00:00:00
+Marc Cardona,UD Las Palmas,1400000.0,2026-06-30 00:00:00,30.8,1995-07-08 00:00:00
+Alexis Sánchez,Sevilla Fútbol Club S.A.D.,1400000.0,2026-06-30 00:00:00,37.4,1988-12-19 00:00:00
+Marcos Alonso,Real Club Celta de Vigo S. A. D.,1400000.0,2026-06-30 00:00:00,35.4,1990-12-28 00:00:00
+Iker Losada,Levante Unión Deportiva S.A.D.,1400000.0,2026-06-30 00:00:00,24.8,2001-08-01 00:00:00
+Cédric Bakambu,Real Betis Balompié S.A.D.,1400000.0,2026-06-30 00:00:00,35.1,1991-04-11 00:00:00
+Wilson Manafá,Granada CF,1300000.0,2025-12-31 00:00:00,31.8,1994-07-23 00:00:00
+Awer Mabil,Cádiz CF,1300000.0,2026-06-30 00:00:00,30.6,1995-09-15 00:00:00
+Adnan Januzaj,Sevilla Fútbol Club S.A.D.,1200000.0,2026-06-30 00:00:00,31.2,1995-02-05 00:00:00
+Roger Martí,Cádiz CF,1200000.0,2026-06-30 00:00:00,35.3,1991-01-03 00:00:00
+Pere Pons,Deportivo Alavés S. A. D.,1200000.0,2024-05-31 00:00:00,33.2,1993-02-20 00:00:00
+Sergio Álvarez,SD Eibar,1200000.0,2024-06-30 00:00:00,34.3,1992-01-23 00:00:00
+Pere Milla,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1200000.0,2027-06-30 00:00:00,33.6,1992-09-23 00:00:00
+Diego Rico,Getafe Club de Fútbol S. A. D. Team Dubai,1200000.0,2026-06-30 00:00:00,33.2,1993-02-23 00:00:00
+Iñigo Lekue,Athletic Club Bilbao,1200000.0,2026-06-30 00:00:00,33.0,1993-05-04 00:00:00
+Rubén Yáñez,Getafe Club de Fútbol S. A. D. Team Dubai,1200000.0,2025-06-30 00:00:00,32.6,1993-10-12 00:00:00
+David López,Real Club Deportivo Mallorca S.A.D.,1200000.0,2027-06-30 00:00:00,23.2,2003-02-03 00:00:00
+Denis Suárez,Deportivo Alavés S. A. D.,1200000.0,2027-06-30 00:00:00,32.3,1994-01-06 00:00:00
+Diego González,Elche Club de Fútbol S.A.D.,1200000.0,2024-06-30 00:00:00,31.3,1995-01-28 00:00:00
+Nikola Maras,Deportivo Alavés S. A. D.,1200000.0,2027-06-30 00:00:00,30.4,1995-12-19 00:00:00
+Dani Martín,Real Betis Balompié S.A.D.,1200000.0,2024-06-30 00:00:00,27.8,1998-07-08 00:00:00
+Stanko Juric,Real Valladolid CF,1200000.0,2027-06-30 00:00:00,29.7,1996-08-16 00:00:00
+Iván Balliu,Rayo Vallecano de Madrid S. A. D.,1200000.0,2027-06-30 00:00:00,34.3,1992-01-01 00:00:00
+Dani Gómez,Valencia Club de Fútbol S. A. D.,1200000.0,2028-06-30 00:00:00,27.8,1998-07-30 00:00:00
+Álex Centelles,UD Almería,1200000.0,2026-06-30 00:00:00,26.7,1999-08-30 00:00:00
+Yuri Berchiche,Athletic Club Bilbao,1200000.0,2026-06-30 00:00:00,36.2,1990-02-10 00:00:00
+Sergi Enrich,SD Eibar,1200000.0,2023-06-30 00:00:00,36.2,1990-02-26 00:00:00
+Álex Suárez,UD Las Palmas,1200000.0,2028-06-30 00:00:00,33.1,1993-03-18 00:00:00
+Pejiño,UD Las Palmas,1200000.0,2026-06-30 00:00:00,29.8,1996-07-29 00:00:00
+Randy Nteka,Rayo Vallecano de Madrid S. A. D.,1200000.0,2028-06-30 00:00:00,28.4,1997-12-06 00:00:00
+Javier Camuñas,Deportivo de La Coruña,1200000.0,,45.8,1980-07-17 00:00:00
+Ignasi Miquel,Granada CF,1200000.0,2025-06-30 00:00:00,33.6,1992-09-28 00:00:00
+Enzo Loiodice,UD Las Palmas,1200000.0,2026-06-30 00:00:00,25.4,2000-11-27 00:00:00
+Jorge Pulido,SD Huesca,1200000.0,2024-06-30 00:00:00,35.1,1991-04-08 00:00:00
+Marvin Park,UD Las Palmas,1200000.0,2028-06-30 00:00:00,25.8,2000-07-03 00:00:00
+Nacho,Real Betis Balompié S.A.D.,1200000.0,,45.9,1980-06-24 00:00:00
+Luis Muñoz,Málaga CF,1200000.0,2025-06-30 00:00:00,29.2,1997-02-23 00:00:00
+Juan Cruz,Club Atlético Osasuna,1200000.0,2026-06-30 00:00:00,33.8,1992-07-28 00:00:00
+Juanmi,Getafe Club de Fútbol S. A. D. Team Dubai,1200000.0,2027-06-30 00:00:00,33.0,1993-05-20 00:00:00
+César Azpilicueta,Sevilla Fútbol Club S.A.D.,1200000.0,2026-06-30 00:00:00,36.7,1989-08-28 00:00:00
+Dani Parejo,Villarreal Club de Fútbol S.A.D.,1200000.0,2026-06-30 00:00:00,37.1,1989-04-16 00:00:00
+Gabi,Club Atlético de Madrid S.A.D.,1100000.0,,42.8,1983-07-10 00:00:00
+Thiago Galhardo,Real Club Celta de Vigo S. A. D.,1100000.0,2025-12-31 00:00:00,36.8,1989-07-20 00:00:00
+Stefan Babovic,Real Zaragoza,1100000.0,,39.3,1987-01-07 00:00:00
+Jorge Meré,Cádiz CF,1000000.0,2025-06-30 00:00:00,29.0,1997-04-17 00:00:00
+Víctor García,Levante Unión Deportiva S.A.D.,1000000.0,2027-06-30 00:00:00,28.6,1997-09-16 00:00:00
+Yeray Álvarez,Athletic Club Bilbao,1000000.0,2026-06-30 00:00:00,31.3,1995-01-24 00:00:00
+Dawda Camara,Girona Fútbol Club S. A. D.,1000000.0,2026-06-30 00:00:00,23.5,2002-11-04 00:00:00
+Jorge Sáenz,CD Leganés,1000000.0,2026-06-30 00:00:00,29.5,1996-11-17 00:00:00
+Daniel Aranzubia,Club Atlético de Madrid S.A.D.,1000000.0,,46.6,1979-09-18 00:00:00
+Ander Astralaga,Futbol Club Barcelona,1000000.0,2026-06-30 00:00:00,22.2,2004-03-03 00:00:00
+Kirian Rodríguez,UD Las Palmas,1000000.0,2028-06-30 00:00:00,30.2,1996-03-05 00:00:00
+Juan Carlos Real,SD Huesca,1000000.0,2023-06-30 00:00:00,35.1,1991-03-15 00:00:00
+Henrique Silva,Real Valladolid CF,1000000.0,2027-06-30 00:00:00,32.0,1994-04-25 00:00:00
+Roberto López,CD Leganés,1000000.0,2027-06-30 00:00:00,26.0,2000-04-24 00:00:00
+Emiliano Velázquez,Rayo Vallecano de Madrid S. A. D.,1000000.0,2024-06-30 00:00:00,32.0,1994-04-30 00:00:00
+Enric Franquesa,CD Leganés,1000000.0,2026-06-30 00:00:00,29.2,1997-02-26 00:00:00
+Dimitri Foulquier,Valencia Club de Fútbol S. A. D.,1000000.0,2027-06-30 00:00:00,33.1,1993-03-23 00:00:00
+Dani Alves,Futbol Club Barcelona,1000000.0,,43.0,1983-05-06 00:00:00
+Yago Santiago,Elche Club de Fútbol S.A.D.,1000000.0,2027-06-30 00:00:00,23.1,2003-04-15 00:00:00
+John Donald,Elche Club de Fútbol S.A.D.,1000000.0,2028-06-30 00:00:00,25.6,2000-09-25 00:00:00
+Jesús Owono,Deportivo Alavés S. A. D.,1000000.0,2026-06-30 00:00:00,25.2,2001-03-01 00:00:00
+Juanfran Torres,Club Atlético de Madrid S.A.D.,1000000.0,,41.3,1985-01-09 00:00:00
+Jorge Pascual,Villarreal Club de Fútbol S.A.D.,1000000.0,2025-06-30 00:00:00,23.1,2003-04-09 00:00:00
+Hugo Novoa,Deportivo Alavés S. A. D.,1000000.0,2026-06-30 00:00:00,23.3,2003-01-24 00:00:00
+Alberto del Moral,Villarreal Club de Fútbol S.A.D.,1000000.0,2024-06-30 00:00:00,25.8,2000-07-20 00:00:00
+Carles Puyol,Futbol Club Barcelona,1000000.0,,48.1,1978-04-13 00:00:00
+Federico Gattoni,Sevilla Fútbol Club S.A.D.,1000000.0,2027-06-30 00:00:00,27.2,1999-02-16 00:00:00
+Ramón Martínez,Sevilla Fútbol Club S.A.D.,1000000.0,2029-06-30 00:00:00,23.5,2002-10-22 00:00:00
+Facundo Garcés,Deportivo Alavés S. A. D.,1000000.0,2028-06-30 00:00:00,26.7,1999-09-05 00:00:00
+Martín Tejón,Valencia Club de Fútbol S. A. D.,1000000.0,2027-06-30 00:00:00,22.1,2004-04-12 00:00:00
+Dani Escriche,SD Huesca,1000000.0,2023-06-30 00:00:00,28.1,1998-03-24 00:00:00
+Son,Levante Unión Deportiva S.A.D.,1000000.0,2024-06-30 00:00:00,32.1,1994-03-30 00:00:00
+Álex Muñoz,UD Las Palmas,1000000.0,2028-06-30 00:00:00,31.8,1994-07-30 00:00:00
+Marvel,Real Madrid Club de Fútbol,1000000.0,2025-06-30 00:00:00,23.3,2003-01-07 00:00:00
+Valery Fernández,Real Club Deportivo Mallorca S.A.D.,1000000.0,2028-06-30 00:00:00,26.4,1999-11-23 00:00:00
+Tiago Mendes,Club Atlético de Madrid S.A.D.,1000000.0,,45.0,1981-05-02 00:00:00
+Joseph Aidoo,Real Club Celta de Vigo S. A. D.,1000000.0,2026-06-30 00:00:00,30.6,1995-09-29 00:00:00
+Dani Calvo,Real Oviedo S.A.D.,1000000.0,2027-06-30 00:00:00,32.1,1994-04-01 00:00:00
+Nery Castillo,Rayo Vallecano de Madrid S. A. D.,1000000.0,,41.9,1984-06-13 00:00:00
+Joaquín Muñoz,SD Huesca,1000000.0,2025-06-30 00:00:00,27.2,1999-03-10 00:00:00
+Nacho Monreal,Real Sociedad de Fútbol S.A.D.,1000000.0,,40.2,1986-02-26 00:00:00
+David Villa,Club Atlético de Madrid S.A.D.,1000000.0,,44.4,1981-12-03 00:00:00
+Salim El Jebari,Club Atlético de Madrid S.A.D.,1000000.0,2026-06-30 00:00:00,22.2,2004-02-05 00:00:00
+Alfonso Espino,Rayo Vallecano de Madrid S. A. D.,1000000.0,2026-06-30 00:00:00,34.3,1992-01-05 00:00:00
+Juan Soriano,CD Leganés,1000000.0,2027-06-30 00:00:00,28.7,1997-08-23 00:00:00
+Carlos Akapo,Cádiz CF,1000000.0,2023-12-31 00:00:00,33.1,1993-03-12 00:00:00
+Jesús Vallejo,Real Madrid Club de Fútbol,1000000.0,2027-06-30 00:00:00,29.3,1997-01-05 00:00:00
+Javi Ontiveros,Club Atlético Osasuna,1000000.0,2024-06-30 00:00:00,28.7,1997-09-09 00:00:00
+Carlos Protesoni,Deportivo Alavés S. A. D.,1000000.0,2026-06-30 00:00:00,28.1,1998-03-30 00:00:00
+Peru Nolaskoain,Athletic Club Bilbao,1000000.0,2027-06-30 00:00:00,27.5,1998-10-25 00:00:00
+Adrián Pica,Deportivo Alavés S. A. D.,1000000.0,2026-06-30 00:00:00,24.0,2002-04-25 00:00:00
+Tomás Alarcón,Cádiz CF,1000000.0,2025-06-30 00:00:00,27.3,1999-01-19 00:00:00
+Owusu,CD Leganés,1000000.0,2025-06-30 00:00:00,28.9,1997-06-18 00:00:00
+Imanol Agirretxe,Real Sociedad de Fútbol S.A.D.,1000000.0,,39.2,1987-02-24 00:00:00
+Ezequiel Garay,Valencia Club de Fútbol S. A. D.,1000000.0,,39.6,1986-10-10 00:00:00
+Diego Pampín,Levante Unión Deportiva S.A.D.,1000000.0,2026-06-30 00:00:00,26.1,2000-03-15 00:00:00
+Sergio García,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1000000.0,,42.9,1983-06-09 00:00:00
+Andrés Martín,Rayo Vallecano de Madrid S. A. D.,1000000.0,2024-06-30 00:00:00,26.8,1999-07-11 00:00:00
+Diego Maínz,Granada CF,1000000.0,,43.3,1982-12-29 00:00:00
+Adrián Embarba,Rayo Vallecano de Madrid S. A. D.,1000000.0,2028-06-30 00:00:00,34.0,1992-05-07 00:00:00
+Juanma Herzog,UD Las Palmas,1000000.0,2028-06-30 00:00:00,22.0,2004-05-13 00:00:00
+Davinchi,Getafe Club de Fútbol S. A. D. Team Dubai,1000000.0,2028-06-30 00:00:00,18.6,2007-10-16 00:00:00
+Jordi Masip,Real Valladolid CF,1000000.0,2024-06-30 00:00:00,37.3,1989-01-03 00:00:00
+Cote,Club Atlético Osasuna,1000000.0,2024-06-30 00:00:00,36.7,1989-09-05 00:00:00
+Marc Domènech,Real Club Deportivo Mallorca S.A.D.,1000000.0,2026-06-30 00:00:00,19.4,2006-12-01 00:00:00
+Roberto Torres,Club Atlético Osasuna,1000000.0,,37.2,1989-03-07 00:00:00
+Hugo López,Villarreal Club de Fútbol S.A.D.,1000000.0,2027-06-30 00:00:00,19.2,2007-03-04 00:00:00
+Fidel,Elche Club de Fútbol S.A.D.,1000000.0,2024-06-30 00:00:00,36.5,1989-10-27 00:00:00
+Edgar Méndez,Deportivo Alavés S. A. D.,1000000.0,,36.3,1990-01-02 00:00:00
+Denis Cheryshev,Valencia Club de Fútbol S. A. D.,1000000.0,2024-06-30 00:00:00,35.4,1990-12-26 00:00:00
+Marc Bartra,Real Betis Balompié S.A.D.,1000000.0,2027-06-30 00:00:00,35.3,1991-01-15 00:00:00
+Kareem Tunde,Levante Unión Deportiva S.A.D.,1000000.0,2029-06-30 00:00:00,20.7,2005-08-19 00:00:00
+Asier Osambela,Club Atlético Osasuna,1000000.0,2029-06-30 00:00:00,21.5,2004-10-30 00:00:00
+Francisco Portillo,UD Almería,1000000.0,,35.9,1990-06-13 00:00:00
+Leandro Cabrera,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1000000.0,2027-06-30 00:00:00,34.9,1991-06-17 00:00:00
+Leandro Damião,Real Betis Balompié S.A.D.,1000000.0,2024-01-01 00:00:00,36.8,1989-07-22 00:00:00
+Jonathan Viera,UD Almería,1000000.0,2025-06-30 00:00:00,36.5,1989-10-21 00:00:00
+Paco Cortés,Levante Unión Deportiva S.A.D.,1000000.0,2028-06-30 00:00:00,18.7,2007-08-11 00:00:00
+Ángel Pérez,Deportivo Alavés S. A. D.,1000000.0,2030-06-30 00:00:00,23.9,2002-06-08 00:00:00
+Álvaro García Pascual,Sevilla Fútbol Club S.A.D.,1000000.0,2028-06-30 00:00:00,23.8,2002-07-21 00:00:00
+Víctor Ruiz,Real Betis Balompié S.A.D.,1000000.0,,37.3,1989-01-25 00:00:00
+Mario Gaspar,Villarreal Club de Fútbol S.A.D.,1000000.0,,35.4,1990-11-24 00:00:00
+Buba Sangaré,Elche Club de Fútbol S.A.D.,1000000.0,2026-06-30 00:00:00,18.7,2007-08-06 00:00:00
+Aleix Vidal,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1000000.0,,36.7,1989-08-21 00:00:00
+Ager Aketxe,Athletic Club Bilbao,1000000.0,2023-06-30 00:00:00,32.3,1993-12-30 00:00:00
+Hiroshi Kiyotake,Sevilla Fútbol Club S.A.D.,900000.0,2024-01-31 00:00:00,36.5,1989-11-12 00:00:00
+Wojciech Szczęsny,Futbol Club Barcelona,900000.0,2027-06-30 00:00:00,36.0,1990-04-18 00:00:00
+Maximiliano Caufriez,Valencia Club de Fútbol S. A. D.,900000.0,2026-06-30 00:00:00,29.2,1997-02-16 00:00:00
+Esteban Granero,Reial Club Deportiu Espanyol de Barcelona S.A.D.,900000.0,,38.8,1987-07-02 00:00:00
+Flávio Ferreira,Málaga CF,900000.0,,34.5,1991-10-19 00:00:00
+Abdón Prats,Real Club Deportivo Mallorca S.A.D.,900000.0,2028-06-30 00:00:00,33.4,1992-12-07 00:00:00
+Lago Júnior,Real Club Deportivo Mallorca S.A.D.,900000.0,2025-06-30 00:00:00,35.3,1990-12-31 00:00:00
+Dani Ojeda,CD Leganés,900000.0,2023-06-30 00:00:00,31.4,1994-12-03 00:00:00
+Jaume Costa,Real Club Deportivo Mallorca S.A.D.,900000.0,2025-06-30 00:00:00,38.1,1988-03-18 00:00:00
+Gui Guedes,UD Almería,900000.0,2028-06-30 00:00:00,24.0,2002-04-17 00:00:00
+Brian Ocampo,Cádiz CF,900000.0,2026-06-30 00:00:00,26.9,1999-06-25 00:00:00
+Joseba Zaldua,Cádiz CF,900000.0,2025-06-30 00:00:00,33.9,1992-06-24 00:00:00
+José Manuel Arnáiz,Club Atlético Osasuna,900000.0,2027-06-30 00:00:00,31.1,1995-04-15 00:00:00
+Aleksandar Radovanovic,UD Almería,900000.0,2025-06-30 00:00:00,32.5,1993-11-11 00:00:00
+Ørjan Nyland,Sevilla Fútbol Club S.A.D.,900000.0,2026-06-30 00:00:00,35.6,1990-09-10 00:00:00
+Jaime Mata,UD Las Palmas,900000.0,2026-06-30 00:00:00,37.5,1988-10-24 00:00:00
+Jon Magunazelaia,Real Sociedad de Fútbol S.A.D.,900000.0,2028-06-30 00:00:00,24.8,2001-07-13 00:00:00
+Iván Villar,Real Club Celta de Vigo S. A. D.,900000.0,2027-06-30 00:00:00,28.8,1997-07-09 00:00:00
+Víctor Laguardia,Deportivo Alavés S. A. D.,800000.0,2024-06-30 00:00:00,36.5,1989-11-05 00:00:00
+Iván Gil,UD Las Palmas,800000.0,2027-06-30 00:00:00,26.3,2000-01-18 00:00:00
+Omar Mascarell,Real Club Deportivo Mallorca S.A.D.,800000.0,2026-06-30 00:00:00,33.3,1993-02-02 00:00:00
+Arkaitz Mariezkurrena,Real Sociedad de Fútbol S.A.D.,800000.0,2029-06-30 00:00:00,21.1,2005-04-05 00:00:00
+Álex Martín,Cádiz CF,800000.0,2023-06-30 00:00:00,28.3,1998-01-25 00:00:00
+Nikita Iosifov,Villarreal Club de Fútbol S.A.D.,800000.0,2026-06-30 00:00:00,25.1,2001-04-11 00:00:00
+Quique González,SD Eibar,800000.0,2024-06-30 00:00:00,36.0,1990-05-16 00:00:00
+Kiko Olivas,Real Valladolid CF,800000.0,2024-06-30 00:00:00,37.7,1988-08-21 00:00:00
+Jairo Izquierdo,Cádiz CF,800000.0,2024-06-30 00:00:00,32.5,1993-10-22 00:00:00
+Claudio Bravo,Real Betis Balompié S.A.D.,800000.0,,43.1,1983-04-13 00:00:00
+Kevin Vázquez,Real Club Celta de Vigo S. A. D.,800000.0,2025-06-30 00:00:00,33.1,1993-03-23 00:00:00
+Miguel Ángel Moyá,Real Sociedad de Fútbol S.A.D.,800000.0,,42.1,1984-04-02 00:00:00
+Javi Llabrés,Real Club Deportivo Mallorca S.A.D.,800000.0,2026-06-30 00:00:00,23.6,2002-09-11 00:00:00
+Anuar,Real Valladolid CF,800000.0,2027-06-30 00:00:00,31.3,1995-01-15 00:00:00
+Pedro León,SD Eibar,800000.0,2023-06-30 00:00:00,39.4,1986-11-24 00:00:00
+Adrián Gunino,Córdoba CF,800000.0,,37.2,1989-02-03 00:00:00
+Kiko Femenía,Getafe Club de Fútbol S. A. D. Team Dubai,800000.0,2027-06-30 00:00:00,35.3,1991-02-02 00:00:00
+Alex Marchal,Real Sociedad de Fútbol S.A.D.,800000.0,2027-06-30 00:00:00,18.6,2007-09-17 00:00:00
+José Callejón,Granada CF,800000.0,2025-06-30 00:00:00,39.2,1987-02-11 00:00:00
+Adam Boayar,Elche Club de Fútbol S.A.D.,800000.0,2027-06-30 00:00:00,20.6,2005-10-13 00:00:00
+Paulinho,Futbol Club Barcelona,800000.0,2023-12-31 00:00:00,37.8,1988-07-25 00:00:00
+Gerard Valentín,Deportivo de La Coruña,800000.0,2026-06-30 00:00:00,32.8,1993-07-28 00:00:00
+Iker Álvarez,Córdoba CF,800000.0,2027-06-30 00:00:00,24.8,2001-07-25 00:00:00
+Álvaro Odriozola,Real Sociedad de Fútbol S.A.D.,800000.0,2029-06-30 00:00:00,30.4,1995-12-14 00:00:00
+Joseba Llorente,Club Atlético Osasuna,800000.0,,46.4,1979-11-24 00:00:00
+Nacho Martínez,Real Valladolid CF,800000.0,2024-06-30 00:00:00,37.2,1989-03-07 00:00:00
+Naim García,CD Leganés,800000.0,2027-06-30 00:00:00,23.9,2002-06-11 00:00:00
+Diego Altube,Real Madrid Club de Fútbol,800000.0,2024-06-30 00:00:00,26.2,2000-02-22 00:00:00
+Iñigo Arguibide,Club Atlético Osasuna,800000.0,2027-06-30 00:00:00,21.0,2005-04-19 00:00:00
+Rafita,UD Almería,800000.0,2023-06-30 00:00:00,43.7,1982-08-18 00:00:00
+Jon Bautista,Real Sociedad de Fútbol S.A.D.,800000.0,2025-06-30 00:00:00,30.8,1995-07-03 00:00:00
+Pablo Agudín,Real Oviedo S.A.D.,800000.0,2029-06-30 00:00:00,18.5,2007-11-08 00:00:00
+Marciano Sanca,UD Almería,800000.0,2025-06-30 00:00:00,22.2,2004-03-03 00:00:00
+Clément Grenier,Real Club Deportivo Mallorca S.A.D.,800000.0,2024-06-30 00:00:00,35.3,1991-01-07 00:00:00
+David Goldar,Real Club Celta de Vigo S. A. D.,800000.0,2025-06-30 00:00:00,31.6,1994-09-15 00:00:00
+David López,Girona Fútbol Club S. A. D.,800000.0,2026-06-30 00:00:00,36.6,1989-10-09 00:00:00
+Álex Forés,Real Oviedo S.A.D.,800000.0,2026-06-30 00:00:00,25.1,2001-04-12 00:00:00
+Pau Cabanes,Villarreal Club de Fútbol S.A.D.,800000.0,2028-06-30 00:00:00,21.2,2005-02-17 00:00:00
+Borja García,Girona Fútbol Club S. A. D.,800000.0,,35.5,1990-11-02 00:00:00
+Aritz Aduriz,Athletic Club Bilbao,800000.0,,45.2,1981-02-11 00:00:00
+Tay Abed,Levante Unión Deportiva S.A.D.,800000.0,2029-06-30 00:00:00,21.8,2004-08-03 00:00:00
+Jeison Lucumí,Elche Club de Fútbol S.A.D.,800000.0,,31.1,1995-04-08 00:00:00
+Sergi Guardiola,Rayo Vallecano de Madrid S. A. D.,800000.0,2026-06-30 00:00:00,34.9,1991-05-29 00:00:00
+Domingos Duarte,Getafe Club de Fútbol S. A. D. Team Dubai,800000.0,2026-06-30 00:00:00,31.2,1995-03-10 00:00:00
+Javi Martínez,Club Atlético Osasuna,800000.0,2027-06-30 00:00:00,26.4,1999-12-22 00:00:00
+Mihailo Ristic,Real Club Celta de Vigo S. A. D.,800000.0,2026-06-30 00:00:00,30.5,1995-10-31 00:00:00
+Mario Soriano,Club Atlético de Madrid S.A.D.,800000.0,2024-06-30 00:00:00,24.0,2002-04-22 00:00:00
+Miguel Atienza,SD Eibar,800000.0,2024-06-30 00:00:00,26.9,1999-05-27 00:00:00
+Marcos André,Real Valladolid CF,800000.0,2029-06-30 00:00:00,29.5,1996-10-20 00:00:00
+Víctor Camarasa,Real Betis Balompié S.A.D.,800000.0,2024-06-30 00:00:00,31.9,1994-05-28 00:00:00
+Óscar González,Real Valladolid CF,800000.0,,43.5,1982-11-12 00:00:00
+Juan Muñoz,Sevilla Fútbol Club S.A.D.,800000.0,2023-06-30 00:00:00,30.5,1995-11-12 00:00:00
+Juanjo Narváez,Real Valladolid CF,800000.0,2025-06-30 00:00:00,31.2,1995-02-12 00:00:00
+Justin Kalumba,Real Club Deportivo Mallorca S.A.D.,800000.0,2029-06-30 00:00:00,21.4,2004-12-25 00:00:00
+Aridane Hernández,Rayo Vallecano de Madrid S. A. D.,800000.0,2026-06-30 00:00:00,37.1,1989-03-23 00:00:00
+Samu García,Levante Unión Deportiva S.A.D.,800000.0,,35.8,1990-07-13 00:00:00
+Pablo Insua,SD Huesca,800000.0,2024-06-30 00:00:00,32.7,1993-09-09 00:00:00
+Christian Lell,Levante Unión Deportiva S.A.D.,800000.0,,41.7,1984-08-29 00:00:00
+Kike García,Reial Club Deportiu Espanyol de Barcelona S.A.D.,800000.0,2027-06-30 00:00:00,36.4,1989-11-25 00:00:00
+Marko Dmitrovic,Reial Club Deportiu Espanyol de Barcelona S.A.D.,800000.0,2028-06-30 00:00:00,34.3,1992-01-24 00:00:00
+Jonathan Silva,Getafe Club de Fútbol S. A. D. Team Dubai,800000.0,2023-06-30 00:00:00,31.8,1994-06-29 00:00:00
+Rodri Tarín,CD Leganés,800000.0,2025-06-30 00:00:00,29.8,1996-07-05 00:00:00
+Maikel Mesa,Club Atlético Osasuna,800000.0,2025-06-30 00:00:00,34.9,1991-06-04 00:00:00
+Iñigo Eguaras,UD Almería,800000.0,2024-06-30 00:00:00,34.2,1992-03-07 00:00:00
+Jokin Ezkieta,Athletic Club Bilbao,800000.0,2024-06-30 00:00:00,29.7,1996-08-17 00:00:00
+Cristhian Stuani,Girona Fútbol Club S. A. D.,800000.0,2026-06-30 00:00:00,39.6,1986-10-12 00:00:00
+Diego Moreno,Club Atlético Osasuna,800000.0,2026-06-30 00:00:00,24.9,2001-06-21 00:00:00
+Andrés Iniesta,Futbol Club Barcelona,800000.0,2024-01-31 00:00:00,42.0,1984-05-11 00:00:00
+Marcos Fernández,Real Betis Balompié S.A.D.,800000.0,2026-06-30 00:00:00,23.0,2003-05-17 00:00:00
+Eric Curbelo,UD Las Palmas,800000.0,2026-06-30 00:00:00,32.3,1994-01-14 00:00:00
+Rubén Blanco,Girona Fútbol Club S. A. D.,800000.0,2026-06-30 00:00:00,30.8,1995-07-25 00:00:00
+Shkodran Mustafi,Levante Unión Deportiva S.A.D.,800000.0,2023-06-30 00:00:00,34.0,1992-04-17 00:00:00
+Glenn Loovens,Real Zaragoza,750000.0,,42.5,1983-10-22 00:00:00
+José Campaña,UD Las Palmas,750000.0,2026-06-30 00:00:00,32.9,1993-05-31 00:00:00
+Sergio González,Cádiz CF,700000.0,2024-06-30 00:00:00,29.0,1997-05-14 00:00:00
+Sergio Álvarez,Real Club Celta de Vigo S. A. D.,700000.0,,39.8,1986-08-03 00:00:00
+Aitor Buñuel,Club Atlético Osasuna,700000.0,2024-06-30 00:00:00,28.2,1998-02-10 00:00:00
+Fran Mérida,Reial Club Deportiu Espanyol de Barcelona S.A.D.,700000.0,2023-12-31 00:00:00,36.2,1990-03-04 00:00:00
+Roberto Lago,Getafe Club de Fútbol S. A. D. Team Dubai,700000.0,,40.7,1985-08-30 00:00:00
+Nuke Mfulu,UD Las Palmas,700000.0,2026-06-30 00:00:00,32.1,1994-03-20 00:00:00
+Rubén Rochina,Granada CF,700000.0,2023-06-30 00:00:00,35.1,1991-03-23 00:00:00
+Lucas Ahijado,Real Oviedo S.A.D.,700000.0,2026-06-30 00:00:00,31.3,1995-01-30 00:00:00
+Filip Bradaric,Real Club Celta de Vigo S. A. D.,700000.0,,34.3,1992-01-11 00:00:00
+Fernando Martínez,UD Almería,700000.0,2025-06-30 00:00:00,35.9,1990-06-10 00:00:00
+Javi Serrano,Club Atlético de Madrid S.A.D.,700000.0,2026-06-30 00:00:00,23.3,2003-01-16 00:00:00
+Joni Montiel,Rayo Vallecano de Madrid S. A. D.,700000.0,2027-06-30 00:00:00,27.7,1998-09-03 00:00:00
+Álvaro Lemos,UD Las Palmas,700000.0,2025-06-30 00:00:00,33.1,1993-03-30 00:00:00
+Alberto Aquilani,UD Las Palmas,700000.0,,41.8,1984-07-07 00:00:00
+Álvaro Sanz,Futbol Club Barcelona,700000.0,2025-06-30 00:00:00,25.2,2001-02-14 00:00:00
+Diego Rolán,CD Leganés,700000.0,2023-12-31 00:00:00,33.1,1993-03-24 00:00:00
+Juanma García,Real Betis Balompié S.A.D.,700000.0,2025-06-30 00:00:00,33.2,1993-02-20 00:00:00
+Andrija Delibasic,Rayo Vallecano de Madrid S. A. D.,700000.0,,45.0,1981-04-24 00:00:00
+Miguel Layún,Villarreal Club de Fútbol S.A.D.,700000.0,2023-12-31 00:00:00,37.9,1988-06-25 00:00:00
+Oriol Romeu,Girona Fútbol Club S. A. D.,700000.0,2026-06-30 00:00:00,34.6,1991-09-24 00:00:00
+David Gil,Cádiz CF,700000.0,2027-06-30 00:00:00,32.3,1994-01-11 00:00:00
+Alexandre Pato,Villarreal Club de Fútbol S.A.D.,700000.0,,36.7,1989-09-02 00:00:00
+Franco Cervi,Real Club Celta de Vigo S. A. D.,700000.0,2026-06-30 00:00:00,31.9,1994-05-26 00:00:00
+Álvaro Jiménez,Cádiz CF,700000.0,2023-06-30 00:00:00,31.0,1995-05-19 00:00:00
+Isaac Cuenca,Granada CF,700000.0,,35.0,1991-04-27 00:00:00
+Gonzalo Verdú,Elche Club de Fútbol S.A.D.,700000.0,2025-06-30 00:00:00,37.5,1988-10-21 00:00:00
+José León,Rayo Vallecano de Madrid S. A. D.,700000.0,2024-06-30 00:00:00,31.2,1995-02-03 00:00:00
+Dani Tasende,Villarreal Club de Fútbol S.A.D.,700000.0,2025-06-30 00:00:00,25.8,2000-07-06 00:00:00
+Thomas Vermaelen,Futbol Club Barcelona,700000.0,,40.5,1985-11-14 00:00:00
+José Naranjo,CD Leganés,700000.0,2023-06-30 00:00:00,31.8,1994-07-28 00:00:00
+Álex Gallar,SD Huesca,700000.0,2024-06-30 00:00:00,34.1,1992-03-19 00:00:00
+Sokratis Papastathopoulos,Real Betis Balompié S.A.D.,700000.0,,37.9,1988-06-09 00:00:00
+Miquel Parera,Real Club Deportivo Mallorca S.A.D.,700000.0,2025-06-30 00:00:00,30.0,1996-05-18 00:00:00
+Sergio Asenjo,Real Valladolid CF,700000.0,2024-06-30 00:00:00,36.9,1989-06-28 00:00:00
+Mikel San José,Athletic Club Bilbao,700000.0,,36.9,1989-05-30 00:00:00
+Diego Ifrán,Real Sociedad de Fútbol S.A.D.,675000.0,,38.9,1987-06-08 00:00:00
+Damián Suárez,Getafe Club de Fútbol S. A. D. Team Dubai,650000.0,2025-12-31 00:00:00,38.0,1988-04-27 00:00:00
+Iván Ramis,SD Eibar,650000.0,,41.5,1984-10-25 00:00:00
+Nono,Real Betis Balompié S.A.D.,650000.0,2024-06-30 00:00:00,33.1,1993-03-30 00:00:00
+Ivan Saponjic,Club Atlético de Madrid S.A.D.,650000.0,2023-06-30 00:00:00,28.8,1997-08-02 00:00:00
+José Manuel Jurado,Reial Club Deportiu Espanyol de Barcelona S.A.D.,650000.0,,39.8,1986-06-29 00:00:00
+Mario Hernández,Rayo Vallecano de Madrid S. A. D.,600000.0,,27.3,1999-01-25 00:00:00
+Juan Cala,Cádiz CF,600000.0,2024-06-30 00:00:00,36.4,1989-11-26 00:00:00
+Unai Elgezabal,Levante Unión Deportiva S.A.D.,600000.0,2027-06-30 00:00:00,33.0,1993-04-25 00:00:00
+Dídac Vilà,Reial Club Deportiu Espanyol de Barcelona S.A.D.,600000.0,,36.9,1989-06-09 00:00:00
+Miguel Ángel Morro,Rayo Vallecano de Madrid S. A. D.,600000.0,2026-06-30 00:00:00,25.6,2000-09-11 00:00:00
+Álex Blanco,Valencia Club de Fútbol S. A. D.,600000.0,2024-06-30 00:00:00,27.4,1998-12-16 00:00:00
+Fran Rico,SD Eibar,600000.0,,38.8,1987-08-03 00:00:00
+Javier Arizmendi,Real Club Deportivo Mallorca S.A.D.,600000.0,,42.2,1984-03-03 00:00:00
+Jorge Molina,Granada CF,600000.0,2023-06-30 00:00:00,44.0,1982-04-22 00:00:00
+Mathieu Flamini,Getafe Club de Fútbol S. A. D. Team Dubai,600000.0,,42.2,1984-03-07 00:00:00
+Álex Petxa,Athletic Club Bilbao,600000.0,2023-06-30 00:00:00,29.2,1997-02-06 00:00:00
+Julio Alonso,Real Betis Balompié S.A.D.,600000.0,2023-06-30 00:00:00,27.4,1998-12-14 00:00:00
+Martín Merquelanz,Real Sociedad de Fútbol S.A.D.,600000.0,2025-06-30 00:00:00,30.9,1995-06-12 00:00:00
+Luca Sangalli,Real Sociedad de Fútbol S.A.D.,600000.0,2023-06-30 00:00:00,31.2,1995-02-10 00:00:00
+Benito Ramírez,UD Las Palmas,600000.0,2026-06-30 00:00:00,30.8,1995-07-11 00:00:00
+Jordi Martín,Getafe Club de Fútbol S. A. D. Team Dubai,600000.0,2026-06-30 00:00:00,25.3,2001-01-05 00:00:00
+Daniel Luna,Real Club Deportivo Mallorca S.A.D.,600000.0,2026-06-30 00:00:00,23.0,2003-05-07 00:00:00
+Aitor Fernández,Club Atlético Osasuna,600000.0,2027-06-30 00:00:00,35.0,1991-05-03 00:00:00
+Juan Pérez,Club Atlético Osasuna,600000.0,2026-06-30 00:00:00,29.8,1996-07-15 00:00:00
+Patrick Ekeng,Córdoba CF,600000.0,,36.1,1990-03-26 00:00:00
+Iñigo Pérez,Club Atlético Osasuna,600000.0,,38.3,1988-01-18 00:00:00
+Enric Gallego,Club Atlético Osasuna,600000.0,2024-06-30 00:00:00,39.6,1986-09-12 00:00:00
+Antonio Barragán,Elche Club de Fútbol S.A.D.,600000.0,,38.9,1987-06-12 00:00:00
+Jon Balda,Real Sociedad de Fútbol S.A.D.,600000.0,2028-06-30 00:00:00,24.0,2002-04-20 00:00:00
+Andrés Fernández,SD Huesca,600000.0,2023-06-30 00:00:00,39.4,1986-12-16 00:00:00
+Nabil Aberdin,Getafe Club de Fútbol S. A. D. Team Dubai,600000.0,2026-06-30 00:00:00,23.7,2002-08-23 00:00:00
+Lluís López,Reial Club Deportiu Espanyol de Barcelona S.A.D.,600000.0,2023-06-30 00:00:00,29.2,1997-03-05 00:00:00
+Antonio Pacheco,Villarreal Club de Fútbol S.A.D.,600000.0,2027-06-30 00:00:00,24.3,2002-01-03 00:00:00
+Diego Alende,Real Valladolid CF,600000.0,2024-06-30 00:00:00,28.7,1997-08-25 00:00:00
+Pedro Ortiz,Sevilla Fútbol Club S.A.D.,600000.0,2026-06-30 00:00:00,25.7,2000-08-19 00:00:00
+Genaro Rodríguez,Sevilla Fútbol Club S.A.D.,600000.0,2024-06-30 00:00:00,28.1,1998-03-23 00:00:00
+Luismi Cruz,Sevilla Fútbol Club S.A.D.,600000.0,2023-06-30 00:00:00,25.0,2001-05-23 00:00:00
+Ivan Chapela,Cádiz CF,600000.0,2023-06-30 00:00:00,27.0,1999-05-21 00:00:00
+Ángel Rodríguez,Real Club Deportivo Mallorca S.A.D.,600000.0,2025-06-30 00:00:00,39.0,1987-04-26 00:00:00
+Aitor Mañas,Deportivo Alavés S. A. D.,600000.0,2028-06-30 00:00:00,23.3,2003-01-05 00:00:00
+Rubén Peña,Club Atlético Osasuna,600000.0,2027-06-30 00:00:00,34.8,1991-07-18 00:00:00
+Luismi Sánchez,Real Valladolid CF,600000.0,2023-06-30 00:00:00,34.0,1992-05-05 00:00:00
+Jacobo González,Real Club Celta de Vigo S. A. D.,600000.0,2024-06-30 00:00:00,29.1,1997-03-25 00:00:00
+Yacine Qasmi,Rayo Vallecano de Madrid S. A. D.,600000.0,2023-06-30 00:00:00,35.3,1991-01-03 00:00:00
+Juan Artola,Athletic Club Bilbao,600000.0,2023-06-30 00:00:00,26.1,2000-04-07 00:00:00
+Ander Cantero,Villarreal Club de Fútbol S.A.D.,600000.0,2024-06-30 00:00:00,31.3,1995-01-09 00:00:00
+Nikola Vukcevic,Levante Unión Deportiva S.A.D.,600000.0,2023-06-30 00:00:00,34.4,1991-12-13 00:00:00
+Cristian Salvador,Sporting Gijón,600000.0,2024-06-30 00:00:00,31.5,1994-11-20 00:00:00
+Unai Egiluz,Athletic Club Bilbao,600000.0,2028-06-30 00:00:00,24.1,2002-03-19 00:00:00
+Bebé,Rayo Vallecano de Madrid S. A. D.,600000.0,2025-06-30 00:00:00,35.8,1990-07-12 00:00:00
+Alfredo Ortuño,UD Las Palmas,600000.0,2024-06-30 00:00:00,35.3,1991-01-21 00:00:00
+Unai Marrero,Real Sociedad de Fútbol S.A.D.,600000.0,2030-06-30 00:00:00,24.6,2001-10-09 00:00:00
+David Timor,Getafe Club de Fútbol S. A. D. Team Dubai,600000.0,2024-06-30 00:00:00,36.5,1989-10-17 00:00:00
+Alfred N'Diaye,Villarreal Club de Fútbol S.A.D.,600000.0,2024-06-30 00:00:00,36.2,1990-03-06 00:00:00
+Rayane Belaid,Club Atlético de Madrid S.A.D.,600000.0,2029-06-30 00:00:00,21.2,2005-02-11 00:00:00
+Yoel Rodríguez,SD Eibar,600000.0,2024-06-30 00:00:00,37.7,1988-08-28 00:00:00
+Manu Molina,Valencia Club de Fútbol S. A. D.,600000.0,2025-06-30 00:00:00,34.5,1991-11-20 00:00:00
+Aritz Arambarri,CD Leganés,600000.0,2027-06-30 00:00:00,28.3,1998-01-31 00:00:00
+Simo Keddari,Reial Club Deportiu Espanyol de Barcelona S.A.D.,600000.0,2026-06-30 00:00:00,21.2,2005-02-03 00:00:00
+Ousseynou Cissé,Rayo Vallecano de Madrid S. A. D.,550000.0,,35.1,1991-04-07 00:00:00
+Bernardo Espinosa,Girona Fútbol Club S. A. D.,550000.0,2026-06-30 00:00:00,36.8,1989-07-11 00:00:00
+Chuca,Villarreal Club de Fútbol S.A.D.,500000.0,2023-06-30 00:00:00,28.9,1997-06-10 00:00:00
+Ibrahima Kébé,Girona Fútbol Club S. A. D.,500000.0,2025-06-30 00:00:00,25.8,2000-08-02 00:00:00
+Unai Ropero,Deportivo Alavés S. A. D.,500000.0,2025-06-30 00:00:00,24.5,2001-11-20 00:00:00
+Riki,Granada CF,500000.0,,45.7,1980-08-11 00:00:00
+Pau Prim,Futbol Club Barcelona,500000.0,2025-06-30 00:00:00,20.2,2006-02-22 00:00:00
+Christian Joel,Real Club Celta de Vigo S. A. D.,500000.0,2026-06-30 00:00:00,26.8,1999-07-09 00:00:00
+Óscar Duarte,Levante Unión Deportiva S.A.D.,500000.0,2024-06-30 00:00:00,36.9,1989-06-03 00:00:00
+Rober Correa,SD Eibar,500000.0,2024-06-30 00:00:00,33.6,1992-09-20 00:00:00
+David Otorbi,Valencia Club de Fútbol S. A. D.,500000.0,2026-06-30 00:00:00,18.6,2007-10-16 00:00:00
+Jorge Moreno,Rayo Vallecano de Madrid S. A. D.,500000.0,2025-06-30 00:00:00,24.8,2001-07-25 00:00:00
+Rodri Ríos,UD Almería,500000.0,2024-06-30 00:00:00,35.9,1990-06-06 00:00:00
+Markel Bergara,Getafe Club de Fútbol S. A. D. Team Dubai,500000.0,,40.0,1986-05-05 00:00:00
+Miguel San Román,Club Atlético de Madrid S.A.D.,500000.0,2024-06-30 00:00:00,28.8,1997-07-14 00:00:00
+Ángel Montoro,Granada CF,500000.0,2023-06-30 00:00:00,37.9,1988-06-25 00:00:00
+Juan Rafael Fuentes,Club Atlético Osasuna,500000.0,,36.3,1990-01-05 00:00:00
+Pedro Mosquera,SD Huesca,500000.0,2023-06-30 00:00:00,38.0,1988-04-21 00:00:00
+Roberto,Real Valladolid CF,500000.0,,40.2,1986-02-10 00:00:00
+Juanpe,Girona Fútbol Club S. A. D.,500000.0,2027-05-31 00:00:00,35.0,1991-04-30 00:00:00
+Javi Martón,Athletic Club Bilbao,500000.0,2028-06-30 00:00:00,27.0,1999-05-06 00:00:00
+Diego Kochen,Futbol Club Barcelona,500000.0,2028-06-30 00:00:00,20.1,2006-03-19 00:00:00
+Mané,UD Almería,500000.0,,44.4,1981-12-21 00:00:00
+Damián Rodríguez,Real Club Celta de Vigo S. A. D.,500000.0,2026-06-30 00:00:00,23.1,2003-03-17 00:00:00
+Borja Valle,Deportivo de La Coruña,500000.0,2023-06-30 00:00:00,33.8,1992-07-09 00:00:00
+Pablo Busto,Real Betis Balompié S.A.D.,500000.0,2027-06-30 00:00:00,20.6,2005-09-25 00:00:00
+Kike Sola,Athletic Club Bilbao,500000.0,,40.2,1986-02-25 00:00:00
+Luis Hernández,Cádiz CF,500000.0,2026-06-30 00:00:00,37.1,1989-04-14 00:00:00
+Lorenzo Reyes,Real Betis Balompié S.A.D.,500000.0,,34.9,1991-06-13 00:00:00
+David Torres,Real Valladolid CF,500000.0,2026-06-30 00:00:00,23.2,2003-03-05 00:00:00
+David Albelda,Valencia Club de Fútbol S. A. D.,500000.0,,48.7,1977-09-01 00:00:00
+Roberto Soldado,Levante Unión Deportiva S.A.D.,500000.0,2023-06-30 00:00:00,40.9,1985-05-27 00:00:00
+Weligton,Málaga CF,500000.0,,46.7,1979-08-26 00:00:00
+Aingeru Olabarrieta,Athletic Club Bilbao,500000.0,2026-06-30 00:00:00,20.5,2005-11-14 00:00:00
+Carlos Gurpegui,Athletic Club Bilbao,500000.0,,45.7,1980-08-19 00:00:00
+Manuel Nieto,Cádiz CF,500000.0,2023-06-30 00:00:00,28.1,1998-03-29 00:00:00
+Miguel Llambrich,Reial Club Deportiu Espanyol de Barcelona S.A.D.,500000.0,2023-06-30 00:00:00,30.3,1996-01-18 00:00:00
+Iván Sánchez,Real Valladolid CF,500000.0,2027-06-30 00:00:00,33.6,1992-09-23 00:00:00
+Jozabed Sánchez,Real Club Celta de Vigo S. A. D.,500000.0,2023-06-30 00:00:00,35.2,1991-03-08 00:00:00
+Mikel Rodriguez,Real Sociedad de Fútbol S.A.D.,500000.0,2029-06-30 00:00:00,24.1,2002-04-03 00:00:00
+Fran Gámez,Real Club Deportivo Mallorca S.A.D.,500000.0,2023-06-30 00:00:00,34.8,1991-07-27 00:00:00
+Fran Vieites,Real Betis Balompié S.A.D.,500000.0,2027-06-30 00:00:00,27.0,1999-05-07 00:00:00
+Pablo Hervías,Real Valladolid CF,500000.0,,33.2,1993-03-08 00:00:00
+Iker Córdoba,Valencia Club de Fútbol S. A. D.,500000.0,2026-06-30 00:00:00,20.5,2005-11-11 00:00:00
+Christian Rivera,CD Leganés,500000.0,2025-06-30 00:00:00,28.8,1997-07-09 00:00:00
+Aitor Fraga,Real Sociedad de Fútbol S.A.D.,500000.0,2029-06-30 00:00:00,23.2,2003-03-09 00:00:00
+Jonás Ramalho,Club Atlético Osasuna,500000.0,2024-06-30 00:00:00,32.9,1993-06-10 00:00:00
+Ovie Ejaria,Real Oviedo S.A.D.,500000.0,2026-06-30 00:00:00,28.5,1997-11-18 00:00:00
+Javier Boñar,Club Atlético de Madrid S.A.D.,500000.0,2026-06-30 00:00:00,20.9,2005-06-03 00:00:00
+Aleix Garrido,Futbol Club Barcelona,500000.0,2025-06-30 00:00:00,22.2,2004-02-22 00:00:00
+Raúl de Tomás,Rayo Vallecano de Madrid S. A. D.,500000.0,2026-06-30 00:00:00,31.5,1994-10-17 00:00:00
+Sergio Tejera,Reial Club Deportiu Espanyol de Barcelona S.A.D.,500000.0,2024-05-31 00:00:00,35.9,1990-05-28 00:00:00
+Lass Kourouma,Girona Fútbol Club S. A. D.,500000.0,2028-06-30 00:00:00,22.1,2004-03-30 00:00:00
+Sergio Postigo,Levante Unión Deportiva S.A.D.,500000.0,2023-06-30 00:00:00,37.5,1988-11-04 00:00:00
+Esteban Saveljich,Rayo Vallecano de Madrid S. A. D.,500000.0,,35.0,1991-05-20 00:00:00
+Arthur Boka,Málaga CF,500000.0,,43.1,1983-04-02 00:00:00
+Adrián Niño,Club Atlético de Madrid S.A.D.,500000.0,2029-06-30 00:00:00,21.9,2004-06-19 00:00:00
+Franchu,Real Madrid Club de Fútbol,500000.0,2023-06-30 00:00:00,28.0,1998-05-12 00:00:00
+Juan Carlos Arana,Villarreal Club de Fútbol S.A.D.,500000.0,2025-06-30 00:00:00,26.2,2000-02-08 00:00:00
+Abdallahi Mahmoud,Deportivo Alavés S. A. D.,500000.0,2023-06-30 00:00:00,26.0,2000-05-04 00:00:00
+Ilias Kostis,Club Atlético de Madrid S.A.D.,500000.0,2027-06-30 00:00:00,23.2,2003-02-27 00:00:00
+Ibrahim Alani,Real Valladolid CF,500000.0,2027-06-30 00:00:00,19.8,2006-07-29 00:00:00
+Fernando Medrano,Real Club Celta de Vigo S. A. D.,500000.0,2026-06-30 00:00:00,26.1,2000-03-26 00:00:00
+Ángel Trujillo,Levante Unión Deportiva S.A.D.,500000.0,,38.7,1987-09-08 00:00:00
+Antonio Gomis,Club Atlético de Madrid S.A.D.,500000.0,2027-06-30 00:00:00,23.0,2003-05-20 00:00:00
+Chema Rodríguez,Getafe Club de Fútbol S. A. D. Team Dubai,500000.0,2025-06-30 00:00:00,34.2,1992-03-03 00:00:00
+Marcos Mauro,Cádiz CF,500000.0,2023-06-30 00:00:00,35.3,1991-01-09 00:00:00
+Guillermo Fernández,Athletic Club Bilbao,500000.0,2023-06-30 00:00:00,33.0,1993-05-23 00:00:00
+Álvaro Giménez,Cádiz CF,500000.0,,35.0,1991-05-19 00:00:00
+Mehdi Lacen,Málaga CF,500000.0,,42.0,1984-05-15 00:00:00
+Antal Yaakobishvili,Girona Fútbol Club S. A. D.,500000.0,2026-06-30 00:00:00,21.8,2004-07-12 00:00:00
+Stipe Pletikosa,Deportivo de La Coruña,500000.0,,47.3,1979-01-08 00:00:00
+Xabier Castillo,Athletic Club Bilbao,500000.0,,40.1,1986-03-29 00:00:00
+Clifford Aboagye,Granada CF,500000.0,,31.2,1995-02-11 00:00:00
+Aday Benítez,Girona Fútbol Club S. A. D.,500000.0,,38.4,1987-12-16 00:00:00
+Arnau Solà,Villarreal Club de Fútbol S.A.D.,500000.0,2026-06-30 00:00:00,23.1,2003-04-04 00:00:00
+Felipe Gutiérrez,Real Betis Balompié S.A.D.,500000.0,,35.6,1990-10-08 00:00:00
+Mikel Labaka,Rayo Vallecano de Madrid S. A. D.,500000.0,,45.7,1980-08-10 00:00:00
+Famara Diédhiou,Granada CF,500000.0,,33.4,1992-12-15 00:00:00
+Jan Salas,Real Club Deportivo Mallorca S.A.D.,500000.0,2028-06-30 00:00:00,20.7,2005-08-10 00:00:00
+Nabil El Zhar,CD Leganés,500000.0,2023-05-31 00:00:00,39.7,1986-08-27 00:00:00
+Marco Sangalli,Real Sociedad de Fútbol S.A.D.,500000.0,,34.2,1992-02-07 00:00:00
+Sabin Merino,CD Leganés,500000.0,2023-06-30 00:00:00,34.3,1992-01-04 00:00:00
+Oriol Riera,Club Atlético Osasuna,475000.0,,39.8,1986-07-03 00:00:00
+Bruno Soriano,Villarreal Club de Fútbol S.A.D.,475000.0,,41.9,1984-06-12 00:00:00
+Alexis Ruano,Deportivo Alavés S. A. D.,475000.0,,40.8,1985-08-04 00:00:00
+Andreu Fontàs,Real Club Celta de Vigo S. A. D.,450000.0,2024-12-31 00:00:00,36.5,1989-11-14 00:00:00
+Fabio González,UD Las Palmas,450000.0,2026-06-30 00:00:00,29.2,1997-02-12 00:00:00
+Eddy Israfilov,SD Eibar,450000.0,2024-06-30 00:00:00,33.8,1992-08-02 00:00:00
+Leonel Galeano,Rayo Vallecano de Madrid S. A. D.,450000.0,,34.8,1991-08-02 00:00:00
+Alberto Perea,Granada CF,450000.0,,35.4,1990-12-19 00:00:00
+Emmanuel Apeh,Real Club Celta de Vigo S. A. D.,450000.0,2024-06-30 00:00:00,29.5,1996-10-25 00:00:00
+Marcos Paulo,Club Atlético de Madrid S.A.D.,450000.0,2026-12-31 00:00:00,25.3,2001-02-01 00:00:00
+Deivid,Córdoba CF,400000.0,,37.3,1989-01-27 00:00:00
+Didier Digard,Club Atlético Osasuna,400000.0,,39.8,1986-07-12 00:00:00
+Fernando Gago,Valencia Club de Fútbol S. A. D.,400000.0,,40.1,1986-04-10 00:00:00
+Josué Dorrio,SD Eibar,400000.0,2023-06-30 00:00:00,32.2,1994-03-03 00:00:00
+Paco Montañés,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,,39.6,1986-10-08 00:00:00
+Tachi,Deportivo Alavés S. A. D.,400000.0,2024-06-30 00:00:00,28.6,1997-09-10 00:00:00
+Kevin Sibille,Valencia Club de Fútbol S. A. D.,400000.0,2024-06-30 00:00:00,27.6,1998-09-15 00:00:00
+Manuel Arana,Rayo Vallecano de Madrid S. A. D.,400000.0,,41.4,1984-12-03 00:00:00
+Mikel Balenziaga,Athletic Club Bilbao,400000.0,2024-09-30 00:00:00,38.2,1988-02-29 00:00:00
+Antonio Perera,Deportivo Alavés S. A. D.,400000.0,2025-06-30 00:00:00,28.9,1997-06-08 00:00:00
+Eris Abedini,Granada CF,400000.0,2023-06-30 00:00:00,27.7,1998-08-29 00:00:00
+Eneko Bóveda,Deportivo de La Coruña,400000.0,,37.4,1988-12-14 00:00:00
+Juan Hernández,Real Club Celta de Vigo S. A. D.,400000.0,2023-06-30 00:00:00,31.4,1994-12-06 00:00:00
+Momo Mbaye,Cádiz CF,400000.0,,27.9,1998-06-28 00:00:00
+Josep Calavera,Club Atlético de Madrid S.A.D.,400000.0,2023-06-30 00:00:00,26.6,1999-10-02 00:00:00
+Guillermo Sara,Real Betis Balompié S.A.D.,400000.0,,38.6,1987-09-30 00:00:00
+Pedro Alcalá,Cádiz CF,400000.0,2023-06-30 00:00:00,37.1,1989-03-19 00:00:00
+Fran Manzanara,Levante Unión Deportiva S.A.D.,400000.0,2023-06-30 00:00:00,29.6,1996-09-12 00:00:00
+Javier Pastore,Elche Club de Fútbol S.A.D.,400000.0,,36.9,1989-06-20 00:00:00
+Nicolás Pareja,Sevilla Fútbol Club S.A.D.,400000.0,,42.3,1984-01-19 00:00:00
+Miguel Torres,Málaga CF,400000.0,,40.3,1986-01-28 00:00:00
+Toni Villa,Girona Fútbol Club S. A. D.,400000.0,2026-06-30 00:00:00,31.3,1995-01-07 00:00:00
+Darko Brasanac,CD Leganés,400000.0,2026-06-30 00:00:00,34.2,1992-02-12 00:00:00
+Álex López,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,2023-06-30 00:00:00,28.9,1997-06-02 00:00:00
+Cristian Rodríguez,Club Atlético de Madrid S.A.D.,400000.0,2024-06-30 00:00:00,30.1,1996-03-15 00:00:00
+Cicinho,Sevilla Fútbol Club S.A.D.,400000.0,,39.8,1986-08-04 00:00:00
+Gorka Elustondo,Rayo Vallecano de Madrid S. A. D.,400000.0,,39.1,1987-03-18 00:00:00
+Rubén Sánchez,Sporting Gijón,400000.0,2023-12-31 00:00:00,31.4,1994-11-25 00:00:00
+Dani Requena,Villarreal Club de Fútbol S.A.D.,400000.0,2026-06-30 00:00:00,22.2,2004-02-12 00:00:00
+Sergio Cubero,SD Eibar,400000.0,2023-06-30 00:00:00,26.7,1999-09-05 00:00:00
+Juan Calatayud,Real Club Deportivo Mallorca S.A.D.,400000.0,,46.4,1979-12-21 00:00:00
+Pablo Ramón,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,2026-06-30 00:00:00,24.8,2001-06-30 00:00:00
+Carlos Martínez,Real Sociedad de Fútbol S.A.D.,400000.0,,40.1,1986-04-09 00:00:00
+Mariano Díaz,Deportivo Alavés S. A. D.,400000.0,2027-06-30 00:00:00,32.8,1993-08-01 00:00:00
+Ander Martín,Real Sociedad de Fútbol S.A.D.,400000.0,2026-06-30 00:00:00,25.5,2000-11-16 00:00:00
+Dani Díaz,Real Sociedad de Fútbol S.A.D.,400000.0,2029-06-30 00:00:00,19.9,2006-06-22 00:00:00
+Jaume Doménech,Valencia Club de Fútbol S. A. D.,400000.0,,35.5,1990-11-05 00:00:00
+Borja Lasso,Sevilla Fútbol Club S.A.D.,400000.0,,32.3,1994-01-01 00:00:00
+Roberto Olabe,SD Eibar,400000.0,2024-06-30 00:00:00,30.0,1996-05-05 00:00:00
+Saúl García,Deportivo Alavés S. A. D.,400000.0,2024-06-30 00:00:00,31.5,1994-11-09 00:00:00
+Anaitz Arbilla,SD Eibar,400000.0,2023-06-30 00:00:00,39.0,1987-05-15 00:00:00
+Einar Galilea,Deportivo Alavés S. A. D.,400000.0,2023-06-30 00:00:00,32.0,1994-05-22 00:00:00
+Ramon Azeez,Granada CF,400000.0,,33.4,1992-12-12 00:00:00
+Javier Baraja,Real Valladolid CF,400000.0,,45.7,1980-08-24 00:00:00
+Ignasi Vilarrasa,Real Valladolid CF,400000.0,2024-06-30 00:00:00,26.7,1999-08-23 00:00:00
+Adrián San Miguel,Real Betis Balompié S.A.D.,400000.0,2026-06-30 00:00:00,39.3,1987-01-03 00:00:00
+Óscar Trejo,Rayo Vallecano de Madrid S. A. D.,400000.0,2026-06-30 00:00:00,38.0,1988-04-26 00:00:00
+Álvaro Aceves,Real Valladolid CF,400000.0,2028-06-30 00:00:00,22.8,2003-07-26 00:00:00
+Lanchi,Villarreal Club de Fútbol S.A.D.,400000.0,2023-06-30 00:00:00,24.9,2001-06-23 00:00:00
+Ibai Gómez,Athletic Club Bilbao,400000.0,2023-06-30 00:00:00,36.5,1989-11-11 00:00:00
+Thomas Carrique,Real Club Celta de Vigo S. A. D.,400000.0,2026-06-30 00:00:00,27.2,1999-02-26 00:00:00
+Josep Señé,Real Club Deportivo Mallorca S.A.D.,400000.0,2023-06-30 00:00:00,34.4,1991-12-10 00:00:00
+Roger Martínez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,2025-06-30 00:00:00,22.1,2004-04-05 00:00:00
+Mario de Luis,Real Madrid Club de Fútbol,400000.0,2025-06-30 00:00:00,24.0,2002-05-06 00:00:00
+Raúl Lizoain,UD Las Palmas,400000.0,2023-06-30 00:00:00,35.3,1991-01-27 00:00:00
+Pablo Piatti,Elche Club de Fútbol S.A.D.,400000.0,2024-06-30 00:00:00,37.1,1989-03-31 00:00:00
+Víctor Sánchez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,,38.7,1987-09-08 00:00:00
+Álvaro Vadillo,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,2023-06-30 00:00:00,31.6,1994-09-12 00:00:00
+Iriney,Granada CF,400000.0,,45.0,1981-04-23 00:00:00
+Isma Ruiz,Granada CF,400000.0,2023-06-30 00:00:00,25.2,2001-02-14 00:00:00
+Salva Ruiz,Granada CF,400000.0,2024-06-30 00:00:00,31.0,1995-05-17 00:00:00
+Martin Petrov,Reial Club Deportiu Espanyol de Barcelona S.A.D.,400000.0,,47.3,1979-01-15 00:00:00
+Vicente Guaita,Real Club Celta de Vigo S. A. D.,400000.0,,39.3,1987-01-10 00:00:00
+Víctor Díaz,Granada CF,400000.0,,37.9,1988-06-12 00:00:00
+Ayoze Díaz,Deportivo de La Coruña,400000.0,,43.9,1982-05-25 00:00:00
+Pedro Bigas,Elche Club de Fútbol S.A.D.,400000.0,2026-06-30 00:00:00,36.0,1990-05-15 00:00:00
+Vladyslav Krapyvtsov,Girona Fútbol Club S. A. D.,400000.0,2029-06-30 00:00:00,20.9,2005-06-25 00:00:00
+Miguel Cifuentes,Elche Club de Fútbol S.A.D.,375000.0,,35.6,1990-10-05 00:00:00
+Damià Abella,Club Atlético Osasuna,350000.0,,44.1,1982-04-15 00:00:00
+Michel Macedo,UD Las Palmas,350000.0,2023-12-31 00:00:00,36.2,1990-02-15 00:00:00
+Richard Boateng Welbeck,Granada CF,350000.0,2024-06-30 00:00:00,33.8,1992-07-10 00:00:00
+Pau Martínez,Club Atlético Osasuna,350000.0,2023-06-30 00:00:00,25.5,2000-11-10 00:00:00
+Carlos Doncel,Reial Club Deportiu Espanyol de Barcelona S.A.D.,350000.0,2024-06-30 00:00:00,29.4,1996-12-04 00:00:00
+Adrián Colunga,Getafe Club de Fútbol S. A. D. Team Dubai,350000.0,,41.5,1984-11-17 00:00:00
+Pedro Morales,Málaga CF,350000.0,,40.9,1985-05-25 00:00:00
+Alejandro Arribas,Deportivo de La Coruña,350000.0,,37.0,1989-05-01 00:00:00
+Simão,Levante Unión Deportiva S.A.D.,350000.0,,37.9,1988-06-23 00:00:00
+Vinícius Araújo,Valencia Club de Fútbol S. A. D.,350000.0,,33.2,1993-02-22 00:00:00
+Alain Oyarzun,Real Sociedad de Fútbol S.A.D.,350000.0,2023-06-30 00:00:00,32.6,1993-09-27 00:00:00
+Hicham Khaloua,UD Almería,350000.0,2025-06-30 00:00:00,31.0,1995-05-07 00:00:00
+Dani Romera,Futbol Club Barcelona,350000.0,2023-06-30 00:00:00,30.7,1995-08-23 00:00:00
+Zdravko Kuzmanovic,Málaga CF,325000.0,,38.6,1987-09-22 00:00:00
+Borja Gómez,Granada CF,325000.0,,38.0,1988-05-14 00:00:00
+Javier Mascherano,Futbol Club Barcelona,325000.0,,41.9,1984-06-08 00:00:00
+Bobley Anderson,Málaga CF,325000.0,,34.2,1992-03-03 00:00:00
+Tito,Rayo Vallecano de Madrid S. A. D.,325000.0,2023-06-30 00:00:00,40.8,1985-07-11 00:00:00
+Tana,UD Las Palmas,325000.0,2023-04-30 00:00:00,35.6,1990-09-20 00:00:00
+Christian Bravo,Granada CF,325000.0,2023-12-31 00:00:00,32.6,1993-10-01 00:00:00
+Dejan Drazic,Real Club Celta de Vigo S. A. D.,300000.0,2023-06-30 00:00:00,30.6,1995-09-26 00:00:00
+Sergio Santos,Real Madrid Club de Fútbol,300000.0,2023-06-30 00:00:00,25.3,2001-01-03 00:00:00
+Ricard Pujol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,300000.0,2023-06-30 00:00:00,28.2,1998-03-04 00:00:00
+Carlos Marchena,Deportivo de La Coruña,300000.0,,46.8,1979-07-31 00:00:00
+Aitor Seguín,Athletic Club Bilbao,300000.0,2024-06-30 00:00:00,31.2,1995-02-27 00:00:00
+Óscar Gil,Athletic Club Bilbao,300000.0,2024-06-30 00:00:00,30.9,1995-06-14 00:00:00
+Francisco Mwepu,Cádiz CF,300000.0,2026-06-30 00:00:00,26.2,2000-02-29 00:00:00
+Nacho Monsalve,Deportivo de La Coruña,300000.0,2024-06-30 00:00:00,32.0,1994-04-27 00:00:00
+Rubén Iranzo,Valencia Club de Fútbol S. A. D.,300000.0,2027-06-30 00:00:00,23.1,2003-03-14 00:00:00
+Víctor Mollejo,Club Atlético de Madrid S.A.D.,300000.0,2028-06-30 00:00:00,25.3,2001-01-21 00:00:00
+Javi Varas,SD Huesca,300000.0,,43.6,1982-09-10 00:00:00
+Jesús Ruiz,Real Club Deportivo Mallorca S.A.D.,300000.0,2023-06-30 00:00:00,29.3,1997-01-20 00:00:00
+Coke,Levante Unión Deportiva S.A.D.,300000.0,2023-06-30 00:00:00,39.0,1987-04-26 00:00:00
+Cezary Wilk,Deportivo de La Coruña,300000.0,,40.2,1986-02-12 00:00:00
+Josete Miranda,Getafe Club de Fútbol S. A. D. Team Dubai,300000.0,2024-06-30 00:00:00,27.8,1998-07-22 00:00:00
+Abde Raihani,Club Atlético de Madrid S.A.D.,300000.0,2027-06-30 00:00:00,22.3,2004-02-03 00:00:00
+Fausto Rossi,Córdoba CF,300000.0,2023-06-30 00:00:00,35.4,1990-12-03 00:00:00
+Álex García,Club Atlético de Madrid S.A.D.,300000.0,,32.2,1994-02-07 00:00:00
+Moi Delgado,Real Valladolid CF,300000.0,2023-06-30 00:00:00,32.0,1994-04-18 00:00:00
+Jon García,Club Atlético Osasuna,300000.0,2026-06-30 00:00:00,23.3,2003-01-28 00:00:00
+Carlos Guirao,Real Betis Balompié S.A.D.,300000.0,2029-06-30 00:00:00,23.0,2003-04-27 00:00:00
+Jon Ander Garrido,Cádiz CF,300000.0,,36.6,1989-10-09 00:00:00
+Jaime Sánchez,Real Madrid Club de Fútbol,300000.0,2024-06-30 00:00:00,31.2,1995-03-11 00:00:00
+José Calderón,Real Betis Balompié S.A.D.,300000.0,2023-06-30 00:00:00,26.3,2000-01-07 00:00:00
+Víctor Pastrana,Real Club Celta de Vigo S. A. D.,300000.0,2023-06-30 00:00:00,29.6,1996-09-27 00:00:00
+Pablo López,Valencia Club de Fútbol S. A. D.,300000.0,2026-06-30 00:00:00,20.1,2006-03-27 00:00:00
+Juan Rodríguez,Getafe Club de Fútbol S. A. D. Team Dubai,300000.0,,44.1,1982-04-01 00:00:00
+Andoni Zubiaurre,Real Sociedad de Fútbol S.A.D.,300000.0,2024-06-30 00:00:00,29.4,1996-12-04 00:00:00
+Manuel Iturra,Villarreal Club de Fútbol S.A.D.,300000.0,,41.9,1984-06-23 00:00:00
+Marc Vidal,Real Club Celta de Vigo S. A. D.,300000.0,2028-06-30 00:00:00,26.2,2000-02-14 00:00:00
+Manuel Pozo,Real Valladolid CF,300000.0,2025-06-30 00:00:00,24.4,2001-12-12 00:00:00
+Germán Parreño,Reial Club Deportiu Espanyol de Barcelona S.A.D.,300000.0,2023-06-30 00:00:00,33.2,1993-02-16 00:00:00
+Borja Herrera,UD Las Palmas,300000.0,2023-05-31 00:00:00,33.3,1993-01-08 00:00:00
+Dani Pérez,Real Betis Balompié S.A.D.,300000.0,2026-06-30 00:00:00,20.8,2005-07-26 00:00:00
+Raúl Rodríguez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,300000.0,,38.6,1987-09-22 00:00:00
+Michael Krohn-Dehli,Deportivo de La Coruña,300000.0,,42.9,1983-06-06 00:00:00
+Samu Becerra,Rayo Vallecano de Madrid S. A. D.,300000.0,2027-06-30 00:00:00,19.9,2006-06-01 00:00:00
+Ginés Sorroche,Real Betis Balompié S.A.D.,300000.0,2026-06-30 00:00:00,22.1,2004-03-24 00:00:00
+Diego Hormigo,Sevilla Fútbol Club S.A.D.,300000.0,2028-06-30 00:00:00,23.1,2003-04-16 00:00:00
+Adrián González,Málaga CF,300000.0,,37.9,1988-05-25 00:00:00
+Ian Soler,Málaga CF,300000.0,2023-12-31 00:00:00,30.3,1996-01-23 00:00:00
+Pablo Iñiguez,Villarreal Club de Fútbol S.A.D.,300000.0,2023-06-30 00:00:00,32.3,1994-01-20 00:00:00
+Mohamed Sissoko,Levante Unión Deportiva S.A.D.,300000.0,,41.3,1985-01-22 00:00:00
+Filipe Luís,Club Atlético de Madrid S.A.D.,300000.0,2023-12-31 00:00:00,40.7,1985-08-09 00:00:00
+Iñaki Rupérez,Real Sociedad de Fútbol S.A.D.,300000.0,2029-06-30 00:00:00,23.3,2003-01-07 00:00:00
+Iván Cédric,Real Valladolid CF,300000.0,2024-06-30 00:00:00,24.4,2001-12-22 00:00:00
+Álvaro Bastida,Cádiz CF,300000.0,2026-06-30 00:00:00,22.0,2004-05-12 00:00:00
+Álvaro Negredo,Cádiz CF,300000.0,,40.7,1985-08-20 00:00:00
+Unai Dufur,Club Atlético Osasuna,300000.0,2023-06-30 00:00:00,27.3,1999-01-21 00:00:00
+Álvaro Carrillo,Real Madrid Club de Fútbol,300000.0,2026-06-30 00:00:00,24.1,2002-04-06 00:00:00
+Joris Gnagnon,Sevilla Fútbol Club S.A.D.,300000.0,,29.3,1997-01-13 00:00:00
+Lolo,Club Atlético Osasuna,300000.0,,41.7,1984-08-22 00:00:00
+Jony Álamo,Elche Club de Fútbol S.A.D.,300000.0,2023-06-30 00:00:00,24.6,2001-09-25 00:00:00
+Jean-Sylvain Babin,Sporting Gijón,300000.0,2023-06-30 00:00:00,39.6,1986-10-14 00:00:00
+Nauzet Alemán,UD Las Palmas,300000.0,2023-06-30 00:00:00,41.2,1985-02-25 00:00:00
+Pablo Fernández,Sporting Gijón,300000.0,2025-06-30 00:00:00,29.6,1996-09-17 00:00:00
+Marco Camus,Valencia Club de Fútbol S. A. D.,300000.0,2025-06-30 00:00:00,24.5,2001-11-16 00:00:00
+Alberto Flores,Sevilla Fútbol Club S.A.D.,300000.0,2027-06-30 00:00:00,22.5,2003-11-10 00:00:00
+David Ferreiro,SD Huesca,300000.0,2024-06-30 00:00:00,38.1,1988-04-01 00:00:00
+Mamady Diarra,Cádiz CF,300000.0,,25.9,2000-06-26 00:00:00
+Pablo Larrea,Villarreal Club de Fútbol S.A.D.,300000.0,2024-06-30 00:00:00,32.2,1994-02-04 00:00:00
+Martín Pascual,Rayo Vallecano de Madrid S. A. D.,300000.0,2025-06-30 00:00:00,26.8,1999-08-04 00:00:00
+David Juncà,Real Club Celta de Vigo S. A. D.,300000.0,2023-06-30 00:00:00,32.5,1993-11-16 00:00:00
+Bruno González,Real Valladolid CF,300000.0,2023-06-30 00:00:00,35.9,1990-05-24 00:00:00
+José Ángel Jurado,UD Almería,300000.0,2024-06-30 00:00:00,33.9,1992-06-21 00:00:00
+Sebastián Dubarbier,UD Almería,300000.0,,40.2,1986-02-19 00:00:00
+Edu Ramos,Villarreal Club de Fútbol S.A.D.,300000.0,,34.2,1992-02-17 00:00:00
+Oier Sanjurjo,Club Atlético Osasuna,300000.0,2023-05-31 00:00:00,39.9,1986-05-25 00:00:00
+Ernesto Galán,Reial Club Deportiu Espanyol de Barcelona S.A.D.,300000.0,,39.9,1986-06-17 00:00:00
+Pablo Clavería,Rayo Vallecano de Madrid S. A. D.,300000.0,2024-06-30 00:00:00,30.1,1996-04-01 00:00:00
+Koke Vegas,Levante Unión Deportiva S.A.D.,300000.0,2023-11-30 00:00:00,30.6,1995-09-27 00:00:00
+José Antonio Reyes,Reial Club Deportiu Espanyol de Barcelona S.A.D.,300000.0,,42.7,1983-09-01 00:00:00
+Joaquín Larrivey,Real Club Celta de Vigo S. A. D.,300000.0,2023-06-30 00:00:00,41.7,1984-08-20 00:00:00
+Jonmi Magunagoitia,SD Eibar,300000.0,2023-06-30 00:00:00,25.7,2000-08-06 00:00:00
+Xabi Etxeita,Getafe Club de Fútbol S. A. D. Team Dubai,300000.0,2023-06-30 00:00:00,38.5,1987-10-31 00:00:00
+José Manuel Pinto,Futbol Club Barcelona,300000.0,,50.5,1975-11-08 00:00:00
+Sergio Moreno,Rayo Vallecano de Madrid S. A. D.,300000.0,2023-06-30 00:00:00,27.3,1999-01-01 00:00:00
+Guillem Jaime,Futbol Club Barcelona,300000.0,2023-06-30 00:00:00,27.3,1999-01-06 00:00:00
+Diego Mariño,UD Almería,300000.0,,36.0,1990-05-09 00:00:00
+André Grandi,CD Leganés,300000.0,,29.0,1997-05-02 00:00:00
+David Generelo,Elche Club de Fútbol S.A.D.,300000.0,,43.7,1982-08-11 00:00:00
+Álex Blesa,Levante Unión Deportiva S.A.D.,300000.0,2023-06-30 00:00:00,24.3,2002-01-15 00:00:00
+Etienne Eto'o,Rayo Vallecano de Madrid S. A. D.,300000.0,2026-06-30 00:00:00,23.7,2002-08-18 00:00:00
+Juan María Alcedo,Sevilla Fútbol Club S.A.D.,300000.0,2025-06-30 00:00:00,25.2,2001-02-05 00:00:00
+Hugo González,Valencia Club de Fútbol S. A. D.,300000.0,2025-06-30 00:00:00,23.2,2003-02-07 00:00:00
+Pablo Pérez,Sporting Gijón,300000.0,2023-05-31 00:00:00,32.8,1993-08-02 00:00:00
+Sekou Gassama,Real Valladolid CF,300000.0,,31.0,1995-05-06 00:00:00
+Roberto Arroyo,Real Valladolid CF,300000.0,2024-06-30 00:00:00,22.7,2003-08-25 00:00:00
+Gaizka Ayesa,Real Sociedad de Fútbol S.A.D.,300000.0,2025-06-30 00:00:00,25.1,2001-04-02 00:00:00
+Carlos Marín,Real Betis Balompié S.A.D.,300000.0,2024-06-30 00:00:00,29.2,1997-02-20 00:00:00
+Heinz Barmettler,Real Valladolid CF,300000.0,,38.8,1987-07-21 00:00:00
+Nolito,Real Club Celta de Vigo S. A. D.,300000.0,2024-06-30 00:00:00,39.6,1986-10-15 00:00:00
+Ismael Bekhoucha,Getafe Club de Fútbol S. A. D. Team Dubai,300000.0,2028-06-30 00:00:00,21.5,2004-11-20 00:00:00
+Juan Manuel Vargas,Real Betis Balompié S.A.D.,300000.0,,42.6,1983-10-05 00:00:00
+Manu Fernández,Deportivo de La Coruña,300000.0,,40.0,1986-05-09 00:00:00
+Ion Ansotegi,SD Eibar,300000.0,,43.8,1982-07-13 00:00:00
+Emilio Bernad,Valencia Club de Fútbol S. A. D.,300000.0,2023-06-30 00:00:00,26.6,1999-09-22 00:00:00
+Pedro Benito,Cádiz CF,300000.0,2023-06-30 00:00:00,26.1,2000-03-27 00:00:00
+José Luis Morales,Levante Unión Deportiva S.A.D.,300000.0,2026-06-30 00:00:00,38.8,1987-07-23 00:00:00
+Xavi Moreno,Real Valladolid CF,300000.0,2026-06-30 00:00:00,21.5,2004-11-05 00:00:00
+Lautaro de León,Real Club Celta de Vigo S. A. D.,300000.0,2027-06-30 00:00:00,25.2,2001-02-09 00:00:00
+José Javier Barkero,Levante Unión Deportiva S.A.D.,300000.0,,47.0,1979-04-27 00:00:00
+Mario Abrante,Real Betis Balompié S.A.D.,300000.0,,44.3,1982-02-02 00:00:00
+Javi Castro,Real Club Celta de Vigo S. A. D.,300000.0,2023-06-30 00:00:00,25.6,2000-09-13 00:00:00
+Cani,Deportivo de La Coruña,300000.0,,44.8,1981-08-03 00:00:00
+Kiko Casilla,Getafe Club de Fútbol S. A. D. Team Dubai,300000.0,,39.6,1986-10-02 00:00:00
+Luis López,Real Madrid Club de Fútbol,300000.0,2023-06-30 00:00:00,25.0,2001-05-08 00:00:00
+Augusto Fernández,Cádiz CF,300000.0,,40.1,1986-04-10 00:00:00
+Marc Tenas,Deportivo Alavés S. A. D.,300000.0,2023-06-30 00:00:00,24.9,2001-05-30 00:00:00
+Diego López,Rayo Vallecano de Madrid S. A. D.,300000.0,,44.5,1981-11-03 00:00:00
+Mario Suárez,Rayo Vallecano de Madrid S. A. D.,300000.0,,39.2,1987-02-24 00:00:00
+Cristian Herrera,UD Las Palmas,300000.0,,35.1,1991-03-13 00:00:00
+Jean Ives Valou,Villarreal Club de Fútbol S.A.D.,300000.0,2030-06-30 00:00:00,20.4,2005-12-22 00:00:00
+José Antonio de la Rosa,Cádiz CF,300000.0,2025-06-30 00:00:00,21.8,2004-07-28 00:00:00
+Marcelo Silva,UD Almería,300000.0,2023-12-31 00:00:00,37.1,1989-03-21 00:00:00
+Unai Bustinza,CD Leganés,300000.0,2025-06-30 00:00:00,34.3,1992-02-02 00:00:00
+Toni Fuidias,Girona Fútbol Club S. A. D.,300000.0,2025-06-30 00:00:00,25.1,2001-04-15 00:00:00
+Selvi Clua,Girona Fútbol Club S. A. D.,300000.0,2026-06-30 00:00:00,21.3,2005-01-29 00:00:00
+Pablo Chavarría,Real Club Deportivo Mallorca S.A.D.,300000.0,2023-06-30 00:00:00,38.3,1988-01-02 00:00:00
+Álex Rubio,Sevilla Fútbol Club S.A.D.,300000.0,2023-06-30 00:00:00,32.8,1993-07-23 00:00:00
+Javi Eraso,CD Leganés,300000.0,,36.1,1990-03-22 00:00:00
+Ángel Fortuño,Reial Club Deportiu Espanyol de Barcelona S.A.D.,300000.0,2027-06-30 00:00:00,24.6,2001-10-05 00:00:00
+Luken Beitia,Real Sociedad de Fútbol S.A.D.,300000.0,2029-06-30 00:00:00,21.8,2004-06-30 00:00:00
+Miguel Ángel Sierra,Sevilla Fútbol Club S.A.D.,300000.0,2026-06-30 00:00:00,21.8,2004-07-14 00:00:00
+Andoni López,Athletic Club Bilbao,300000.0,2023-06-30 00:00:00,30.1,1996-04-05 00:00:00
+Jordi Calavera,SD Eibar,300000.0,2024-06-30 00:00:00,30.8,1995-08-02 00:00:00
+Marc Martínez,Granada CF,300000.0,2025-06-30 00:00:00,36.1,1990-04-04 00:00:00
+Arturo Molina,Levante Unión Deportiva S.A.D.,300000.0,2023-06-30 00:00:00,29.8,1996-07-18 00:00:00
+Théo Zidane,Real Madrid Club de Fútbol,300000.0,2026-06-30 00:00:00,24.0,2002-05-18 00:00:00
+Recio,SD Eibar,300000.0,,35.3,1991-01-11 00:00:00
+Alejandro Alfaro,Real Club Deportivo Mallorca S.A.D.,300000.0,,39.4,1986-11-23 00:00:00
+Alberto Collado,Sevilla Fútbol Club S.A.D.,300000.0,2027-06-30 00:00:00,21.1,2005-04-16 00:00:00
+Diego Rodríguez,Málaga CF,300000.0,,35.3,1991-01-08 00:00:00
+Juan Sánchez Miño,Elche Club de Fútbol S.A.D.,275000.0,2023-12-31 00:00:00,36.3,1990-01-01 00:00:00
+Aleksandar Sedlar,Deportivo Alavés S. A. D.,275000.0,2026-06-30 00:00:00,34.4,1991-12-13 00:00:00
+Hernán Toledo,UD Las Palmas,275000.0,2024-12-31 00:00:00,30.3,1996-01-17 00:00:00
+Andres Tuñez,Real Club Celta de Vigo S. A. D.,250000.0,,39.1,1987-03-15 00:00:00
+Carlos Redruello,Real Betis Balompié S.A.D.,250000.0,2023-06-30 00:00:00,28.9,1997-06-23 00:00:00
+Teerasil Dangda,UD Almería,250000.0,2023-05-31 00:00:00,37.9,1988-06-06 00:00:00
+Dani Villahermosa,Reial Club Deportiu Espanyol de Barcelona S.A.D.,250000.0,2023-06-30 00:00:00,25.3,2001-01-02 00:00:00
+Cristo Romero,Real Sociedad de Fútbol S.A.D.,250000.0,2024-06-30 00:00:00,26.0,2000-04-30 00:00:00
+Andrés Solano,Club Atlético de Madrid S.A.D.,250000.0,,28.2,1998-02-24 00:00:00
+Ismael López,Athletic Club Bilbao,250000.0,,48.2,1978-02-27 00:00:00
+Pedro Geromel,Real Club Deportivo Mallorca S.A.D.,250000.0,2023-12-31 00:00:00,40.6,1985-09-21 00:00:00
+Alberto Dadie,Real Sociedad de Fútbol S.A.D.,250000.0,2025-06-30 00:00:00,23.8,2002-07-20 00:00:00
+Derek Boateng,SD Eibar,250000.0,,43.0,1983-05-02 00:00:00
+Aitor Gismera,Club Atlético de Madrid S.A.D.,250000.0,2027-06-30 00:00:00,22.2,2004-02-21 00:00:00
+Jon Gaztañaga,Real Sociedad de Fútbol S.A.D.,250000.0,,34.9,1991-06-28 00:00:00
+Alfonso Pastor,Sevilla Fútbol Club S.A.D.,250000.0,2023-06-30 00:00:00,25.6,2000-10-04 00:00:00
+David Ramos,Real Betis Balompié S.A.D.,250000.0,2023-06-30 00:00:00,28.7,1997-08-19 00:00:00
+Asier Córdoba,Club Atlético Osasuna,250000.0,2023-06-30 00:00:00,26.1,2000-03-31 00:00:00
+Sidnei,Real Betis Balompié S.A.D.,250000.0,2023-06-30 00:00:00,36.7,1989-08-23 00:00:00
+Alejandro Meléndez,Real Betis Balompié S.A.D.,250000.0,2023-06-30 00:00:00,27.0,1999-05-13 00:00:00
+Jefferson Montero,Getafe Club de Fútbol S. A. D. Team Dubai,250000.0,,36.7,1989-09-01 00:00:00
+Roque Santa Cruz,Málaga CF,250000.0,2023-12-31 00:00:00,44.7,1981-08-16 00:00:00
+Carlos Calderón,Getafe Club de Fútbol S. A. D. Team Dubai,250000.0,2023-06-30 00:00:00,31.1,1995-04-14 00:00:00
+Sergio Llamas,Deportivo Alavés S. A. D.,250000.0,2023-06-30 00:00:00,33.2,1993-03-06 00:00:00
+Julio Iricibar,Real Valladolid CF,250000.0,,32.5,1993-10-24 00:00:00
+Luismi Quezada,Real Madrid Club de Fútbol,250000.0,2025-01-31 00:00:00,30.2,1996-02-11 00:00:00
+Pol Freixanet,Elche Club de Fútbol S.A.D.,250000.0,2023-06-30 00:00:00,34.7,1991-08-22 00:00:00
+Rodri,Rayo Vallecano de Madrid S. A. D.,250000.0,,41.7,1984-08-17 00:00:00
+Carlos Ramos,Club Atlético de Madrid S.A.D.,250000.0,2024-06-30 00:00:00,31.7,1994-08-31 00:00:00
+Facundo Ferreyra,Real Club Celta de Vigo S. A. D.,250000.0,2023-12-31 00:00:00,35.1,1991-03-14 00:00:00
+Miguel Olavide,Club Atlético Osasuna,250000.0,,30.1,1996-04-05 00:00:00
+Thaylor,SD Eibar,250000.0,2023-06-30 00:00:00,32.2,1994-02-27 00:00:00
+Eneko Satrústegui,Club Atlético Osasuna,250000.0,2024-06-30 00:00:00,35.6,1990-09-25 00:00:00
+Mauricio Cuero,Levante Unión Deportiva S.A.D.,250000.0,2024-12-31 00:00:00,33.3,1993-01-28 00:00:00
+Markel Etxeberria,Athletic Club Bilbao,250000.0,2024-06-30 00:00:00,31.2,1995-02-15 00:00:00
+Iago Indias,Reial Club Deportiu Espanyol de Barcelona S.A.D.,250000.0,2023-06-30 00:00:00,30.3,1996-01-03 00:00:00
+Sergio Mendigutxia,Sporting Gijón,250000.0,,32.9,1993-06-12 00:00:00
+Nando García,Valencia Club de Fútbol S. A. D.,250000.0,2024-06-30 00:00:00,31.9,1994-06-13 00:00:00
+José Ruiz,Getafe Club de Fútbol S. A. D. Team Dubai,250000.0,2024-06-30 00:00:00,36.1,1990-03-26 00:00:00
+Rubén Mesa,Club Atlético de Madrid S.A.D.,250000.0,2024-06-30 00:00:00,34.3,1992-01-16 00:00:00
+Juan Rodríguez,Sporting Gijón,250000.0,2023-06-30 00:00:00,31.0,1995-05-08 00:00:00
+Álex Quintanilla,Valencia Club de Fútbol S. A. D.,250000.0,,35.8,1990-07-02 00:00:00
+Nano Mesa,Cádiz CF,250000.0,,31.2,1995-02-05 00:00:00
+César de la Hoz,Real Valladolid CF,250000.0,,34.1,1992-03-30 00:00:00
+Alberto Guitián,Real Valladolid CF,250000.0,,35.8,1990-07-29 00:00:00
+Isi Gómez,Rayo Vallecano de Madrid S. A. D.,250000.0,2024-06-30 00:00:00,30.5,1995-10-28 00:00:00
+Vicente Gómez,UD Las Palmas,250000.0,,37.7,1988-08-31 00:00:00
+Ljubomir Fejsa,Deportivo Alavés S. A. D.,250000.0,2023-06-30 00:00:00,37.7,1988-08-14 00:00:00
+Sergio Aguza,Real Madrid Club de Fútbol,250000.0,2023-06-30 00:00:00,33.7,1992-09-02 00:00:00
+Álvaro Vázquez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,250000.0,2024-05-31 00:00:00,35.0,1991-04-27 00:00:00
+Tomás Pina,Deportivo Alavés S. A. D.,250000.0,2023-11-04 00:00:00,38.6,1987-10-14 00:00:00
+Juan Delgado,Levante Unión Deportiva S.A.D.,250000.0,2023-06-30 00:00:00,32.3,1994-01-03 00:00:00
+Dani Aquino,Club Atlético de Madrid S.A.D.,250000.0,2024-06-30 00:00:00,35.8,1990-07-27 00:00:00
+Robert Mazan,Real Club Celta de Vigo S. A. D.,250000.0,,32.2,1994-02-09 00:00:00
+Fran Morante,Granada CF,250000.0,2023-06-30 00:00:00,33.9,1992-06-28 00:00:00
+Álex Granell,Girona Fútbol Club S. A. D.,250000.0,2024-06-30 00:00:00,37.8,1988-08-02 00:00:00
+Giovani dos Santos,Villarreal Club de Fútbol S.A.D.,250000.0,,37.0,1989-05-11 00:00:00
+Quique Fornos,Deportivo de La Coruña,250000.0,2023-06-30 00:00:00,29.3,1997-01-01 00:00:00
+Èric Montes,Girona Fútbol Club S. A. D.,250000.0,2023-06-30 00:00:00,28.0,1998-04-17 00:00:00
+Luis Bilbao,Athletic Club Bilbao,250000.0,2024-06-30 00:00:00,23.1,2003-03-24 00:00:00
+Yassin Fekir,Real Betis Balompié S.A.D.,250000.0,2023-06-30 00:00:00,29.0,1997-05-05 00:00:00
+Javi Díaz,Sevilla Fútbol Club S.A.D.,250000.0,2025-06-30 00:00:00,29.0,1997-05-15 00:00:00
+Antonio Montoro,Granada CF,250000.0,2023-06-30 00:00:00,29.0,1997-05-10 00:00:00
+Rafa Gálvez,Elche Club de Fútbol S.A.D.,250000.0,2023-06-30 00:00:00,33.0,1993-05-20 00:00:00
+Edu Campabadal,Córdoba CF,250000.0,2023-06-30 00:00:00,33.3,1993-01-26 00:00:00
+Pedro Martín,Club Atlético de Madrid S.A.D.,250000.0,2025-06-30 00:00:00,34.3,1992-01-16 00:00:00
+José Carlos Ramírez,Real Betis Balompié S.A.D.,250000.0,2023-06-30 00:00:00,30.0,1996-05-10 00:00:00
+Víctor Rodríguez,Elche Club de Fútbol S.A.D.,225000.0,2023-05-31 00:00:00,36.8,1989-07-23 00:00:00
+Javi Noblejas,Getafe Club de Fútbol S. A. D. Team Dubai,225000.0,,33.1,1993-03-18 00:00:00
+Xavi Sintes,Sevilla Fútbol Club S.A.D.,200000.0,2026-06-30 00:00:00,24.7,2001-08-05 00:00:00
+Diego Castro,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,,43.8,1982-07-02 00:00:00
+Joel López,Real Club Celta de Vigo S. A. D.,200000.0,2027-06-30 00:00:00,24.1,2002-03-31 00:00:00
+Isra Domínguez,Sevilla Fútbol Club S.A.D.,200000.0,2027-06-30 00:00:00,23.0,2003-05-07 00:00:00
+Mario Maroto,Real Valladolid CF,200000.0,2026-06-30 00:00:00,22.4,2003-11-28 00:00:00
+Raúl Jiménez,Valencia Club de Fútbol S. A. D.,200000.0,2028-06-30 00:00:00,20.2,2006-02-16 00:00:00
+Facundo García,CD Leganés,200000.0,2023-06-30 00:00:00,26.4,1999-12-16 00:00:00
+Cedrick,Real Betis Balompié S.A.D.,200000.0,,34.2,1992-03-08 00:00:00
+Quique Cebriá,SD Eibar,200000.0,,31.1,1995-04-01 00:00:00
+Santi Cazorla,Real Oviedo S.A.D.,200000.0,2026-06-30 00:00:00,41.4,1984-12-13 00:00:00
+Míchel Madera,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,,40.5,1985-11-08 00:00:00
+Coke Carrillo,Real Club Celta de Vigo S. A. D.,200000.0,2029-06-30 00:00:00,24.3,2002-01-07 00:00:00
+Álvaro Arroyo,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,,37.8,1988-07-22 00:00:00
+Aboubacar Bassinga,UD Las Palmas,200000.0,2026-06-30 00:00:00,20.8,2005-07-13 00:00:00
+Kaiser,SD Eibar,200000.0,2023-06-30 00:00:00,30.1,1996-04-04 00:00:00
+Martín Demichelis,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,,45.4,1980-12-20 00:00:00
+Ekain Orobengoa,Real Sociedad de Fútbol S.A.D.,200000.0,2028-06-30 00:00:00,21.9,2004-06-17 00:00:00
+Gerónimo Spina,Club Atlético de Madrid S.A.D.,200000.0,2027-06-30 00:00:00,21.2,2005-02-09 00:00:00
+Pepe Mena,Sevilla Fútbol Club S.A.D.,200000.0,2023-06-30 00:00:00,28.0,1998-05-15 00:00:00
+Zourdine Thior,Real Sociedad de Fútbol S.A.D.,200000.0,2024-06-30 00:00:00,28.8,1997-07-09 00:00:00
+Nacho Quintana,Sevilla Fútbol Club S.A.D.,200000.0,2024-06-30 00:00:00,25.2,2001-02-23 00:00:00
+Antonio Domínguez,Real Valladolid CF,200000.0,2024-06-30 00:00:00,33.1,1993-04-04 00:00:00
+Markel Areitio,SD Eibar,200000.0,2023-06-30 00:00:00,29.7,1996-09-07 00:00:00
+José de León,Deportivo Alavés S. A. D.,200000.0,2029-06-30 00:00:00,22.2,2004-03-02 00:00:00
+Manuel Lucena,Granada CF,200000.0,,43.5,1982-11-18 00:00:00
+Toño García,Levante Unión Deportiva S.A.D.,200000.0,,36.5,1989-11-07 00:00:00
+Hugo Fraile,Sporting Gijón,200000.0,,39.1,1987-03-16 00:00:00
+Dimitrios Stamatakis,Club Atlético Osasuna,200000.0,2027-06-30 00:00:00,23.0,2003-04-23 00:00:00
+Diego Fuoli,UD Almería,200000.0,,28.5,1997-10-20 00:00:00
+Hamza Bellari,Valencia Club de Fútbol S. A. D.,200000.0,2026-06-30 00:00:00,23.2,2003-03-11 00:00:00
+Iván Rodríguez,Málaga CF,200000.0,2023-06-30 00:00:00,30.0,1996-04-30 00:00:00
+Javi Fuego,Villarreal Club de Fútbol S.A.D.,200000.0,,42.3,1984-01-04 00:00:00
+Álex López,Real Club Celta de Vigo S. A. D.,200000.0,2023-06-30 00:00:00,38.3,1988-01-11 00:00:00
+Gonzalo Pereira,Levante Unión Deportiva S.A.D.,200000.0,2023-06-30 00:00:00,29.2,1997-02-14 00:00:00
+Antón de Vicente,Real Club Celta de Vigo S. A. D.,200000.0,2024-06-30 00:00:00,36.7,1989-08-25 00:00:00
+Moisés Hurtado,Granada CF,200000.0,,45.2,1981-02-20 00:00:00
+Gorka Iraizoz,Girona Fútbol Club S. A. D.,200000.0,,45.2,1981-03-06 00:00:00
+Gaizka Toquero,Deportivo Alavés S. A. D.,200000.0,,41.7,1984-08-09 00:00:00
+Luísinho,SD Huesca,200000.0,,41.0,1985-05-05 00:00:00
+Martín Calderón,Cádiz CF,200000.0,2025-06-30 00:00:00,27.2,1999-03-01 00:00:00
+Pablo Pérez,Sevilla Fútbol Club S.A.D.,200000.0,2024-06-30 00:00:00,24.7,2001-08-18 00:00:00
+Marc Bertrán,Club Atlético Osasuna,200000.0,,44.0,1982-05-22 00:00:00
+Damián Musto,SD Huesca,200000.0,2023-06-30 00:00:00,38.9,1987-06-09 00:00:00
+Héctor Figueroa,UD Las Palmas,200000.0,2023-06-30 00:00:00,37.5,1988-10-30 00:00:00
+Jorge Ortí,Real Zaragoza,200000.0,,33.0,1993-04-28 00:00:00
+Damien Perquis,Real Betis Balompié S.A.D.,200000.0,,42.1,1984-04-10 00:00:00
+Chuli,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2023-06-30 00:00:00,35.3,1991-01-25 00:00:00
+Ricard Artero,Girona Fútbol Club S. A. D.,200000.0,2027-06-30 00:00:00,23.2,2003-02-05 00:00:00
+Carlos Vigaray,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,31.7,1994-09-07 00:00:00
+Iñaki Álvarez,Club Atlético Osasuna,200000.0,2023-06-30 00:00:00,28.9,1997-06-18 00:00:00
+Adrián Rodríguez,Deportivo Alavés S. A. D.,200000.0,2026-06-30 00:00:00,25.4,2000-12-12 00:00:00
+José Antonio Caro,Real Betis Balompié S.A.D.,200000.0,2024-06-30 00:00:00,33.2,1993-03-08 00:00:00
+José Artiles,UD Las Palmas,200000.0,2023-06-30 00:00:00,32.9,1993-06-10 00:00:00
+Álex Calatrava,Club Atlético de Madrid S.A.D.,200000.0,2026-06-30 00:00:00,25.9,2000-06-22 00:00:00
+Antonio Cotán,Real Valladolid CF,200000.0,2023-06-30 00:00:00,30.6,1995-09-19 00:00:00
+Dani Iglesias,Deportivo de La Coruña,200000.0,,30.8,1995-07-17 00:00:00
+José Ángel,Elche Club de Fútbol S.A.D.,200000.0,2023-06-30 00:00:00,37.2,1989-03-02 00:00:00
+César Moreno,Elche Club de Fútbol S.A.D.,200000.0,2024-06-30 00:00:00,25.0,2001-04-23 00:00:00
+Amro Tarek,Real Betis Balompié S.A.D.,200000.0,2023-12-31 00:00:00,34.0,1992-05-17 00:00:00
+Iván López,Levante Unión Deportiva S.A.D.,200000.0,,32.7,1993-08-23 00:00:00
+Ian González,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2023-06-30 00:00:00,33.2,1993-02-11 00:00:00
+Antonio Aranda,Granada CF,200000.0,2023-06-30 00:00:00,25.6,2000-10-07 00:00:00
+Jon Errasti,SD Eibar,200000.0,,37.9,1988-06-06 00:00:00
+Nico Baleani,Real Club Deportivo Mallorca S.A.D.,200000.0,2024-06-30 00:00:00,33.5,1992-11-16 00:00:00
+Ismael Gutiérrez,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,25.7,2000-08-07 00:00:00
+Mario Dominguez,Valencia Club de Fútbol S. A. D.,200000.0,2025-06-30 00:00:00,22.2,2004-02-10 00:00:00
+Miguel Capitas,Sevilla Fútbol Club S.A.D.,200000.0,2025-06-30 00:00:00,25.2,2001-03-06 00:00:00
+Alan Godoy,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,23.0,2003-05-04 00:00:00
+David Lombán,SD Eibar,200000.0,,38.9,1987-06-05 00:00:00
+Kike Royo,Real Sociedad de Fútbol S.A.D.,200000.0,2024-06-30 00:00:00,34.9,1991-06-14 00:00:00
+Alberto Rivera,Elche Club de Fútbol S.A.D.,200000.0,,48.2,1978-02-16 00:00:00
+Charlie I'Anson,Elche Club de Fútbol S.A.D.,200000.0,2024-06-30 00:00:00,32.8,1993-07-01 00:00:00
+Arnau Rafús,Real Valladolid CF,200000.0,2026-06-30 00:00:00,23.0,2003-04-27 00:00:00
+Ro Abajas,Valencia Club de Fútbol S. A. D.,200000.0,2028-06-30 00:00:00,23.0,2003-05-12 00:00:00
+Ezequiel Rescaldani,Málaga CF,200000.0,2023-12-31 00:00:00,33.9,1992-06-11 00:00:00
+Abdoulaye Keita,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2026-06-30 00:00:00,23.7,2002-09-01 00:00:00
+Álex Martínez,Granada CF,200000.0,2023-06-30 00:00:00,35.7,1990-08-12 00:00:00
+Félix Garreta,Real Betis Balompié S.A.D.,200000.0,2024-06-30 00:00:00,22.0,2004-04-21 00:00:00
+Javi Hervás,Sevilla Fútbol Club S.A.D.,200000.0,2023-06-30 00:00:00,36.9,1989-06-09 00:00:00
+Salva Sevilla,Real Club Deportivo Mallorca S.A.D.,200000.0,2023-06-30 00:00:00,42.1,1984-03-18 00:00:00
+César Fernández,Real Club Celta de Vigo S. A. D.,200000.0,2027-06-30 00:00:00,22.3,2004-01-28 00:00:00
+Hernán Santana,UD Las Palmas,200000.0,,35.7,1990-08-26 00:00:00
+Jonathan Zongo,UD Almería,200000.0,,37.1,1989-04-16 00:00:00
+José Manuel Fernández,Real Zaragoza,200000.0,2023-06-30 00:00:00,36.5,1989-11-18 00:00:00
+Bicho,Deportivo de La Coruña,200000.0,2023-06-30 00:00:00,30.2,1996-02-20 00:00:00
+Carlos García,Cádiz CF,200000.0,2024-06-30 00:00:00,25.8,2000-07-07 00:00:00
+Euse Monzó,Levante Unión Deportiva S.A.D.,200000.0,2023-06-30 00:00:00,25.4,2000-12-04 00:00:00
+Antonio López,Real Club Deportivo Mallorca S.A.D.,200000.0,,44.6,1981-09-13 00:00:00
+Manolo Reina,Real Club Deportivo Mallorca S.A.D.,200000.0,2024-06-30 00:00:00,41.1,1985-04-01 00:00:00
+Raúl Carnero,Real Valladolid CF,200000.0,2023-06-30 00:00:00,37.0,1989-04-30 00:00:00
+Sergi García,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,27.1,1999-04-14 00:00:00
+Sixtus Ogbuehi,Club Atlético Osasuna,200000.0,2028-06-30 00:00:00,23.1,2003-03-15 00:00:00
+Vicente Esquerdo,Valencia Club de Fútbol S. A. D.,200000.0,2024-06-30 00:00:00,27.3,1999-01-02 00:00:00
+Mario Rodríguez,Granada CF,200000.0,2023-06-30 00:00:00,29.2,1997-03-03 00:00:00
+Alberto Risco,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2026-06-30 00:00:00,20.7,2005-08-30 00:00:00
+Roberto Trashorras,Rayo Vallecano de Madrid S. A. D.,200000.0,,45.2,1981-02-28 00:00:00
+Ibrahima Sow,Sevilla Fútbol Club S.A.D.,200000.0,2026-06-30 00:00:00,19.3,2007-01-26 00:00:00
+Keko Gontán,Real Valladolid CF,200000.0,2023-11-30 00:00:00,34.4,1991-12-27 00:00:00
+Salvi Sánchez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,2026-06-30 00:00:00,35.1,1991-03-30 00:00:00
+Adrián Ortolá,Futbol Club Barcelona,200000.0,2023-06-30 00:00:00,32.7,1993-08-20 00:00:00
+Raúl Navas,Club Atlético Osasuna,200000.0,2023-06-30 00:00:00,38.0,1988-05-11 00:00:00
+Matías Dituro,Elche Club de Fútbol S.A.D.,200000.0,2027-06-30 00:00:00,39.0,1987-05-08 00:00:00
+Andrés Prieto,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,2023-06-30 00:00:00,32.5,1993-10-17 00:00:00
+Héctor Hernández,Deportivo Alavés S. A. D.,200000.0,2024-06-30 00:00:00,35.0,1991-05-23 00:00:00
+Alfredo Pedraza,Levante Unión Deportiva S.A.D.,200000.0,2023-06-30 00:00:00,25.4,2000-12-20 00:00:00
+Carles Planas,Girona Fútbol Club S. A. D.,200000.0,,35.2,1991-03-04 00:00:00
+Carlos Cristeto,Real Club Deportivo Mallorca S.A.D.,200000.0,2026-06-30 00:00:00,32.0,1994-05-13 00:00:00
+Sergio Diez,Club Atlético de Madrid S.A.D.,200000.0,2025-06-30 00:00:00,22.8,2003-07-28 00:00:00
+Alejandro Sanz,Real Sociedad de Fútbol S.A.D.,200000.0,2023-06-30 00:00:00,32.9,1993-06-05 00:00:00
+Andreas Ivanschitz,Levante Unión Deportiva S.A.D.,200000.0,,42.6,1983-10-15 00:00:00
+Rubén Ramiro,Rayo Vallecano de Madrid S. A. D.,200000.0,,33.1,1993-04-16 00:00:00
+Mario Gómez,Rayo Vallecano de Madrid S. A. D.,200000.0,2024-06-30 00:00:00,33.6,1992-10-06 00:00:00
+Óscar Serrano,Levante Unión Deportiva S.A.D.,200000.0,,44.6,1981-09-30 00:00:00
+José Mari,Cádiz CF,200000.0,2025-06-30 00:00:00,38.4,1987-12-06 00:00:00
+Carlos Hernández,Real Zaragoza,200000.0,2024-06-30 00:00:00,35.6,1990-09-15 00:00:00
+Javi Rey,Real Club Celta de Vigo S. A. D.,200000.0,2024-06-30 00:00:00,35.2,1991-02-20 00:00:00
+Antonio Leal,Levante Unión Deportiva S.A.D.,200000.0,2023-06-30 00:00:00,27.3,1999-01-28 00:00:00
+Charles,SD Eibar,200000.0,2023-06-30 00:00:00,42.1,1984-04-04 00:00:00
+Imanol Sarriegi,SD Eibar,200000.0,2023-06-30 00:00:00,31.0,1995-04-27 00:00:00
+Carlos Aranda,Granada CF,200000.0,,45.8,1980-07-27 00:00:00
+Dani Sotres,Real Club Celta de Vigo S. A. D.,200000.0,2024-06-30 00:00:00,33.0,1993-05-21 00:00:00
+Saturday Erimuya,Cádiz CF,200000.0,2023-06-30 00:00:00,28.3,1998-01-10 00:00:00
+Jeremy Jorge,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2026-06-30 00:00:00,23.2,2003-02-09 00:00:00
+David Cobeño,Rayo Vallecano de Madrid S. A. D.,200000.0,,44.1,1982-04-06 00:00:00
+Kuki Zalazar,Real Valladolid CF,200000.0,2024-06-30 00:00:00,28.0,1998-05-05 00:00:00
+Mikel Rico,SD Huesca,200000.0,2023-06-30 00:00:00,41.5,1984-11-04 00:00:00
+Henok Goitom,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,,41.6,1984-09-22 00:00:00
+Neyder Lozano,Granada CF,200000.0,2023-06-30 00:00:00,32.2,1994-03-04 00:00:00
+Lucho García,Sevilla Fútbol Club S.A.D.,200000.0,2023-06-30 00:00:00,28.1,1998-03-20 00:00:00
+Allan Nyom,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2026-06-30 00:00:00,38.0,1988-05-10 00:00:00
+Christian Santos,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,38.1,1988-03-24 00:00:00
+Fran Serrano,Córdoba CF,200000.0,2023-06-30 00:00:00,31.0,1995-04-20 00:00:00
+Héctor Yuste,Granada CF,200000.0,2023-05-31 00:00:00,38.3,1988-01-12 00:00:00
+Alberto López,Málaga CF,200000.0,2023-06-30 00:00:00,30.9,1995-05-27 00:00:00
+Jonathan Pereira,Rayo Vallecano de Madrid S. A. D.,200000.0,,39.0,1987-05-12 00:00:00
+Rubén Martínez,Club Atlético Osasuna,200000.0,,41.9,1984-06-22 00:00:00
+Iago López,Deportivo de La Coruña,200000.0,2023-06-30 00:00:00,33.7,1992-09-03 00:00:00
+Facundo Roncaglia,Club Atlético Osasuna,200000.0,2023-12-31 00:00:00,39.2,1987-02-10 00:00:00
+Dani Molina,Real Club Celta de Vigo S. A. D.,200000.0,2023-06-30 00:00:00,30.1,1996-03-14 00:00:00
+Sergio Rodelas,Granada CF,200000.0,2028-06-30 00:00:00,21.4,2004-12-01 00:00:00
+Koffi,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,2023-06-30 00:00:00,24.5,2001-11-20 00:00:00
+Raúl Fernández,Deportivo Alavés S. A. D.,200000.0,2026-06-30 00:00:00,38.1,1988-03-13 00:00:00
+Antoñito,Real Valladolid CF,200000.0,2023-06-30 00:00:00,38.4,1987-12-24 00:00:00
+Adri López,Granada CF,200000.0,,27.3,1999-01-09 00:00:00
+Pedro López,Real Betis Balompié S.A.D.,200000.0,2023-06-30 00:00:00,31.3,1995-01-21 00:00:00
+Manu del Moral,SD Eibar,200000.0,,42.2,1984-02-25 00:00:00
+Aritz López Garai,Córdoba CF,200000.0,,45.5,1980-11-06 00:00:00
+Fabián Orellana,Real Valladolid CF,200000.0,,40.3,1986-01-27 00:00:00
+Nikolaos Karabelas,Levante Unión Deportiva S.A.D.,200000.0,,41.4,1984-12-20 00:00:00
+Germán Sánchez,Granada CF,200000.0,2024-06-30 00:00:00,39.4,1986-12-12 00:00:00
+Manu García,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,40.0,1986-04-26 00:00:00
+Imanol García,Villarreal Club de Fútbol S.A.D.,200000.0,2023-06-30 00:00:00,30.4,1995-12-26 00:00:00
+Mohamed Ezzarfani,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,2023-06-30 00:00:00,28.5,1997-11-15 00:00:00
+Julián Luque,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,2023-06-30 00:00:00,34.1,1992-03-27 00:00:00
+Fernando Soriano,UD Almería,200000.0,,46.6,1979-09-24 00:00:00
+Pape Diop,SD Eibar,200000.0,2023-06-30 00:00:00,40.1,1986-03-19 00:00:00
+Víctor San Bartolomé,Athletic Club Bilbao,200000.0,2025-06-30 00:00:00,26.5,1999-10-26 00:00:00
+Álex Serradell,Valencia Club de Fútbol S. A. D.,200000.0,2026-06-30 00:00:00,23.7,2002-08-14 00:00:00
+Ángel López,SD Eibar,200000.0,2023-06-30 00:00:00,29.2,1997-02-07 00:00:00
+Pibe,Real Betis Balompié S.A.D.,200000.0,2024-06-30 00:00:00,30.3,1996-01-31 00:00:00
+Vicent Abril,Valencia Club de Fútbol S. A. D.,200000.0,2029-06-30 00:00:00,21.2,2005-02-15 00:00:00
+Seydou Doumbia,Girona Fútbol Club S. A. D.,200000.0,,38.3,1987-12-31 00:00:00
+Iago Bouzón,Córdoba CF,200000.0,,42.9,1983-06-16 00:00:00
+Juan Agüero,Club Atlético de Madrid S.A.D.,200000.0,2023-06-30 00:00:00,26.9,1999-05-27 00:00:00
+Joan Monterde,Levante Unión Deportiva S.A.D.,200000.0,2023-06-30 00:00:00,28.4,1997-12-18 00:00:00
+Mario Bermejo,Real Club Celta de Vigo S. A. D.,200000.0,,47.6,1978-10-07 00:00:00
+Alberto Ródenas,Club Atlético de Madrid S.A.D.,200000.0,2023-06-30 00:00:00,27.6,1998-09-26 00:00:00
+Moctar El Hacen,Real Valladolid CF,200000.0,2023-06-30 00:00:00,28.3,1997-12-31 00:00:00
+José Alonso Lara,Real Betis Balompié S.A.D.,200000.0,,26.2,2000-03-07 00:00:00
+Domingo Cisma,Elche Club de Fútbol S.A.D.,200000.0,,44.2,1982-02-09 00:00:00
+Iñigo Muñoz,Athletic Club Bilbao,200000.0,2023-06-30 00:00:00,29.4,1996-12-16 00:00:00
+Javi Vázquez,Sevilla Fútbol Club S.A.D.,200000.0,2023-06-30 00:00:00,25.6,2000-09-24 00:00:00
+Tropi,Valencia Club de Fútbol S. A. D.,200000.0,2023-06-30 00:00:00,31.0,1995-05-12 00:00:00
+Oier Olazábal,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,,36.6,1989-09-14 00:00:00
+Miguel Ángel Corona,UD Almería,200000.0,,45.2,1981-02-12 00:00:00
+Igor Martínez,Athletic Club Bilbao,200000.0,,36.8,1989-07-19 00:00:00
+Zaka,Club Atlético de Madrid S.A.D.,200000.0,,28.9,1997-06-01 00:00:00
+Moha Moukhliss,Real Valladolid CF,200000.0,2023-06-30 00:00:00,26.2,2000-02-06 00:00:00
+Diego Bri,Club Atlético de Madrid S.A.D.,200000.0,2026-06-30 00:00:00,23.6,2002-09-12 00:00:00
+Manu Garrido,CD Leganés,200000.0,2023-06-30 00:00:00,25.6,2000-10-06 00:00:00
+Pepe Sánchez,Granada CF,200000.0,2023-06-30 00:00:00,26.2,2000-03-02 00:00:00
+Adrián López,Club Atlético Osasuna,200000.0,,38.3,1988-01-08 00:00:00
+Oguchi Onyewu,Málaga CF,200000.0,,44.0,1982-05-13 00:00:00
+Antonio Otegui,Club Atlético Osasuna,200000.0,2023-06-30 00:00:00,28.2,1998-03-07 00:00:00
+Marcos Tébar,UD Almería,200000.0,,40.2,1986-02-07 00:00:00
+Eric Monjonell,Girona Fútbol Club S. A. D.,200000.0,2025-06-30 00:00:00,24.4,2001-12-06 00:00:00
+Edu Frías,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,2023-06-30 00:00:00,27.3,1998-12-31 00:00:00
+Tiago Ribeiro,Valencia Club de Fútbol S. A. D.,200000.0,2023-06-30 00:00:00,24.1,2002-03-14 00:00:00
+Miguel Marí,SD Eibar,200000.0,2023-06-30 00:00:00,28.8,1997-06-30 00:00:00
+Claudio Medina,Elche Club de Fútbol S.A.D.,200000.0,2024-06-30 00:00:00,32.7,1993-09-04 00:00:00
+Antonio Valera,SD Huesca,200000.0,,29.7,1996-08-17 00:00:00
+Marc Baró,Real Betis Balompié S.A.D.,200000.0,2023-06-30 00:00:00,26.7,1999-08-23 00:00:00
+Víctor López,Deportivo Alavés S. A. D.,200000.0,2023-06-30 00:00:00,29.0,1997-05-12 00:00:00
+Julen Azkue,SD Eibar,200000.0,2023-06-30 00:00:00,30.6,1995-09-21 00:00:00
+Julio Gracia,Real Betis Balompié S.A.D.,200000.0,2023-06-30 00:00:00,28.2,1998-02-10 00:00:00
+Egoitz Muñoz,Deportivo Alavés S. A. D.,200000.0,2027-06-30 00:00:00,22.1,2004-04-14 00:00:00
+Miguel Flaño,Club Atlético Osasuna,200000.0,,41.7,1984-08-19 00:00:00
+Jastin Garcia,Girona Fútbol Club S. A. D.,200000.0,2026-06-30 00:00:00,22.3,2004-01-15 00:00:00
+Albert Dalmau,Valencia Club de Fútbol S. A. D.,200000.0,2023-06-30 00:00:00,34.1,1992-03-16 00:00:00
+Álvaro García,Reial Club Deportiu Espanyol de Barcelona S.A.D.,200000.0,2023-06-30 00:00:00,25.9,2000-06-01 00:00:00
+Javi Guerra,Rayo Vallecano de Madrid S. A. D.,200000.0,,44.1,1982-03-15 00:00:00
+Daniele Bonera,Villarreal Club de Fútbol S.A.D.,200000.0,,44.9,1981-05-31 00:00:00
+Selu Diallo,Deportivo Alavés S. A. D.,200000.0,2025-06-30 00:00:00,22.6,2003-10-01 00:00:00
+Juancho,Rayo Vallecano de Madrid S. A. D.,200000.0,2023-06-30 00:00:00,30.3,1996-01-24 00:00:00
+José Carrillo,Getafe Club de Fútbol S. A. D. Team Dubai,175000.0,,31.2,1995-03-04 00:00:00
+Carlos Peña,Real Valladolid CF,175000.0,,42.8,1983-07-28 00:00:00
+Humberto Osorio,Real Valladolid CF,175000.0,,37.9,1988-06-24 00:00:00
+Agustín Cousillas,Málaga CF,175000.0,,36.0,1990-04-19 00:00:00
+Javi Ros,Real Sociedad de Fútbol S.A.D.,150000.0,2024-06-30 00:00:00,36.2,1990-02-16 00:00:00
+Cristóbal Gil,UD Almería,150000.0,2024-06-30 00:00:00,34.2,1992-02-05 00:00:00
+José Manuel Casado,UD Almería,150000.0,,39.7,1986-08-09 00:00:00
+Pablo Picón,Levante Unión Deportiva S.A.D.,150000.0,2023-06-30 00:00:00,26.3,2000-02-01 00:00:00
+Darío Ramos,Club Atlético Osasuna,150000.0,2024-06-30 00:00:00,26.5,1999-10-19 00:00:00
+Gilberto García,Real Valladolid CF,150000.0,,39.3,1987-01-27 00:00:00
+Ryan Nolan,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2023-05-31 00:00:00,27.2,1999-02-17 00:00:00
+Mario González,Granada CF,150000.0,2028-06-30 00:00:00,22.2,2004-02-05 00:00:00
+Álex Alegría,Real Club Deportivo Mallorca S.A.D.,150000.0,2023-06-30 00:00:00,33.6,1992-10-10 00:00:00
+Eliseo Falcón,Levante Unión Deportiva S.A.D.,150000.0,2023-06-30 00:00:00,29.2,1997-02-11 00:00:00
+Isma Gil,Rayo Vallecano de Madrid S. A. D.,150000.0,2024-06-30 00:00:00,37.3,1989-01-23 00:00:00
+Diego Colotto,Reial Club Deportiu Espanyol de Barcelona S.A.D.,150000.0,,45.2,1981-03-10 00:00:00
+Dani Plomer,Granada CF,150000.0,2023-06-30 00:00:00,27.4,1998-11-30 00:00:00
+Jean Marie Dongou,Futbol Club Barcelona,150000.0,,31.0,1995-04-22 00:00:00
+Gaizka Campos,Real Club Celta de Vigo S. A. D.,150000.0,2023-06-30 00:00:00,29.0,1997-05-16 00:00:00
+David Rodríguez,Real Club Celta de Vigo S. A. D.,150000.0,2024-06-30 00:00:00,40.2,1986-02-14 00:00:00
+Diego Alves,Real Club Celta de Vigo S. A. D.,150000.0,,40.9,1985-06-24 00:00:00
+Lautaro Spatz,Cádiz CF,150000.0,2023-12-31 00:00:00,24.5,2001-10-19 00:00:00
+Felipe Chacartegui,Sevilla Fútbol Club S.A.D.,150000.0,2023-06-30 00:00:00,28.2,1998-02-23 00:00:00
+Francisco Molinero,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,,40.8,1985-07-26 00:00:00
+Thomas Giaquinto,Real Club Deportivo Mallorca S.A.D.,150000.0,2023-06-30 00:00:00,26.1,2000-03-20 00:00:00
+Dani Pinillos,Córdoba CF,150000.0,2023-06-30 00:00:00,33.5,1992-10-22 00:00:00
+Alex Almansa,Reial Club Deportiu Espanyol de Barcelona S.A.D.,150000.0,2026-06-30 00:00:00,22.5,2003-11-08 00:00:00
+Antonio Amaro,Real Valladolid CF,150000.0,2024-06-30 00:00:00,34.0,1992-04-23 00:00:00
+Nico Njalla,Cádiz CF,150000.0,2025-06-30 00:00:00,23.1,2003-04-13 00:00:00
+Kingsley Fobi,Granada CF,150000.0,2023-06-30 00:00:00,27.6,1998-09-20 00:00:00
+Dariusz Dudka,Levante Unión Deportiva S.A.D.,150000.0,,42.4,1983-12-09 00:00:00
+Lillo Castellano,Club Atlético Osasuna,150000.0,2023-06-30 00:00:00,37.1,1989-03-27 00:00:00
+Kike Carrasco,Cádiz CF,150000.0,2023-06-30 00:00:00,28.2,1998-03-02 00:00:00
+Pablo Valencia,Club Atlético Osasuna,150000.0,2026-06-30 00:00:00,25.1,2001-03-16 00:00:00
+Quique Fernández,Real Betis Balompié S.A.D.,150000.0,,22.6,2003-09-16 00:00:00
+Antonio Marín,UD Almería,150000.0,2023-06-30 00:00:00,29.9,1996-06-17 00:00:00
+Jaime Romero,Club Atlético Osasuna,150000.0,2023-06-30 00:00:00,35.8,1990-07-31 00:00:00
+Julen López,SD Eibar,150000.0,2023-06-30 00:00:00,30.8,1995-07-20 00:00:00
+Iván Amores,CD Leganés,150000.0,,28.9,1997-05-27 00:00:00
+Genar Fornés,Cádiz CF,150000.0,2023-06-30 00:00:00,26.3,2000-01-17 00:00:00
+Pedro Alemañ,Valencia Club de Fútbol S. A. D.,150000.0,2028-06-30 00:00:00,24.1,2002-03-21 00:00:00
+David Forniés,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2024-06-30 00:00:00,34.9,1991-06-02 00:00:00
+Manu Lama,Club Atlético de Madrid S.A.D.,150000.0,2025-06-30 00:00:00,25.2,2001-02-12 00:00:00
+Carlos González,UD Las Palmas,150000.0,2023-06-30 00:00:00,29.0,1997-05-20 00:00:00
+Pablo Sáenz,Granada CF,150000.0,2025-06-30 00:00:00,25.0,2001-05-22 00:00:00
+Wilfried Zahibo,Valencia Club de Fútbol S. A. D.,150000.0,,32.7,1993-08-21 00:00:00
+Javi Montoya,Real Betis Balompié S.A.D.,150000.0,2024-06-30 00:00:00,35.1,1991-04-16 00:00:00
+Rafa Navarro,Deportivo Alavés S. A. D.,150000.0,2023-06-30 00:00:00,32.2,1994-02-24 00:00:00
+Adrián Verde,Real Valladolid CF,150000.0,2026-06-30 00:00:00,23.8,2002-08-03 00:00:00
+Sammir,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,,39.0,1987-04-23 00:00:00
+José Fran,Córdoba CF,150000.0,2023-06-30 00:00:00,33.9,1992-06-01 00:00:00
+Juan Cámara,Futbol Club Barcelona,150000.0,2023-06-30 00:00:00,32.2,1994-02-13 00:00:00
+Javi Domínguez,Real Club Celta de Vigo S. A. D.,150000.0,2025-06-30 00:00:00,25.1,2001-03-26 00:00:00
+Miquel Llabrés,Real Club Deportivo Mallorca S.A.D.,150000.0,2024-06-30 00:00:00,26.3,2000-01-28 00:00:00
+Samuel Pérez,Real Valladolid CF,150000.0,2023-06-30 00:00:00,29.0,1997-04-26 00:00:00
+Carlos Expósito,Levante Unión Deportiva S.A.D.,150000.0,,34.5,1991-11-17 00:00:00
+Miguel García,Granada CF,150000.0,2024-06-30 00:00:00,35.0,1991-04-17 00:00:00
+Iago Parente,Real Valladolid CF,150000.0,2026-06-30 00:00:00,20.2,2006-02-25 00:00:00
+Lluís Recasens,Reial Club Deportiu Espanyol de Barcelona S.A.D.,150000.0,2023-06-30 00:00:00,24.2,2002-02-19 00:00:00
+Javi Chica,Real Betis Balompié S.A.D.,150000.0,,41.0,1985-05-17 00:00:00
+Mohammed Abu,Rayo Vallecano de Madrid S. A. D.,150000.0,2023-11-30 00:00:00,34.5,1991-11-14 00:00:00
+Tià Sastre,Real Club Deportivo Mallorca S.A.D.,150000.0,2023-06-30 00:00:00,31.9,1994-06-21 00:00:00
+Lass Sangaré,Granada CF,150000.0,2025-06-30 00:00:00,24.5,2001-11-20 00:00:00
+Dani Gallardo,CD Leganés,150000.0,2023-06-30 00:00:00,30.1,1996-04-07 00:00:00
+Grégoire Swiderski,Deportivo Alavés S. A. D.,150000.0,2027-06-30 00:00:00,20.6,2005-10-05 00:00:00
+David Concha,Real Sociedad de Fútbol S.A.D.,150000.0,,29.5,1996-11-20 00:00:00
+Diego Barri,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2023-06-30 00:00:00,30.6,1995-09-19 00:00:00
+Mikel Carro,Club Atlético de Madrid S.A.D.,150000.0,2023-06-30 00:00:00,27.3,1999-01-25 00:00:00
+Samu Araújo,Real Club Celta de Vigo S. A. D.,150000.0,2023-06-30 00:00:00,30.4,1995-12-09 00:00:00
+Ángel Jiménez,Granada CF,150000.0,2023-06-30 00:00:00,23.9,2002-06-22 00:00:00
+Adrià Carmona,Real Zaragoza,150000.0,,34.2,1992-02-08 00:00:00
+Koke Iglesias,Real Valladolid CF,150000.0,2026-06-30 00:00:00,21.1,2005-03-16 00:00:00
+Carlos Castro,Sporting Gijón,150000.0,,30.9,1995-06-01 00:00:00
+Emmanuel Culio,UD Las Palmas,150000.0,,42.7,1983-08-30 00:00:00
+Jon Ander Serantes,CD Leganés,150000.0,2024-01-31 00:00:00,36.5,1989-10-24 00:00:00
+Daniel Carriço,Sevilla Fútbol Club S.A.D.,150000.0,,37.7,1988-08-04 00:00:00
+Rafa Muñoz,Club Atlético de Madrid S.A.D.,150000.0,2023-06-30 00:00:00,31.9,1994-06-19 00:00:00
+Guilherme Fernandes,Real Betis Balompié S.A.D.,150000.0,2026-06-30 00:00:00,25.1,2001-03-28 00:00:00
+Alberto Moreno,Club Atlético de Madrid S.A.D.,150000.0,2023-06-30 00:00:00,24.0,2002-04-19 00:00:00
+Sergio Segura,CD Leganés,150000.0,2023-06-30 00:00:00,30.7,1995-08-30 00:00:00
+Fran Miranda,Reial Club Deportiu Espanyol de Barcelona S.A.D.,150000.0,2024-06-30 00:00:00,38.1,1988-03-27 00:00:00
+Emiliano Armenteros,Club Atlético Osasuna,150000.0,,40.3,1986-01-18 00:00:00
+Jhon Mondragón,Club Atlético Osasuna,150000.0,,31.6,1994-10-15 00:00:00
+Carlos Giménez,Club Atlético de Madrid S.A.D.,150000.0,2026-06-30 00:00:00,23.2,2003-02-18 00:00:00
+Gorka Zabarte,Club Atlético Osasuna,150000.0,,27.3,1999-01-09 00:00:00
+Carlos Benítez,Levante Unión Deportiva S.A.D.,150000.0,2024-06-30 00:00:00,23.4,2002-11-25 00:00:00
+Unai Etxebarria,Valencia Club de Fútbol S. A. D.,150000.0,,29.7,1996-08-30 00:00:00
+Lulo Dasilva,Sevilla Fútbol Club S.A.D.,150000.0,2026-06-30 00:00:00,23.6,2002-10-04 00:00:00
+Javi Márquez,Granada CF,150000.0,,40.0,1986-05-11 00:00:00
+Carlos Lumbreras,Club Atlético Osasuna,150000.0,2027-06-30 00:00:00,21.2,2005-02-20 00:00:00
+Sérgio da Silva Pinto,Levante Unión Deportiva S.A.D.,150000.0,,45.5,1980-10-16 00:00:00
+David Argüelles,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2026-06-30 00:00:00,24.3,2002-01-10 00:00:00
+Álvaro Bravo,Granada CF,150000.0,2023-06-30 00:00:00,28.2,1998-02-04 00:00:00
+Sergio Benito,Real Valladolid CF,150000.0,2024-06-30 00:00:00,27.1,1999-03-23 00:00:00
+Miguel Ángel Brau,Granada CF,150000.0,2025-06-30 00:00:00,24.4,2001-12-27 00:00:00
+Álvaro García,Deportivo Alavés S. A. D.,150000.0,2025-06-30 00:00:00,20.6,2005-09-15 00:00:00
+Álex Pachón,Girona Fútbol Club S. A. D.,150000.0,2023-06-30 00:00:00,25.8,2000-07-17 00:00:00
+Eneko Ortiz,Deportivo Alavés S. A. D.,150000.0,2027-06-30 00:00:00,22.9,2003-05-26 00:00:00
+José García,Club Atlético Osasuna,150000.0,,29.3,1997-01-13 00:00:00
+Mamor Niang,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2023-06-30 00:00:00,24.2,2002-02-04 00:00:00
+Gael Alonso,Real Club Celta de Vigo S. A. D.,150000.0,2023-06-30 00:00:00,23.8,2002-07-22 00:00:00
+Benjamín Garay,Real Club Deportivo Mallorca S.A.D.,150000.0,2023-06-30 00:00:00,26.0,2000-04-19 00:00:00
+Ferni,Club Atlético de Madrid S.A.D.,150000.0,2023-06-30 00:00:00,28.1,1998-04-07 00:00:00
+Isaac Nana,Club Atlético de Madrid S.A.D.,150000.0,2024-06-30 00:00:00,32.3,1994-01-01 00:00:00
+Ignacio Abeledo,Real Betis Balompié S.A.D.,150000.0,2024-06-30 00:00:00,30.3,1996-01-05 00:00:00
+Endika Irigoyen,Club Atlético Osasuna,150000.0,2023-06-30 00:00:00,29.3,1997-01-25 00:00:00
+Luca Lohr,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2026-06-30 00:00:00,23.7,2002-08-19 00:00:00
+David Alba,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2023-06-30 00:00:00,27.0,1999-05-05 00:00:00
+Moussa Diakité,Cádiz CF,150000.0,2029-06-30 00:00:00,22.5,2003-11-04 00:00:00
+Joseda Menargues,Valencia Club de Fútbol S. A. D.,150000.0,2024-06-30 00:00:00,24.0,2002-05-01 00:00:00
+Tarsi Aguado,Real Zaragoza,150000.0,2025-06-30 00:00:00,31.6,1994-10-16 00:00:00
+Aldo One,Deportivo de La Coruña,150000.0,2023-06-30 00:00:00,31.3,1995-01-05 00:00:00
+Tena,Sevilla Fútbol Club S.A.D.,150000.0,2023-06-30 00:00:00,32.9,1993-06-28 00:00:00
+Tincho Conde,Real Club Celta de Vigo S. A. D.,150000.0,2029-06-30 00:00:00,23.1,2003-03-25 00:00:00
+Julio Cabrera,Cádiz CF,150000.0,2026-06-30 00:00:00,22.7,2003-08-14 00:00:00
+Iván Casado,Real Valladolid CF,150000.0,2024-06-30 00:00:00,32.8,1993-07-06 00:00:00
+Álex Portillo,Málaga CF,150000.0,2024-06-30 00:00:00,33.5,1992-11-06 00:00:00
+Javi Jiménez,Valencia Club de Fútbol S. A. D.,150000.0,2023-06-30 00:00:00,29.1,1997-03-11 00:00:00
+Víctor Rofino,Real Valladolid CF,150000.0,2025-06-30 00:00:00,23.8,2002-07-28 00:00:00
+Ruly García,Real Club Celta de Vigo S. A. D.,150000.0,,26.3,2000-01-27 00:00:00
+Álex Morata,Cádiz CF,150000.0,2026-06-30 00:00:00,19.8,2006-07-06 00:00:00
+Tòfol Montiel,Real Club Deportivo Mallorca S.A.D.,150000.0,2024-06-30 00:00:00,26.1,2000-04-11 00:00:00
+Diego Benito,Getafe Club de Fútbol S. A. D. Team Dubai,150000.0,2024-06-30 00:00:00,37.7,1988-08-25 00:00:00
+Álvaro Traver,Levante Unión Deportiva S.A.D.,150000.0,2023-06-30 00:00:00,33.1,1993-04-01 00:00:00
+Juan Carlos,Villarreal Club de Fútbol S.A.D.,150000.0,,38.8,1987-07-27 00:00:00
+Ander Gayoso,SD Eibar,150000.0,,32.8,1993-07-20 00:00:00
+Iu Ranera,CD Leganés,125000.0,,31.3,1995-01-08 00:00:00
+Juan Peñaloza,SD Huesca,125000.0,2023-12-31 00:00:00,26.0,2000-05-03 00:00:00
+Hans Martínez,UD Almería,125000.0,,39.3,1987-01-04 00:00:00
+Ander Sánchez,Deportivo Alavés S. A. D.,100000.0,2025-06-30 00:00:00,22.3,2004-01-24 00:00:00
+Alberto Lopo,Deportivo de La Coruña,100000.0,,46.0,1980-05-05 00:00:00
+Borja Fernández,Real Valladolid CF,100000.0,,45.3,1981-01-14 00:00:00
+Marcos Sánchez,Villarreal Club de Fútbol S.A.D.,100000.0,2025-06-30 00:00:00,22.5,2003-10-26 00:00:00
+Miki Bosch,Granada CF,100000.0,2025-06-30 00:00:00,24.9,2001-06-09 00:00:00
+Diego López,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,2025-06-30 00:00:00,24.5,2001-10-21 00:00:00
+Adri Miranda,Cádiz CF,100000.0,2025-06-30 00:00:00,23.0,2003-04-26 00:00:00
+Miguel Peña,UD Almería,100000.0,2025-06-30 00:00:00,25.2,2001-03-08 00:00:00
+Ricardo,Club Atlético Osasuna,100000.0,,54.3,1971-12-30 00:00:00
+Joseda Álvarez,Deportivo Alavés S. A. D.,100000.0,2025-06-30 00:00:00,25.3,2001-01-22 00:00:00
+Pepe Blanco,Deportivo Alavés S. A. D.,100000.0,2023-06-30 00:00:00,26.8,1999-07-29 00:00:00
+Fran González,Club Atlético de Madrid S.A.D.,100000.0,2023-06-30 00:00:00,27.7,1998-08-13 00:00:00
+Fernando Navarro,Deportivo de La Coruña,100000.0,,43.9,1982-06-25 00:00:00
+José María Movilla,Real Zaragoza,100000.0,,51.2,1975-02-08 00:00:00
+Hugo Pérez,Deportivo Alavés S. A. D.,100000.0,2023-06-30 00:00:00,23.4,2002-12-16 00:00:00
+Antonio Marchena,Real Betis Balompié S.A.D.,100000.0,2024-06-30 00:00:00,23.8,2002-07-27 00:00:00
+Juan Carlos Valerón,UD Las Palmas,100000.0,,50.9,1975-06-17 00:00:00
+Patxi Puñal,Club Atlético Osasuna,100000.0,,50.7,1975-09-06 00:00:00
+Matías Árbol,Sevilla Fútbol Club S.A.D.,100000.0,2026-06-30 00:00:00,23.6,2002-09-12 00:00:00
+Raúl Tamudo,Rayo Vallecano de Madrid S. A. D.,100000.0,,48.5,1977-10-19 00:00:00
+Adrián Corral,Club Atlético de Madrid S.A.D.,100000.0,2026-06-30 00:00:00,23.3,2003-01-05 00:00:00
+Leo Franco,Real Zaragoza,100000.0,,49.0,1977-05-20 00:00:00
+Manuel Pablo,Deportivo de La Coruña,100000.0,,50.3,1976-01-25 00:00:00
+Marco de las Sías,Rayo Vallecano de Madrid S. A. D.,100000.0,2027-06-30 00:00:00,20.3,2005-12-29 00:00:00
+Gaizka García,Deportivo Alavés S. A. D.,100000.0,2025-06-30 00:00:00,21.2,2005-02-17 00:00:00
+Valentín Pezzolesi,UD Las Palmas,100000.0,2027-06-30 00:00:00,19.1,2007-04-16 00:00:00
+Álex Primo,Levante Unión Deportiva S.A.D.,100000.0,2025-06-30 00:00:00,21.8,2004-07-10 00:00:00
+Facu Esnáider,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,,24.5,2001-11-09 00:00:00
+Josep Lluís Martí,Real Club Deportivo Mallorca S.A.D.,100000.0,,51.0,1975-04-28 00:00:00
+Juanfran,Levante Unión Deportiva S.A.D.,100000.0,,49.8,1976-07-15 00:00:00
+Egoitz Arana,Real Sociedad de Fútbol S.A.D.,100000.0,2026-06-30 00:00:00,24.2,2002-02-19 00:00:00
+Nacho Pastor,Elche Club de Fútbol S.A.D.,100000.0,2023-06-30 00:00:00,26.1,2000-04-03 00:00:00
+Juan Brunet,Granada CF,100000.0,2023-06-30 00:00:00,28.3,1998-01-24 00:00:00
+Duda,Málaga CF,100000.0,,45.9,1980-06-27 00:00:00
+Adrián Salguero,Cádiz CF,100000.0,2025-06-30 00:00:00,23.0,2003-05-20 00:00:00
+Xavi Pleguezuelo,Real Betis Balompié S.A.D.,100000.0,2026-06-30 00:00:00,23.3,2003-01-14 00:00:00
+Razvan Rat,Rayo Vallecano de Madrid S. A. D.,100000.0,,44.9,1981-05-26 00:00:00
+Rudy Kohon,Real Betis Balompié S.A.D.,100000.0,2029-06-30 00:00:00,21.9,2004-05-23 00:00:00
+Alberto Cifuentes,Cádiz CF,100000.0,,46.9,1979-05-29 00:00:00
+Kikín,Cádiz CF,100000.0,2024-06-30 00:00:00,23.3,2003-01-20 00:00:00
+Jesús Palomeque,Real Valladolid CF,100000.0,2023-06-30 00:00:00,24.5,2001-10-17 00:00:00
+Esteban,UD Almería,100000.0,,50.9,1975-06-27 00:00:00
+David Navarro,Levante Unión Deportiva S.A.D.,100000.0,,45.9,1980-05-25 00:00:00
+Ángel López,UD Las Palmas,100000.0,,45.2,1981-03-10 00:00:00
+Sergio Ballesteros,Levante Unión Deportiva S.A.D.,100000.0,,50.7,1975-09-04 00:00:00
+Justin Smith,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2026-06-30 00:00:00,23.2,2003-02-04 00:00:00
+Álvaro Rubio,Real Valladolid CF,100000.0,,47.0,1979-04-18 00:00:00
+Rubén González,Club Atlético Osasuna,100000.0,,44.3,1982-01-29 00:00:00
+Quique de Lucas,Real Club Celta de Vigo S. A. D.,100000.0,,47.7,1978-08-17 00:00:00
+Joselu Pérez,Valencia Club de Fútbol S. A. D.,100000.0,2025-06-30 00:00:00,22.1,2004-03-12 00:00:00
+Gorka Rivera,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,2029-06-30 00:00:00,21.8,2004-08-01 00:00:00
+Manu González,Real Betis Balompié S.A.D.,100000.0,2028-06-30 00:00:00,19.0,2007-04-18 00:00:00
+Victor Aznar,Cádiz CF,100000.0,2027-06-30 00:00:00,23.5,2002-10-17 00:00:00
+Dudu Aouate,Real Club Deportivo Mallorca S.A.D.,100000.0,,48.5,1977-10-17 00:00:00
+Obafemi Martins,Levante Unión Deportiva S.A.D.,100000.0,,41.5,1984-10-28 00:00:00
+Ibon Ispizua,Athletic Club Bilbao,100000.0,2024-06-30 00:00:00,23.1,2003-04-08 00:00:00
+Júlio Baptista,Málaga CF,100000.0,,44.6,1981-10-01 00:00:00
+Rodolfo Bodipo,Deportivo de La Coruña,100000.0,,48.5,1977-10-25 00:00:00
+José Nunes,Real Club Deportivo Mallorca S.A.D.,100000.0,,49.2,1977-03-07 00:00:00
+Sergio Mora,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,,46.7,1979-08-30 00:00:00
+Foued Kadir,Real Betis Balompié S.A.D.,100000.0,,42.4,1983-12-05 00:00:00
+Aythami Artiles,UD Las Palmas,100000.0,,40.1,1986-04-02 00:00:00
+Dani Estrada,Real Sociedad de Fútbol S.A.D.,100000.0,,39.3,1987-01-03 00:00:00
+Borja Navarro,Real Betis Balompié S.A.D.,100000.0,,38.0,1988-05-13 00:00:00
+Alejandro Gálvez,Rayo Vallecano de Madrid S. A. D.,100000.0,,36.9,1989-06-06 00:00:00
+David Cubillas,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2024-06-30 00:00:00,35.9,1990-06-19 00:00:00
+Derik Osede,Real Madrid Club de Fútbol,100000.0,2023-06-30 00:00:00,33.2,1993-02-21 00:00:00
+Raoul Loé,Club Atlético Osasuna,100000.0,2023-12-31 00:00:00,37.3,1989-01-31 00:00:00
+David Mayoral,Real Valladolid CF,100000.0,,29.1,1997-04-05 00:00:00
+Jaime Jiménez,SD Eibar,100000.0,,45.4,1980-12-10 00:00:00
+Pablo Alcolea,Real Zaragoza,100000.0,,37.1,1989-03-23 00:00:00
+Carlos Bellvís,Real Club Celta de Vigo S. A. D.,100000.0,,41.0,1985-04-24 00:00:00
+Álex Robles,Málaga CF,100000.0,2023-06-30 00:00:00,27.3,1999-01-28 00:00:00
+Dani Rodríguez,Real Club Deportivo Mallorca S.A.D.,100000.0,2026-06-30 00:00:00,37.9,1988-06-06 00:00:00
+Mikel Arruabarrena,SD Eibar,100000.0,,43.2,1983-02-09 00:00:00
+José Carlos Álvarez,Elche Club de Fútbol S.A.D.,100000.0,2023-06-30 00:00:00,33.3,1992-12-31 00:00:00
+Hodei Oleaga,Athletic Club Bilbao,100000.0,2023-06-30 00:00:00,29.3,1996-12-29 00:00:00
+Marcos Remeseiro,Deportivo de La Coruña,100000.0,2023-06-30 00:00:00,33.8,1992-07-21 00:00:00
+Gianni Cassaro,Villarreal Club de Fútbol S.A.D.,100000.0,,34.1,1992-04-10 00:00:00
+Alberto Domínguez,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,2024-06-30 00:00:00,38.2,1988-02-11 00:00:00
+Sergio García,Córdoba CF,100000.0,2023-06-30 00:00:00,29.4,1996-12-27 00:00:00
+Unai Albizua,Athletic Club Bilbao,100000.0,2024-06-30 00:00:00,37.3,1989-01-18 00:00:00
+Jonxa Vidal,Athletic Club Bilbao,100000.0,,34.8,1991-07-20 00:00:00
+Jairo Morillas,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2023-06-30 00:00:00,32.8,1993-07-02 00:00:00
+Javito,SD Huesca,100000.0,2023-06-30 00:00:00,27.4,1998-12-18 00:00:00
+Borja Viguera,Sporting Gijón,100000.0,,39.1,1987-03-26 00:00:00
+Felipe Ramos,Valencia Club de Fútbol S. A. D.,100000.0,,38.3,1988-01-10 00:00:00
+Álvaro Fernández,Real Club Celta de Vigo S. A. D.,100000.0,2023-06-30 00:00:00,26.1,2000-04-10 00:00:00
+Ander Iru,Athletic Club Bilbao,100000.0,2024-06-30 00:00:00,27.7,1998-08-22 00:00:00
+Víctor Pérez,Levante Unión Deportiva S.A.D.,100000.0,,38.3,1988-01-12 00:00:00
+Manu Onwu,Club Atlético Osasuna,100000.0,,38.3,1988-01-11 00:00:00
+Diego Barrios,CD Leganés,100000.0,2023-06-30 00:00:00,31.8,1994-07-30 00:00:00
+Sergio Sánchez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,,40.1,1986-04-03 00:00:00
+Manuel Galán,SD Huesca,100000.0,2023-06-30 00:00:00,27.9,1998-06-06 00:00:00
+Tano Bonnín,Club Atlético Osasuna,100000.0,2023-06-30 00:00:00,35.8,1990-06-30 00:00:00
+Aitor Lorea,Club Atlético Osasuna,100000.0,2023-06-30 00:00:00,28.1,1998-03-14 00:00:00
+Joritz Landeta,Deportivo Alavés S. A. D.,100000.0,2023-06-30 00:00:00,30.6,1995-10-10 00:00:00
+Néstor Díaz,Real Club Celta de Vigo S. A. D.,100000.0,2023-06-30 00:00:00,33.9,1992-06-26 00:00:00
+Diego Seoane,Deportivo de La Coruña,100000.0,2023-06-30 00:00:00,38.0,1988-04-26 00:00:00
+Juanjo Garrancho,Cádiz CF,100000.0,,28.9,1997-06-22 00:00:00
+Ikechukwu Uche,Málaga CF,100000.0,,42.3,1984-01-05 00:00:00
+Javi Lara,SD Eibar,100000.0,2023-06-30 00:00:00,40.4,1985-12-04 00:00:00
+Toni Dovale,CD Leganés,100000.0,2023-06-30 00:00:00,36.1,1990-04-04 00:00:00
+Juan Carlos,Girona Fútbol Club S. A. D.,100000.0,2026-06-30 00:00:00,38.3,1988-01-20 00:00:00
+Kike Ríos,Sevilla Fútbol Club S.A.D.,100000.0,2023-06-30 00:00:00,26.3,2000-01-21 00:00:00
+Cristian Rivero,Valencia Club de Fútbol S. A. D.,100000.0,2027-06-30 00:00:00,28.1,1998-03-21 00:00:00
+Álex dos Santos,Club Atlético de Madrid S.A.D.,100000.0,2023-06-30 00:00:00,27.3,1999-01-15 00:00:00
+Ivan Kelava,Granada CF,100000.0,,38.2,1988-02-20 00:00:00
+Miguel Muñoz,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,,31.3,1995-01-26 00:00:00
+Juan Forlín,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2024-06-30 00:00:00,38.3,1988-01-10 00:00:00
+Isma López,Sporting Gijón,100000.0,,36.3,1990-01-29 00:00:00
+Eder Vilarchao,Real Betis Balompié S.A.D.,100000.0,,36.2,1990-02-09 00:00:00
+Moha Traoré,Elche Club de Fútbol S.A.D.,100000.0,2023-06-30 00:00:00,31.4,1994-11-29 00:00:00
+Roberto Canella,Sporting Gijón,100000.0,,38.2,1988-02-07 00:00:00
+Ramón Bueno,Villarreal Club de Fútbol S.A.D.,100000.0,2023-06-30 00:00:00,31.2,1995-02-07 00:00:00
+Roberto Fernández,Granada CF,100000.0,,47.3,1979-01-25 00:00:00
+Christian Alfonso,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,,37.0,1989-05-02 00:00:00
+Alberto Lora,Sporting Gijón,100000.0,2023-06-30 00:00:00,39.1,1987-03-25 00:00:00
+Jon Irazusta,SD Eibar,100000.0,2023-06-30 00:00:00,40.0,1986-04-30 00:00:00
+Carlos Selfa,UD Almería,100000.0,,34.0,1992-04-25 00:00:00
+Gaspar Panadero,UD Almería,100000.0,2024-06-30 00:00:00,28.4,1997-12-09 00:00:00
+Laure,Deportivo de La Coruña,100000.0,2023-06-30 00:00:00,41.1,1985-03-22 00:00:00
+Biel Company,Real Club Deportivo Mallorca S.A.D.,100000.0,,34.2,1992-02-16 00:00:00
+Alberto Martín,CD Leganés,100000.0,2024-06-30 00:00:00,37.1,1989-03-31 00:00:00
+Jorge Mediavilla,SD Eibar,100000.0,2023-06-30 00:00:00,32.9,1993-06-16 00:00:00
+Samuel Llorca,Real Club Celta de Vigo S. A. D.,100000.0,,41.0,1985-04-26 00:00:00
+Samu Martínez,Elche Club de Fútbol S.A.D.,100000.0,,32.1,1994-04-15 00:00:00
+Sergio Pelegrín,Elche Club de Fútbol S.A.D.,100000.0,,46.7,1979-08-14 00:00:00
+Ángel de la Calzada,Real Betis Balompié S.A.D.,100000.0,2024-06-30 00:00:00,31.7,1994-09-02 00:00:00
+Modesto,Sevilla Fútbol Club S.A.D.,100000.0,,31.9,1994-06-14 00:00:00
+Gonzalo Suárez,Sevilla Fútbol Club S.A.D.,100000.0,,32.0,1994-04-22 00:00:00
+Ramiro Guerra,Villarreal Club de Fútbol S.A.D.,100000.0,,29.1,1997-03-21 00:00:00
+Miku Fedor,Rayo Vallecano de Madrid S. A. D.,100000.0,2023-06-30 00:00:00,40.7,1985-08-19 00:00:00
+Rafa Páez,SD Eibar,100000.0,2023-06-30 00:00:00,31.7,1994-08-10 00:00:00
+Cristian Gómez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,,36.8,1989-07-27 00:00:00
+Kiu,UD Almería,100000.0,,31.3,1995-01-04 00:00:00
+Alex Felip,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,2023-06-30 00:00:00,34.1,1992-04-03 00:00:00
+Miguel de las Cuevas,Club Atlético Osasuna,100000.0,2023-06-30 00:00:00,39.9,1986-06-19 00:00:00
+Álvaro Pereira,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,,40.4,1985-11-28 00:00:00
+Cristian Álvarez,Rayo Vallecano de Madrid S. A. D.,100000.0,2024-06-30 00:00:00,40.5,1985-11-13 00:00:00
+Jon Sillero,Athletic Club Bilbao,100000.0,2023-06-30 00:00:00,27.9,1998-05-24 00:00:00
+Mauro dos Santos,CD Leganés,100000.0,2023-06-30 00:00:00,36.8,1989-07-07 00:00:00
+Álvaro Molina,CD Leganés,100000.0,,32.2,1994-02-25 00:00:00
+Pablo Pérez,Málaga CF,100000.0,2023-12-31 00:00:00,40.7,1985-08-10 00:00:00
+Adolfo Martínez,Granada CF,100000.0,,34.3,1992-01-15 00:00:00
+Ramón Folch,Elche Club de Fútbol S.A.D.,100000.0,2023-06-30 00:00:00,36.6,1989-10-04 00:00:00
+José Luis Trápaga,Real Betis Balompié S.A.D.,100000.0,2023-06-30 00:00:00,28.0,1998-05-21 00:00:00
+Alberto García,Rayo Vallecano de Madrid S. A. D.,100000.0,,41.2,1985-02-09 00:00:00
+Saúl,Deportivo de La Coruña,100000.0,,41.1,1985-04-09 00:00:00
+David Tejero,CD Leganés,100000.0,2023-06-30 00:00:00,30.2,1996-03-05 00:00:00
+Nacho Porcar,Elche Club de Fútbol S.A.D.,100000.0,2023-06-30 00:00:00,33.8,1992-07-10 00:00:00
+Carlos Delgado,Valencia Club de Fútbol S. A. D.,100000.0,2024-05-31 00:00:00,36.0,1990-04-22 00:00:00
+Marcos Lavín,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,2023-06-30 00:00:00,29.7,1996-09-02 00:00:00
+Álex Barrera,Sporting Gijón,100000.0,2023-06-30 00:00:00,35.0,1991-05-12 00:00:00
+Josan,Elche Club de Fútbol S.A.D.,100000.0,2026-06-30 00:00:00,36.4,1989-12-03 00:00:00
+Roberto Chen,Málaga CF,100000.0,,31.9,1994-05-24 00:00:00
+Sueliton,Rayo Vallecano de Madrid S. A. D.,100000.0,,39.7,1986-08-19 00:00:00
+Xabi Irureta,SD Eibar,100000.0,2023-06-30 00:00:00,40.1,1986-03-21 00:00:00
+Javi Flores,Elche Club de Fútbol S.A.D.,100000.0,,40.2,1986-02-09 00:00:00
+Javi Aparicio,Real Valladolid CF,100000.0,2023-06-30 00:00:00,26.2,2000-03-08 00:00:00
+Marc Pedraza,Real Club Deportivo Mallorca S.A.D.,100000.0,2023-06-30 00:00:00,39.2,1987-02-06 00:00:00
+Txema Añibarro,SD Eibar,100000.0,,46.8,1979-07-26 00:00:00
+Iván Cuéllar,Real Club Deportivo Mallorca S.A.D.,100000.0,2026-06-30 00:00:00,41.9,1984-05-27 00:00:00
+Dani Giménez,Real Betis Balompié S.A.D.,100000.0,,42.8,1983-07-30 00:00:00
+Antonio Rukavina,Villarreal Club de Fútbol S.A.D.,100000.0,,42.3,1984-01-26 00:00:00
+Pol Tristán,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2026-06-30 00:00:00,24.1,2002-03-18 00:00:00
+Rubén Miño,Real Club Deportivo Mallorca S.A.D.,100000.0,2024-06-30 00:00:00,37.3,1989-01-18 00:00:00
+Luis Meseguer,Rayo Vallecano de Madrid S. A. D.,100000.0,2023-06-30 00:00:00,26.7,1999-09-07 00:00:00
+Antonio Amaya,Rayo Vallecano de Madrid S. A. D.,100000.0,,42.9,1983-05-31 00:00:00
+Manu Barreiro,Deportivo Alavés S. A. D.,100000.0,2023-06-30 00:00:00,39.8,1986-07-08 00:00:00
+Carlos Carmona,Sporting Gijón,100000.0,,38.8,1987-07-05 00:00:00
+Aritz Castro,Deportivo Alavés S. A. D.,100000.0,2023-06-30 00:00:00,28.0,1998-05-20 00:00:00
+Abraham González,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2023-05-31 00:00:00,40.8,1985-07-16 00:00:00
+Nino,Elche Club de Fútbol S.A.D.,100000.0,,45.9,1980-06-10 00:00:00
+Asier Riesgo,SD Eibar,100000.0,2023-06-30 00:00:00,42.6,1983-10-06 00:00:00
+Arnau Fàbrega,Granada CF,100000.0,2023-06-30 00:00:00,25.9,2000-06-28 00:00:00
+José Carlos,Córdoba CF,100000.0,,38.8,1987-07-17 00:00:00
+Iván Martínez,Club Atlético Osasuna,100000.0,2023-06-30 00:00:00,24.2,2002-02-19 00:00:00
+Nagore,Levante Unión Deportiva S.A.D.,100000.0,,45.4,1980-12-27 00:00:00
+Mikel González,Real Sociedad de Fútbol S.A.D.,100000.0,2023-05-31 00:00:00,40.6,1985-09-24 00:00:00
+Nauzet Pérez,Club Atlético Osasuna,100000.0,2023-06-30 00:00:00,41.2,1985-03-01 00:00:00
+Abraham del Moral,Villarreal Club de Fútbol S.A.D.,100000.0,2025-06-30 00:00:00,24.8,2001-07-05 00:00:00
+Sergio Garabato,Levante Unión Deportiva S.A.D.,100000.0,,37.0,1989-05-16 00:00:00
+Cheikh Kane Sarr,Granada CF,100000.0,2023-06-30 00:00:00,26.0,2000-04-21 00:00:00
+Alberto Quintana,Real Valladolid CF,100000.0,2024-06-30 00:00:00,24.6,2001-10-05 00:00:00
+Pedro López,SD Huesca,100000.0,,42.5,1983-11-01 00:00:00
+Diego Jiménez,Villarreal Club de Fútbol S.A.D.,100000.0,2024-06-30 00:00:00,34.7,1991-08-11 00:00:00
+Josep Gayá,Real Club Deportivo Mallorca S.A.D.,100000.0,2026-06-30 00:00:00,25.8,2000-07-07 00:00:00
+Javi Navas,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,2024-06-30 00:00:00,34.9,1991-06-02 00:00:00
+Kenneth Soler,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2024-06-30 00:00:00,25.2,2001-02-16 00:00:00
+Javier Flaño,Club Atlético Osasuna,100000.0,,41.7,1984-08-19 00:00:00
+Roman Zozulya,Real Betis Balompié S.A.D.,100000.0,2023-06-30 00:00:00,36.5,1989-11-17 00:00:00
+Xavi Torres,Sporting Gijón,100000.0,2023-06-30 00:00:00,39.5,1986-11-21 00:00:00
+Sergio Mantecón,Elche Club de Fútbol S.A.D.,100000.0,,45.9,1980-06-08 00:00:00
+José Manuel,Levante Unión Deportiva S.A.D.,100000.0,2023-06-30 00:00:00,27.2,1999-02-25 00:00:00
+Vitolo,Club Atlético de Madrid S.A.D.,100000.0,,36.5,1989-11-02 00:00:00
+Javi Castellano,UD Las Palmas,100000.0,2023-06-30 00:00:00,38.5,1987-11-02 00:00:00
+Juanjo Camacho,SD Huesca,100000.0,,45.8,1980-08-02 00:00:00
+Rubén Castro,Real Betis Balompié S.A.D.,100000.0,2023-06-30 00:00:00,44.9,1981-06-27 00:00:00
+Verza,Levante Unión Deportiva S.A.D.,100000.0,,39.6,1986-09-29 00:00:00
+Míchel Herrero,Real Valladolid CF,100000.0,2023-06-30 00:00:00,37.8,1988-07-29 00:00:00
+Mariano Barbosa,Villarreal Club de Fútbol S.A.D.,100000.0,,41.8,1984-07-27 00:00:00
+Momo,UD Las Palmas,100000.0,,43.8,1982-07-15 00:00:00
+Dani Rebollo,Real Betis Balompié S.A.D.,100000.0,2023-06-30 00:00:00,26.4,1999-12-10 00:00:00
+Juan Villar,Club Atlético Osasuna,100000.0,2023-06-30 00:00:00,38.0,1988-05-19 00:00:00
+Javier Paredes,Real Zaragoza,100000.0,,43.8,1982-07-05 00:00:00
+Jordi César,Levante Unión Deportiva S.A.D.,100000.0,2023-06-30 00:00:00,34.1,1992-03-27 00:00:00
+Juan Aguilera,SD Huesca,100000.0,,40.6,1985-09-13 00:00:00
+Aridai Cabrera,Real Club Deportivo Mallorca S.A.D.,100000.0,2023-06-30 00:00:00,37.6,1988-09-26 00:00:00
+Óscar Díaz,UD Almería,100000.0,,42.0,1984-04-24 00:00:00
+Dani Benítez,Granada CF,100000.0,2023-06-30 00:00:00,39.1,1987-04-07 00:00:00
+Iago Domínguez,Real Club Celta de Vigo S. A. D.,100000.0,2023-06-30 00:00:00,24.4,2001-11-22 00:00:00
+Jordi Codina,Getafe Club de Fútbol S. A. D. Team Dubai,100000.0,,44.0,1982-04-27 00:00:00
+Manucho,Rayo Vallecano de Madrid S. A. D.,100000.0,2023-06-30 00:00:00,43.2,1983-03-07 00:00:00
+Mikel Saizar,Córdoba CF,100000.0,,43.3,1983-01-18 00:00:00
+Javier Garrido,UD Las Palmas,100000.0,,41.1,1985-03-15 00:00:00
+Toño,Rayo Vallecano de Madrid S. A. D.,100000.0,,46.4,1979-12-17 00:00:00
+Mario del Campo,CD Leganés,100000.0,,27.3,1999-01-31 00:00:00
+Cristian Galas,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2023-06-30 00:00:00,33.2,1993-02-15 00:00:00
+Joan Rojas,Club Atlético de Madrid S.A.D.,100000.0,2023-06-30 00:00:00,26.3,2000-01-14 00:00:00
+Iñigo López,Córdoba CF,100000.0,,43.8,1982-07-23 00:00:00
+Saúl Berjón,SD Eibar,100000.0,,39.9,1986-05-24 00:00:00
+Víctor Ibáñez,UD Almería,100000.0,2024-01-31 00:00:00,37.0,1989-04-21 00:00:00
+Alberto de la Bella,Real Sociedad de Fútbol S.A.D.,100000.0,,40.4,1985-12-02 00:00:00
+Hernán Pérez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,,37.2,1989-02-25 00:00:00
+Fernando Amorebieta,Sporting Gijón,100000.0,,41.1,1985-03-29 00:00:00
+Diego Moreno,Real Valladolid CF,100000.0,,24.3,2002-01-18 00:00:00
+Matías Aguirregaray,UD Las Palmas,100000.0,2023-12-31 00:00:00,37.1,1989-04-01 00:00:00
+Alejandro Pérez,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,2025-06-30 00:00:00,25.3,2001-01-07 00:00:00
+Juan Flere,Cádiz CF,100000.0,2023-06-30 00:00:00,28.0,1998-05-12 00:00:00
+Raúl Goni,Real Zaragoza,100000.0,,37.6,1988-10-12 00:00:00
+Marcos Angeleri,Málaga CF,75000.0,,43.1,1983-04-07 00:00:00
+Abdelkader Oueslati,Club Atlético de Madrid S.A.D.,75000.0,,34.6,1991-10-07 00:00:00
+Chengdong Zhang,Rayo Vallecano de Madrid S. A. D.,75000.0,2023-12-31 00:00:00,37.2,1989-02-09 00:00:00
+Roman Tugarinov,Reial Club Deportiu Espanyol de Barcelona S.A.D.,75000.0,,26.5,1999-10-20 00:00:00
+Pablo Hernández,Real Club Celta de Vigo S. A. D.,75000.0,2023-06-30 00:00:00,39.5,1986-10-24 00:00:00
+Iker Hernández,Real Sociedad de Fútbol S.A.D.,75000.0,2023-06-30 00:00:00,32.1,1994-04-08 00:00:00
+Jonás Gutiérrez,Deportivo de La Coruña,75000.0,,42.8,1983-07-05 00:00:00
+Jonathan Nanizayamo,Real Sociedad de Fútbol S.A.D.,75000.0,,34.2,1992-02-21 00:00:00
+Omar Ramos,CD Leganés,75000.0,,38.3,1988-01-26 00:00:00
+Paulão,Real Betis Balompié S.A.D.,75000.0,,43.7,1982-08-06 00:00:00
+Pedro Martínez,Villarreal Club de Fútbol S.A.D.,75000.0,,30.2,1996-02-09 00:00:00
+Imanol Elías,Club Atlético Osasuna,50000.0,,35.7,1990-08-17 00:00:00
+Carlos García,Real Betis Balompié S.A.D.,50000.0,2024-06-30 00:00:00,32.6,1993-09-17 00:00:00
+Papa Ba,Girona Fútbol Club S. A. D.,50000.0,2026-06-30 00:00:00,22.0,2004-04-19 00:00:00
+Diego Ferrer,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2027-06-30 00:00:00,19.0,2007-04-17 00:00:00
+Momar Ndoye,Club Atlético de Madrid S.A.D.,50000.0,,34.2,1992-03-10 00:00:00
+Junior Bita,Athletic Club Bilbao,50000.0,2025-06-30 00:00:00,20.9,2005-06-08 00:00:00
+Hugo Solozábal,CD Leganés,50000.0,2026-06-30 00:00:00,23.2,2003-02-07 00:00:00
+Alexander Szymanowski,CD Leganés,50000.0,2023-06-30 00:00:00,37.6,1988-10-13 00:00:00
+Juanan Entrena,Granada CF,50000.0,2023-06-30 00:00:00,30.0,1996-05-19 00:00:00
+Sebas Wade,Real Club Deportivo Mallorca S.A.D.,50000.0,2028-06-30 00:00:00,23.1,2003-04-09 00:00:00
+Dennis Díaz,Sporting Gijón,50000.0,2023-06-30 00:00:00,33.7,1992-08-08 00:00:00
+Uche,Real Club Deportivo Mallorca S.A.D.,50000.0,,34.9,1991-06-03 00:00:00
+Charlie Took,UD Almería,50000.0,2023-06-30 00:00:00,32.9,1993-05-25 00:00:00
+Marcos Fernández,Real Club Deportivo Mallorca S.A.D.,50000.0,2026-06-30 00:00:00,22.8,2003-07-17 00:00:00
+Jorge Morcillo,Rayo Vallecano de Madrid S. A. D.,50000.0,2023-06-30 00:00:00,40.2,1986-03-11 00:00:00
+Eneko Eizmendi,Real Betis Balompié S.A.D.,50000.0,,35.9,1990-06-10 00:00:00
+Borja Vázquez,Cádiz CF,50000.0,2026-06-30 00:00:00,21.3,2005-01-18 00:00:00
+Braian Rodríguez,Real Betis Balompié S.A.D.,50000.0,,39.7,1986-08-14 00:00:00
+Adrián Ramos,Granada CF,50000.0,2023-12-31 00:00:00,40.3,1986-01-22 00:00:00
+Lluc Matas,Girona Fútbol Club S. A. D.,50000.0,2023-06-30 00:00:00,24.3,2002-01-01 00:00:00
+Rajko Brezancic,SD Huesca,50000.0,2023-06-30 00:00:00,36.7,1989-08-21 00:00:00
+Juan Arango,Girona Fútbol Club S. A. D.,50000.0,2028-06-30 00:00:00,19.9,2006-06-27 00:00:00
+Toño,Real Sociedad de Fútbol S.A.D.,50000.0,2023-06-30 00:00:00,39.4,1986-11-23 00:00:00
+Wilson Cuero,Granada CF,50000.0,2024-06-30 00:00:00,34.3,1992-01-27 00:00:00
+Albert Blázquez,Villarreal Club de Fútbol S.A.D.,50000.0,2024-06-30 00:00:00,34.3,1992-01-21 00:00:00
+Jordi Xumetra,Levante Unión Deportiva S.A.D.,50000.0,2023-06-30 00:00:00,40.5,1985-10-24 00:00:00
+Juanma Ortiz,Granada CF,50000.0,,44.2,1982-03-01 00:00:00
+Maurizio Lanzaro,Real Zaragoza,50000.0,,44.1,1982-03-14 00:00:00
+Edu Oriol,Real Zaragoza,50000.0,2024-06-30 00:00:00,39.5,1986-11-05 00:00:00
+Pablo Muñoz,Rayo Vallecano de Madrid S. A. D.,50000.0,2025-06-30 00:00:00,22.7,2003-09-04 00:00:00
+Rubén Quintanilla,Real Club Deportivo Mallorca S.A.D.,50000.0,2025-06-30 00:00:00,24.1,2002-04-03 00:00:00
+Eghosa Bello,Granada CF,50000.0,2027-06-30 00:00:00,22.1,2004-03-17 00:00:00
+Manu Cocca,Elche Club de Fútbol S.A.D.,50000.0,2023-06-30 00:00:00,23.5,2002-11-08 00:00:00
+Eloi Amagat,Girona Fútbol Club S. A. D.,50000.0,2023-06-30 00:00:00,41.0,1985-05-21 00:00:00
+Javi Jiménez,Levante Unión Deportiva S.A.D.,50000.0,2024-06-30 00:00:00,38.9,1987-06-08 00:00:00
+Xisco Campos,Real Club Deportivo Mallorca S.A.D.,50000.0,,44.2,1982-03-10 00:00:00
+Sergio Rodríguez,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,33.7,1992-09-07 00:00:00
+Guillem Trilla,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2026-06-30 00:00:00,23.2,2003-02-04 00:00:00
+Manu Herrera,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,44.6,1981-09-29 00:00:00
+David Gómez,Deportivo de La Coruña,50000.0,2023-06-30 00:00:00,32.1,1994-04-11 00:00:00
+Javi Álamo,Club Atlético Osasuna,50000.0,,37.7,1988-08-18 00:00:00
+Yassin Tallal,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2026-06-30 00:00:00,21.2,2005-03-03 00:00:00
+Javi Moyano,Real Valladolid CF,50000.0,2023-06-30 00:00:00,40.2,1986-02-23 00:00:00
+Martín Mantovani,SD Huesca,50000.0,,41.8,1984-07-07 00:00:00
+Curro Muñoz,Cádiz CF,50000.0,2023-06-30 00:00:00,23.3,2003-01-07 00:00:00
+Elías Romero,UD Las Palmas,50000.0,2026-06-30 00:00:00,22.0,2004-05-11 00:00:00
+Carles Garrido,Girona Fútbol Club S. A. D.,50000.0,2028-06-30 00:00:00,21.6,2004-10-04 00:00:00
+Álex Bergantiños,Deportivo de La Coruña,50000.0,2023-06-30 00:00:00,40.9,1985-06-07 00:00:00
+Sergio Mestre,Real Madrid Club de Fútbol,50000.0,2028-06-30 00:00:00,21.2,2005-02-13 00:00:00
+Álvaro Cejudo,Real Betis Balompié S.A.D.,50000.0,,42.3,1984-01-29 00:00:00
+Fran González,Real Zaragoza,50000.0,,37.3,1989-02-01 00:00:00
+Sergio Camus,Club Atlético de Madrid S.A.D.,50000.0,,29.0,1997-04-19 00:00:00
+Ander Bardají,SD Huesca,50000.0,,31.0,1995-05-03 00:00:00
+Biel Farrés,Girona Fútbol Club S. A. D.,50000.0,2023-06-30 00:00:00,24.0,2002-05-01 00:00:00
+Gori,Reial Club Deportiu Espanyol de Barcelona S.A.D.,50000.0,2024-06-30 00:00:00,24.0,2002-05-15 00:00:00
+Sergio Arribas,CD Leganés,50000.0,2023-06-30 00:00:00,30.8,1995-07-07 00:00:00
+Ekhi Bravo,SD Eibar,50000.0,2023-06-30 00:00:00,28.4,1997-11-30 00:00:00
+Iker Recio,Rayo Vallecano de Madrid S. A. D.,50000.0,2023-06-30 00:00:00,24.9,2001-06-17 00:00:00
+José Carlos Sánchez,Málaga CF,50000.0,2023-06-30 00:00:00,27.7,1998-08-24 00:00:00
+Jesús Rodríguez,Granada CF,50000.0,2023-06-30 00:00:00,28.2,1998-02-11 00:00:00
+Cata Díaz,Club Atlético de Madrid S.A.D.,50000.0,,46.8,1979-07-13 00:00:00
+Julen Bernaola,Athletic Club Bilbao,50000.0,2023-06-30 00:00:00,27.0,1999-04-29 00:00:00
+Marius Herzig,Sevilla Fútbol Club S.A.D.,50000.0,2023-06-30 00:00:00,26.4,1999-12-17 00:00:00
+Luis Castillo,Elche Club de Fútbol S.A.D.,50000.0,,26.3,2000-01-31 00:00:00
+David García,UD Las Palmas,50000.0,2023-06-30 00:00:00,44.2,1982-02-25 00:00:00
+Geovanni Barba,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,25.0,2001-05-17 00:00:00
+Miguelito,Real Club Deportivo Mallorca S.A.D.,50000.0,2026-06-30 00:00:00,25.3,2001-01-12 00:00:00
+Sulley Muntari,Deportivo de La Coruña,50000.0,,41.7,1984-08-27 00:00:00
+Pablo Gálvez,Real Club Deportivo Mallorca S.A.D.,50000.0,2023-06-30 00:00:00,24.5,2001-10-30 00:00:00
+Federico Piovaccari,SD Eibar,50000.0,2023-06-30 00:00:00,41.7,1984-09-01 00:00:00
+Francis Guerrero,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,30.1,1996-03-11 00:00:00
+Casto,Real Betis Balompié S.A.D.,50000.0,,43.9,1982-06-18 00:00:00
+Gustavo Quezada,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2023-06-30 00:00:00,29.1,1997-04-06 00:00:00
+Bolaño,UD Almería,50000.0,,40.6,1985-10-15 00:00:00
+Pere García,Real Club Deportivo Mallorca S.A.D.,50000.0,2026-06-30 00:00:00,24.1,2002-03-22 00:00:00
+Pablo Lombo,CD Leganés,50000.0,2023-06-30 00:00:00,26.9,1999-05-24 00:00:00
+Alejandro Alfaro,Elche Club de Fútbol S.A.D.,50000.0,2023-06-30 00:00:00,23.9,2002-06-15 00:00:00
+Blas Alonso,Deportivo de La Coruña,50000.0,2023-06-30 00:00:00,29.2,1997-02-08 00:00:00
+Gabriel Peñalba,UD Las Palmas,50000.0,,41.6,1984-09-23 00:00:00
+Joan Verdú,Levante Unión Deportiva S.A.D.,50000.0,,43.0,1983-05-05 00:00:00
+Abel Gómez,Córdoba CF,50000.0,,44.2,1982-02-20 00:00:00
+Pedro Ríos,Levante Unión Deportiva S.A.D.,50000.0,,44.4,1981-12-12 00:00:00
+Fer Rodríguez,CD Leganés,50000.0,,23.5,2002-11-06 00:00:00
+Haris Medunjanin,Deportivo de La Coruña,50000.0,2023-06-30 00:00:00,41.2,1985-03-08 00:00:00
+Marcel Lizak,Girona Fútbol Club S. A. D.,50000.0,2023-06-30 00:00:00,29.8,1996-07-15 00:00:00
+Ferrán Corominas,Elche Club de Fútbol S.A.D.,50000.0,,43.3,1983-01-05 00:00:00
+Jaime Garijo,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,26.9,1999-06-06 00:00:00
+Javier Almerge,SD Huesca,50000.0,2023-06-30 00:00:00,25.2,2001-02-28 00:00:00
+Valdet Rama,Real Valladolid CF,50000.0,,38.5,1987-11-20 00:00:00
+Roberto Santamaría,SD Huesca,50000.0,2023-06-30 00:00:00,41.2,1985-02-27 00:00:00
+Adrián Tellado,Real Betis Balompié S.A.D.,50000.0,,27.2,1999-02-05 00:00:00
+Xisco,Córdoba CF,50000.0,2023-06-30 00:00:00,39.9,1986-06-26 00:00:00
+Alex Rodríguez,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2023-06-30 00:00:00,24.1,2002-03-21 00:00:00
+Óscar Castro,Club Atlético de Madrid S.A.D.,50000.0,2023-06-30 00:00:00,24.9,2001-06-20 00:00:00
+Javi Acuña,Club Atlético Osasuna,50000.0,,37.9,1988-06-23 00:00:00
+Sergio Gimeno,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,,24.9,2001-05-25 00:00:00
+Pablo Muñoz,Real Valladolid CF,50000.0,2023-06-30 00:00:00,26.4,1999-12-19 00:00:00
+José Manuel Irizo,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,28.3,1998-01-29 00:00:00
+Víctor Casadesús,Levante Unión Deportiva S.A.D.,50000.0,2023-06-30 00:00:00,41.2,1985-02-28 00:00:00
+Juanpe Navarro,Elche Club de Fútbol S.A.D.,50000.0,,27.7,1998-08-21 00:00:00
+Jonathan Vila,Real Club Celta de Vigo S. A. D.,50000.0,,40.2,1986-03-06 00:00:00
+Dejan Lekic,SD Eibar,50000.0,,40.9,1985-06-07 00:00:00
+Toché,Deportivo de La Coruña,50000.0,,43.3,1983-01-01 00:00:00
+Arona Sané,Club Atlético de Madrid S.A.D.,50000.0,2023-06-30 00:00:00,30.9,1995-06-21 00:00:00
+Sergi González,Club Atlético de Madrid S.A.D.,50000.0,2023-06-30 00:00:00,30.9,1995-05-26 00:00:00
+Germán Lux,Deportivo de La Coruña,50000.0,,43.8,1982-07-06 00:00:00
+Stéphane Serbourdin,UD Las Palmas,50000.0,2023-06-30 00:00:00,31.0,1995-05-18 00:00:00
+Ángel Galván,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,,33.1,1993-04-16 00:00:00
+Adrián Saballs,Rayo Vallecano de Madrid S. A. D.,50000.0,,30.8,1995-07-07 00:00:00
+Samuel Villa,Club Atlético de Madrid S.A.D.,50000.0,,31.6,1994-09-16 00:00:00
+Mario Fernández,Club Atlético Osasuna,50000.0,2023-06-30 00:00:00,38.0,1988-04-30 00:00:00
+Diego Altamirano,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,29.1,1997-03-13 00:00:00
+Asier Etxaburu,SD Eibar,50000.0,2023-06-30 00:00:00,32.1,1994-04-07 00:00:00
+Pedro Astray,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2023-06-30 00:00:00,34.1,1992-03-18 00:00:00
+Diego Piñeiro,Real Madrid Club de Fútbol,50000.0,2025-06-30 00:00:00,22.2,2004-02-13 00:00:00
+David Barral,Granada CF,50000.0,,43.0,1983-05-10 00:00:00
+Edu Payá,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,,33.6,1992-09-21 00:00:00
+Nando Almodóvar,Cádiz CF,50000.0,2026-06-30 00:00:00,22.5,2003-11-03 00:00:00
+Diego Méndez,Rayo Vallecano de Madrid S. A. D.,50000.0,2026-06-30 00:00:00,22.7,2003-08-29 00:00:00
+Cristian Bustos,Real Club Celta de Vigo S. A. D.,50000.0,,42.9,1983-05-29 00:00:00
+Burgui,Deportivo Alavés S. A. D.,50000.0,2023-06-30 00:00:00,32.5,1993-10-29 00:00:00
+Sebas Coris,Girona Fútbol Club S. A. D.,50000.0,2023-06-30 00:00:00,32.9,1993-05-31 00:00:00
+Ferran Monzó,Reial Club Deportiu Espanyol de Barcelona S.A.D.,50000.0,,33.4,1992-12-06 00:00:00
+Edu Albacar,Elche Club de Fútbol S.A.D.,50000.0,,46.5,1979-11-16 00:00:00
+Jesús Rueda,Real Valladolid CF,50000.0,2024-06-30 00:00:00,39.2,1987-02-19 00:00:00
+Asdrúbal Padrón,UD Las Palmas,50000.0,2023-06-30 00:00:00,35.1,1991-03-13 00:00:00
+Jesús Vázquez,Deportivo de La Coruña,50000.0,,46.3,1980-01-18 00:00:00
+Héctor Pizana,Valencia Club de Fútbol S. A. D.,50000.0,2023-06-30 00:00:00,31.2,1995-02-07 00:00:00
+Lucas Wilchez,Real Zaragoza,50000.0,,42.5,1983-10-31 00:00:00
+Júlio César,Getafe Club de Fútbol S. A. D. Team Dubai,50000.0,2023-12-31 00:00:00,39.7,1986-09-02 00:00:00
+Yoel Ramírez,Club Atlético Osasuna,50000.0,2024-06-30 00:00:00,24.2,2002-02-05 00:00:00
+Dani Ndi,Sporting Gijón,50000.0,,30.7,1995-08-18 00:00:00
+Ibra Cámara,Club Atlético de Madrid S.A.D.,50000.0,2023-06-30 00:00:00,23.3,2003-01-18 00:00:00
+Juan Moreno,Club Atlético de Madrid S.A.D.,50000.0,2023-06-30 00:00:00,29.0,1997-05-11 00:00:00
+Lluis Sastre,SD Huesca,50000.0,,40.1,1986-03-26 00:00:00
+Nacho Uche,SD Huesca,50000.0,2023-06-30 00:00:00,26.8,1999-07-03 00:00:00
+Rafa Romero,Sevilla Fútbol Club S.A.D.,50000.0,2027-06-30 00:00:00,22.7,2003-08-07 00:00:00
+Nil Garrido,Real Betis Balompié S.A.D.,50000.0,2023-06-30 00:00:00,25.1,2001-03-26 00:00:00
+Nano,Club Atlético Osasuna,50000.0,,44.0,1982-04-20 00:00:00
+Jesús Pozo,Real Betis Balompié S.A.D.,50000.0,2024-06-30 00:00:00,31.1,1995-03-24 00:00:00
+Iker Bachiller,CD Leganés,25000.0,2026-06-30 00:00:00,23.6,2002-09-14 00:00:00
+Charlie Pérez,Valencia Club de Fútbol S. A. D.,25000.0,,23.9,2002-06-07 00:00:00
+Raúl Martínez,Girona Fútbol Club S. A. D.,25000.0,2026-06-30 00:00:00,24.2,2002-02-23 00:00:00
+Jorge Benito,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2027-06-30 00:00:00,19.9,2006-06-06 00:00:00
+Josito González,UD Las Palmas,25000.0,2027-06-30 00:00:00,20.1,2006-03-27 00:00:00
+Diego Martín,UD Las Palmas,25000.0,2026-06-30 00:00:00,22.7,2003-08-13 00:00:00
+Álex Revuelta,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2024-06-30 00:00:00,26.1,2000-04-16 00:00:00
+Arturo Rodríguez,UD Las Palmas,25000.0,2028-06-30 00:00:00,19.7,2006-08-05 00:00:00
+Ferran Ruiz,Girona Fútbol Club S. A. D.,25000.0,2026-06-30 00:00:00,23.0,2003-04-26 00:00:00
+Alejandro Herranz,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2025-06-30 00:00:00,21.4,2004-11-26 00:00:00
+Sergio Lozano,Rayo Vallecano de Madrid S. A. D.,25000.0,2027-06-30 00:00:00,20.1,2006-03-30 00:00:00
+Carles Marco,Elche Club de Fútbol S.A.D.,25000.0,2023-06-30 00:00:00,26.1,2000-04-05 00:00:00
+Sebastián Fernández,Rayo Vallecano de Madrid S. A. D.,25000.0,2023-12-31 00:00:00,41.0,1985-05-23 00:00:00
+Carlos León,Granada CF,25000.0,,23.4,2002-12-05 00:00:00
+Hernán Pellerano,UD Almería,25000.0,2023-12-31 00:00:00,41.9,1984-06-04 00:00:00
+Javi Navarro,Valencia Club de Fútbol S. A. D.,25000.0,2025-06-30 00:00:00,22.2,2004-02-24 00:00:00
+Manu Navarro,Rayo Vallecano de Madrid S. A. D.,25000.0,2023-06-30 00:00:00,25.6,2000-10-09 00:00:00
+Chechu Dorado,Rayo Vallecano de Madrid S. A. D.,25000.0,2023-06-30 00:00:00,43.8,1982-07-10 00:00:00
+Gerard Barri,Elche Club de Fútbol S.A.D.,25000.0,2023-06-30 00:00:00,25.3,2001-01-02 00:00:00
+Sergio Viera,UD Las Palmas,25000.0,2026-06-30 00:00:00,21.0,2005-05-08 00:00:00
+Marc Carmona,Real Club Deportivo Mallorca S.A.D.,25000.0,,25.3,2001-01-08 00:00:00
+Sergio Ruiz,UD Las Palmas,25000.0,2026-06-30 00:00:00,20.1,2006-04-12 00:00:00
+Sergio Bono,Elche Club de Fútbol S.A.D.,25000.0,2024-06-30 00:00:00,25.8,2000-07-24 00:00:00
+Moha Ramos,Real Madrid Club de Fútbol,25000.0,2023-06-30 00:00:00,26.1,2000-04-13 00:00:00
+Lluis Andreu,Elche Club de Fútbol S.A.D.,25000.0,2023-06-30 00:00:00,26.8,1999-07-27 00:00:00
+Chory Castro,Málaga CF,25000.0,2023-12-31 00:00:00,41.6,1984-09-14 00:00:00
+Álvaro López,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2023-06-30 00:00:00,26.9,1999-06-07 00:00:00
+Javi Gasca,SD Huesca,25000.0,,26.2,2000-02-24 00:00:00
+Philtzgerald Mbaka,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,,33.3,1993-01-24 00:00:00
+Gorka Magunazelaia,Athletic Club Bilbao,25000.0,2024-06-30 00:00:00,34.2,1992-03-02 00:00:00
+Moi Parra,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2023-06-30 00:00:00,23.9,2002-06-24 00:00:00
+Pepelu Vidal,Real Betis Balompié S.A.D.,25000.0,2023-06-30 00:00:00,30.7,1995-08-27 00:00:00
+Gustavo Abizanda,SD Huesca,25000.0,2023-06-30 00:00:00,26.0,2000-05-01 00:00:00
+Chinchu,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2023-06-30 00:00:00,24.2,2002-03-05 00:00:00
+Álvaro Aguirre,Rayo Vallecano de Madrid S. A. D.,25000.0,2023-06-30 00:00:00,26.3,2000-02-03 00:00:00
+Alejandro Asensio,Rayo Vallecano de Madrid S. A. D.,25000.0,2023-06-30 00:00:00,25.6,2000-09-14 00:00:00
+Gabri Salazar,CD Leganés,25000.0,2023-06-30 00:00:00,29.9,1996-06-18 00:00:00
+Luis Montiel,Real Club Deportivo Mallorca S.A.D.,25000.0,2023-06-30 00:00:00,22.3,2004-01-19 00:00:00
+Yadam Santana,UD Las Palmas,25000.0,,24.1,2002-03-14 00:00:00
+Rafa Fernández,Club Atlético Osasuna,25000.0,2027-06-30 00:00:00,22.0,2004-05-02 00:00:00
+Piri,CD Leganés,25000.0,2026-06-30 00:00:00,22.8,2003-07-10 00:00:00
+Juan Albín,Reial Club Deportiu Espanyol de Barcelona S.A.D.,25000.0,,39.8,1986-07-17 00:00:00
+Íñigo Barrenetxea,SD Eibar,25000.0,2023-06-30 00:00:00,32.3,1994-01-10 00:00:00
+Vicente Bellmunt,Getafe Club de Fútbol S. A. D. Team Dubai,25000.0,2023-06-30 00:00:00,26.3,2000-01-28 00:00:00
+Benito Del Valle,UD Las Palmas,25000.0,2023-06-30 00:00:00,29.2,1997-02-10 00:00:00
+José María López Silva,Córdoba CF,25000.0,2023-06-30 00:00:00,43.3,1983-01-02 00:00:00
+Youssouf Yalike,Levante Unión Deportiva S.A.D.,25000.0,2023-06-30 00:00:00,27.3,1999-01-17 00:00:00
+Adrián Quintela,Rayo Vallecano de Madrid S. A. D.,25000.0,2023-06-30 00:00:00,25.1,2001-03-11 00:00:00
+Fran López,Real Club Celta de Vigo S. A. D.,25000.0,2023-06-30 00:00:00,24.3,2002-01-24 00:00:00
+Adrián González,Sevilla Fútbol Club S.A.D.,25000.0,2023-06-30 00:00:00,26.1,2000-03-20 00:00:00
+Leandro Montagud,Levante Unión Deportiva S.A.D.,25000.0,2024-06-30 00:00:00,37.2,1989-02-28 00:00:00
+Germán García,Real Betis Balompié S.A.D.,25000.0,2026-06-30 00:00:00,22.3,2004-02-01 00:00:00
+José Hualde,Club Atlético Osasuna,25000.0,2023-06-30 00:00:00,28.0,1998-04-28 00:00:00
+Kalu Uche,Levante Unión Deportiva S.A.D.,25000.0,,43.5,1982-11-15 00:00:00
+Jorge Pesca,Real Valladolid CF,25000.0,2024-06-30 00:00:00,34.0,1992-04-24 00:00:00
+Luso,Córdoba CF,25000.0,2023-06-30 00:00:00,41.4,1984-12-04 00:00:00
+Abraham Minero,SD Eibar,25000.0,,40.2,1986-02-22 00:00:00
+Christian Gómez,Club Atlético de Madrid S.A.D.,25000.0,2023-06-30 00:00:00,26.0,2000-05-18 00:00:00
+Antolín Alcaraz,UD Las Palmas,25000.0,,43.8,1982-07-30 00:00:00
+Zé Castro,Rayo Vallecano de Madrid S. A. D.,25000.0,,43.3,1983-01-13 00:00:00
+Jurado,Málaga CF,10000.0,2023-06-30 00:00:00,36.1,1990-03-14 00:00:00
+Jon Echaide,Club Atlético Osasuna,10000.0,,38.3,1988-01-05 00:00:00
+Nereo Champagne,CD Leganés,10000.0,2023-12-31 00:00:00,41.3,1985-01-20 00:00:00
