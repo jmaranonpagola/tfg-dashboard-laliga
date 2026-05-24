@@ -3462,7 +3462,9 @@ def overview_tab(df: pd.DataFrame) -> None:
             color="role",
             title="Distribución de impacto global",
             color_discrete_sequence=px.colors.qualitative.Set2,
+            barmode="group",
         )
+        fig.update_layout(bargap=0.08, bargroupgap=0.02)
         st.plotly_chart(fig, width="stretch")
 
     top_cols = existing_columns(
